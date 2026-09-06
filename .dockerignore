@@ -1,0 +1,31 @@
+# Version control / editor / OS cruft
+.git/
+.github/
+.gitignore
+.vscode/
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Secrets — never bake into an image; pass via env_file/-e at run time
+.env
+
+# Local-only artifacts not needed inside the image
+*.wav
+models/
+artefacts/
+eval/results/
+scripts/samples/
+scripts/archive/
+
+# Docker meta-files themselves
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Docs not needed at runtime (kept out of the build context, not the repo)
+README.md
+STREAMLINED_PIPELINE_CONTEXT.md

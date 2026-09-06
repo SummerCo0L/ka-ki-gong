@@ -105,7 +105,7 @@ from pipecat.turns.user_stop import (
 )
 from pipecat.turns.user_turn_strategies import UserTurnStrategies
 
-from processors.retrieval_tool import format_evidence_block, make_search_senior_support_tool
+from processors.retrieval_tool import format_evidence_block
 from processors.sso_tool import make_find_nearest_sso_tool
 from processors.chinese_renderer import ChineseRenderer
 from retrieval.embeddings import OpenRouterEmbeddingClient
@@ -341,7 +341,7 @@ async def run_bot(transport: BaseTransport, runner_args: RunnerArguments):
     )
 
     # --- Local retrieval over the curated SupportGoWhere knowledge base ---------
-    # Retrieval-first policy (STREAMLINED_PIPELINE_CONTEXT.md section 2/8): evidence
+    # Retrieval-first policy (STREAMLINED_PIPELINE_CONTEXT.md section 2): evidence
     # is fetched deterministically for every user turn (see
     # `_update_retrieval_evidence` below) rather than via LLM tool calling, so the
     # grounded-answer call never depends on gpt-oss-120b successfully emitting a
@@ -351,7 +351,6 @@ async def run_bot(transport: BaseTransport, runner_args: RunnerArguments):
     retrieval_min_score = _env_float("RETRIEVAL_MIN_SCORE", 0.0)
     retrieval_alpha = _env_float("RETRIEVAL_HYBRID_ALPHA", 0.7)
     retrieval_context_window_turns = _env_int("RETRIEVAL_CONTEXT_WINDOW_TURNS", 6)
-    enable_llm_retrieval_tool = _env_bool("ENABLE_LLM_RETRIEVAL_TOOL", False)
     enable_sso_lookup_tool = _env_bool("ENABLE_SSO_LOOKUP_TOOL", True)
 
     reranker_model = (os.getenv("RERANKER_MODEL") or "").strip() or None
@@ -401,24 +400,6 @@ async def run_bot(transport: BaseTransport, runner_args: RunnerArguments):
     )
 
     tools = []
-    if enable_llm_retrieval_tool and scheme_index is not None:
-        tools.append(
-            make_search_senior_support_tool(
-                scheme_index,
-                embed_client,
-                top_k=retrieval_top_k,
-                min_score=retrieval_min_score,
-                alpha=retrieval_alpha,
-            )
-        )
-        logger.warning(
-            "ENABLE_LLM_RETRIEVAL_TOOL=true: follow-up tool calling is enabled on "
-            "openai/gpt-oss-120b via OpenRouter. This model has a documented "
-            "broken-streaming-tool-call issue on at least one OpenRouter upstream "
-            "provider (see processors/retrieval_tool.py). Deterministic per-turn "
-            "retrieval remains active regardless of this setting."
-        )
-
     if enable_sso_lookup_tool:
         sso_locations_path = _PROJECT_ROOT / os.getenv(
             "SSO_LOCATIONS_FILE", "knowledge_base/social_service_offices/sso_locations.json"
@@ -430,8 +411,8 @@ async def run_bot(transport: BaseTransport, runner_args: RunnerArguments):
             "ENABLE_SSO_LOOKUP_TOOL=true: follow-up tool calling is enabled on "
             "openai/gpt-oss-120b via OpenRouter, which has a documented "
             "broken-streaming-tool-call issue on at least one OpenRouter upstream "
-            "provider (see processors/retrieval_tool.py). Set ENABLE_SSO_LOOKUP_TOOL=false "
-            "if find_nearest_sso calls fail to stream correctly."
+            "provider. Set ENABLE_SSO_LOOKUP_TOOL=false if find_nearest_sso calls "
+            "fail to stream correctly."
         )
 
     context = LLMContext(tools=tools) if tools else LLMContext()

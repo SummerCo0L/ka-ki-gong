@@ -66,7 +66,9 @@ English query
 → grounded answer
 ```
 
-Function calling can remain available for follow-up turns where the LLM decides that it needs to search again.
+Deterministic retrieval re-runs before every turn (see section 8), so
+follow-up questions requiring new evidence are covered without an LLM-
+initiated search call.
 
 ### Expected inference calls for a normal initial question
 
@@ -175,7 +177,6 @@ Use gpt-oss-120b for:
 - Interpreting retrieved scheme evidence
 - Producing a short, grounded English answer
 - Asking a concise clarification question when the user's request is ambiguous
-- Optional function calling for follow-up retrieval
 
 Do not use gpt-oss-120b for inbound speech translation.
 
@@ -435,47 +436,13 @@ Synthetic `example_needs` should be clearly identified as author-created retriev
 
 ## 8. Retrieval Function
 
-Expose one optional LLM tool:
-
-```text
-search_senior_support
-```
-
-Suggested signature:
-
-```python
-async def search_senior_support(
-    params,
-    query: str,
-    category: str | None = None,
-):
-    """Search verified Singapore senior-support scheme records.
-
-    Args:
-        query: A concise English description of the user's support need.
-        category: Optional category such as healthcare, caregiving,
-            mobility, financial_support, or long_term_care.
-    """
-```
-
-Suggested tool result:
-
-```json
-{
-  "results": [
-    {
-      "scheme_id": "long-term-care-subsidies",
-      "title": "Long-Term Care Subsidies",
-      "relevant_passage": "...",
-      "application_steps": ["..."],
-      "source_url": "https://supportgowhere.life.gov.sg/...",
-      "source_updated_at": "YYYY-MM-DD",
-      "retrieval_score": 0.89
-    }
-  ],
-  "retrieval_confident": true
-}
-```
+An earlier design considered exposing an optional LLM-callable
+`search_senior_support` tool for follow-up questions. This was implemented,
+then removed: deterministic per-turn retrieval (section 2) already runs
+before every LLM call, windowed over recent user turns, and covers the
+follow-up case without depending on the LLM successfully emitting a tool
+call — which carried the same OpenRouter/gpt-oss-120b broken-streaming-tool-
+call risk documented for `find_nearest_sso` (section 3.4).
 
 ### Initial-turn policy
 
@@ -483,20 +450,9 @@ Automatically retrieve for the initial substantive support question. This usuall
 
 ### Follow-up policy
 
-The LLM may call the search function for follow-up questions requiring new evidence. It should not call the tool for:
-
-- Please repeat
-- Speak more slowly
-- Thank you
-- I meant my mother, not my wife
-
-It should ask a clarification question before searching when the request is too vague, such as:
-
-```text
-I need money.
-My mother needs help.
-The medical one.
-```
+Deterministic retrieval re-runs on every turn (see section 2), windowed over
+recent user turns, so follow-up questions requiring new evidence are covered
+without an LLM-initiated search call.
 
 ---
 
@@ -1017,7 +973,6 @@ The coding agent may simplify this structure if appropriate, but it should prese
 ### Nice to have
 
 - Original Hokkien transcript displayed alongside English translation
-- Function calling on follow-up turns
 - Sentence-level output streaming
 - User correction of translated text
 - Multi-turn profile collection

@@ -3568,17 +3568,21 @@ name = "pipecat-quickstart"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
-    { name = "huggingface-hub", extra = ["hf-xet"] },
     { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
     { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version == '3.11.*'" },
     { name = "numpy", version = "2.5.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
-    { name = "omnivoice" },
     { name = "pipecat-ai", version = "0.0.108", source = { registry = "https://pypi.org/simple" }, extra = ["daily"], marker = "python_full_version < '3.11' and sys_platform != 'win32'" },
     { name = "pipecat-ai", version = "0.0.108", source = { registry = "https://pypi.org/simple" }, extra = ["openai", "runner", "webrtc", "whisper"], marker = "python_full_version < '3.11'" },
     { name = "pipecat-ai", version = "1.8.1", source = { registry = "https://pypi.org/simple" }, extra = ["daily"], marker = "python_full_version >= '3.11' and sys_platform != 'win32'" },
     { name = "pipecat-ai", version = "1.8.1", source = { registry = "https://pypi.org/simple" }, extra = ["runner", "webrtc", "whisper"], marker = "python_full_version >= '3.11'" },
     { name = "pipecat-ai-cli", version = "0.3.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
     { name = "pipecat-ai-cli", version = "1.3.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
+]
+
+[package.optional-dependencies]
+archive-hokkien-tts = [
+    { name = "huggingface-hub", extra = ["hf-xet"] },
+    { name = "omnivoice" },
     { name = "soundfile" },
     { name = "torch" },
     { name = "torchaudio" },
@@ -3592,16 +3596,17 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "huggingface-hub", extras = ["hf-xet"], specifier = ">=0.17.0" },
+    { name = "huggingface-hub", extras = ["hf-xet"], marker = "extra == 'archive-hokkien-tts'", specifier = ">=0.17.0" },
     { name = "numpy", specifier = ">=1.24.0" },
-    { name = "omnivoice", specifier = ">=0.2.1" },
+    { name = "omnivoice", marker = "extra == 'archive-hokkien-tts'", specifier = ">=0.2.1" },
     { name = "pipecat-ai", extras = ["webrtc", "daily", "whisper", "silero", "openai", "runner"], marker = "sys_platform != 'win32'", specifier = ">=0.0.102" },
     { name = "pipecat-ai", extras = ["webrtc", "whisper", "silero", "openai", "runner"], marker = "sys_platform == 'win32'", specifier = ">=0.0.102" },
     { name = "pipecat-ai-cli" },
-    { name = "soundfile", specifier = ">=0.12.0" },
-    { name = "torch", specifier = ">=2.0.0", index = "https://download.pytorch.org/whl/cu126" },
-    { name = "torchaudio", specifier = ">=2.0.0", index = "https://download.pytorch.org/whl/cu126" },
+    { name = "soundfile", marker = "extra == 'archive-hokkien-tts'", specifier = ">=0.12.0" },
+    { name = "torch", marker = "extra == 'archive-hokkien-tts'", specifier = ">=2.0.0", index = "https://download.pytorch.org/whl/cu126" },
+    { name = "torchaudio", marker = "extra == 'archive-hokkien-tts'", specifier = ">=2.0.0", index = "https://download.pytorch.org/whl/cu126" },
 ]
+provides-extras = ["archive-hokkien-tts"]
 
 [package.metadata.requires-dev]
 dev = [

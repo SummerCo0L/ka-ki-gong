@@ -7,12 +7,20 @@ dependencies = [
     "pipecat-ai[webrtc,whisper,silero,openai,runner]>=0.0.102; platform_system == 'Windows'",
     "pipecat-ai[webrtc,daily,whisper,silero,openai,runner]>=0.0.102; platform_system != 'Windows'",
     "pipecat-ai-cli",
-    # MERaLiON-OmniVoice-Hokkien-TTS inference (see scripts/serve_meralion_tts.py)
+    "numpy>=1.24.0",
+]
+
+# Not needed by bots/bot.py or the live pipeline — only by the archived local
+# MERaLiON-OmniVoice-Hokkien-TTS downloader/server (scripts/archive/). Kept
+# out of the base install so `uv sync` (and the Docker image) stay small and
+# don't require the pytorch-cu126 index below. Install with:
+#   uv sync --extra archive-hokkien-tts
+[project.optional-dependencies]
+archive-hokkien-tts = [
     "omnivoice>=0.2.1",
     "torch>=2.0.0",
     "torchaudio>=2.0.0",
     "soundfile>=0.12.0",
-    "numpy>=1.24.0",
     "huggingface_hub[hf_xet]>=0.17.0",  # Faster downloads
 ]
 

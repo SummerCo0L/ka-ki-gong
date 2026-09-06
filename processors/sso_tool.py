@@ -10,8 +10,7 @@ Lets the LLM look up the Social Service Office (SSO) nearest to an area the
 user mentions. See ``retrieval/sso_lookup.py`` for the matching logic and its
 approximate-match caveats.
 
-Same caveat as ``processors/retrieval_tool.py``'s optional
-``search_senior_support`` tool: Pipecat's CHANGELOG documents a broken-
+Same caveat applies here as elsewhere: Pipecat's CHANGELOG documents a broken-
 streaming-tool-call bug specific to ``openai/gpt-oss-120b`` on at least one
 OpenRouter upstream provider. This tool is gated behind its own
 ``ENABLE_SSO_LOOKUP_TOOL`` flag (default on) so it can be disabled
