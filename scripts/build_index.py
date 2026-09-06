@@ -6,8 +6,7 @@
 
 """Build the local hybrid retrieval index from ``knowledge_base/``.
 
-Embeds one complete Markdown page per scheme (not chunked — see
-STREAMLINED_PIPELINE_CONTEXT.md section 3.3) via OpenRouter's
+Embeds one complete Markdown page per scheme (not chunked) via OpenRouter's
 ``openai/text-embedding-3-small`` embedding model, then saves the result to
 ``data/`` for the bot to load at startup without needing network access.
 

@@ -6,9 +6,8 @@
 
 """In-memory hybrid (dense + lexical) index over ``knowledge_base/``.
 
-Each scheme is embedded once, as its whole Markdown page (per
-STREAMLINED_PIPELINE_CONTEXT.md section 3.3: "Embed one complete structured
-record per short scheme"). The same scheme commonly appears under several
+Each scheme is embedded once, as its whole Markdown page (embedding one
+complete structured record per short scheme, rather than chunking). The same scheme commonly appears under several
 ``knowledge_base/<category>/schemes.json`` files (SupportGoWhere tags one
 scheme under multiple topics), so records are deduplicated by ``id``, keeping
 only the first occurrence.

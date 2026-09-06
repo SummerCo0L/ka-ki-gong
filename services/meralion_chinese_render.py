@@ -6,7 +6,7 @@
 
 """MERaLiON-3-10B English -> Singapore Chinese rendering client.
 
-Per STREAMLINED_PIPELINE_CONTEXT.md section 3.5, this model is used only for
+This model is used only for
 the narrow transformation: a verified grounded English answer -> conversational
 Singapore Chinese written in Chinese characters. It must never be asked to
 answer the user's question again or introduce new facts.

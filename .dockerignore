@@ -28,4 +28,3 @@ docker-compose.yml
 
 # Docs not needed at runtime (kept out of the build context, not the repo)
 README.md
-STREAMLINED_PIPELINE_CONTEXT.md

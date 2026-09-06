@@ -12,11 +12,11 @@ since embedding calls happen inside the live Pipecat event loop at query time (i
 addition to the offline ``scripts/build_index.py`` batch run).
 
 Note on prefixes: unlike ``intfloat/multilingual-e5-small`` (the model originally
-suggested in STREAMLINED_PIPELINE_CONTEXT.md), nemotron-3-embed-1b's asymmetric
+considered), nemotron-3-embed-1b's asymmetric
 query/passage handling is not documented on OpenRouter's model page as of this
 writing. ``query_prefix``/``passage_prefix`` default to empty strings; set them
 via env vars if evaluation shows retrieval quality improves with explicit
-prefixes (see STREAMLINED_PIPELINE_CONTEXT.md section 15.2 evaluation plan).
+prefixes.
 """
 
 from __future__ import annotations

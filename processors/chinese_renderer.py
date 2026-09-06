@@ -7,16 +7,15 @@
 """Buffers a complete grounded English LLM turn and renders it as Singapore
 Chinese via MERaLiON-3-10B before it reaches the TTS service.
 
-Per STREAMLINED_PIPELINE_CONTEXT.md section 5's "full-response buffering"
-requirement, partial English token fragments must never reach the renderer:
-this processor swallows ``LLMTextFrame`` chunks between
+Partial English token fragments must never reach the renderer: this processor
+swallows ``LLMTextFrame`` chunks between
 ``LLMFullResponseStartFrame``/``LLMFullResponseEndFrame``, renders the
 buffered whole turn once, and emits two frames in place of the original text:
 
 - The original English text, tagged ``skip_tts=True`` so
   ``LLMAssistantAggregator`` (downstream, after TTS) still records the
-  verified English answer in conversation context (STREAMLINED_PIPELINE_CONTEXT.md
-  section 6), while the TTS service passes it straight through unspoken.
+  verified English answer in conversation context, while the TTS service
+  passes it straight through unspoken.
 - The rendered Singapore Chinese text, tagged ``append_to_context=False`` so it
   is spoken by TTS but never written to context (avoiding duplicate/garbled
   assistant messages).
@@ -55,8 +54,7 @@ class ChineseRenderer(FrameProcessor):
         Args:
             render_client: Client used to call the MERaLiON-3-10B renderer.
             fallback_text: Static Chinese text spoken if rendering fails
-                (STREAMLINED_PIPELINE_CONTEXT.md section 12: never fabricate
-                an audio response from invented content).
+                (never fabricate an audio response from invented content).
         """
         super().__init__(**kwargs)
         self._render_client = render_client

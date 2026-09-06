@@ -297,8 +297,8 @@ async def run_bot(transport: BaseTransport, runner_args: RunnerArguments):
     )
 
     # --- MERaLiON-3-10B Singapore Chinese renderer -------------------------------
-    # Narrow transformation only (STREAMLINED_PIPELINE_CONTEXT.md section 3.5):
-    # verified grounded English answer -> Singapore Chinese. Runs on the
+    # Narrow transformation only: verified grounded English answer -> Singapore
+    # Chinese. Runs on the
     # complete buffered LLM response (see processors/chinese_renderer.py) so no
     # partial English fragments ever reach the renderer or the TTS model.
     enable_chinese_renderer = _env_bool("ENABLE_CHINESE_RENDERER", True)
@@ -341,7 +341,7 @@ async def run_bot(transport: BaseTransport, runner_args: RunnerArguments):
     )
 
     # --- Local retrieval over the curated SupportGoWhere knowledge base ---------
-    # Retrieval-first policy (STREAMLINED_PIPELINE_CONTEXT.md section 2): evidence
+    # Retrieval-first policy: evidence
     # is fetched deterministically for every user turn (see
     # `_update_retrieval_evidence` below) rather than via LLM tool calling, so the
     # grounded-answer call never depends on gpt-oss-120b successfully emitting a
@@ -464,8 +464,7 @@ async def run_bot(transport: BaseTransport, runner_args: RunnerArguments):
         latest turn — so a fact stated a turn or two ago (e.g. "I'm a Singapore
         Citizen", "I'm unemployed") still contributes to this turn's search
         instead of being dropped once superseded in the evidence block. Runs
-        before every LLM call (see STREAMLINED_PIPELINE_CONTEXT.md section 2's
-        "Important optimization") so the grounded answer never depends on the LLM
+        before every LLM call so the grounded answer never depends on the LLM
         successfully emitting a tool call.
         """
         if scheme_index is None or not query_text.strip():

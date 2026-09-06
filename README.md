@@ -5,9 +5,9 @@ helps Singapore dialect-speaking seniors (e.g., Hokkien) seek help and the relev
 
 This is an accessibility research prototype, not an official integration with
 SupportGoWhere, LifeSG, GovTech, MSF, MOH, AIC, or any other government agency.
-It does not confirm eligibility or submit applications. See
-[STREAMLINED_PIPELINE_CONTEXT.md](STREAMLINED_PIPELINE_CONTEXT.md) for the full
-design specification this implementation follows.
+It does not confirm eligibility or submit applications.
+
+**Demo video:** https://youtu.be/nOIZ0iUQiPI
 
 ## Motivation
 
@@ -292,9 +292,7 @@ covered by an automated eval harness — see Limitations.
 `knowledge_base/<category>/schemes.json` + `md/` is a curated local snapshot of
 SupportGoWhere scheme pages, collected by `scripts/scrape_supportgowhere_schemes.py`
 against SupportGoWhere's public, unauthenticated list/detail JSON APIs (a
-Singapore Government service). See
-[STREAMLINED_PIPELINE_CONTEXT.md](STREAMLINED_PIPELINE_CONTEXT.md) section 7
-for the full scraping approach.
+Singapore Government service).
 
 - **Provenance & licensing**: all scraped content is public government
   information already published for citizen consumption. At the time of
@@ -349,8 +347,7 @@ for the full scraping approach.
 
 - The Singapore Chinese rendering step adds one extra API call (and its
   latency) per assistant turn, and buffers the complete grounded English
-  answer before rendering — no partial/streaming rendering yet (see
-  [STREAMLINED_PIPELINE_CONTEXT.md](STREAMLINED_PIPELINE_CONTEXT.md) section 5).
+  answer before rendering — no partial/streaming rendering yet.
   If rendering fails or returns empty output, a static fallback message is
   spoken instead of fabricating content
   ([processors/chinese_renderer.py](processors/chinese_renderer.py)).
@@ -358,9 +355,10 @@ for the full scraping approach.
   and English — there is no Hokkien/Minnan voice or dialect parameter exposed
   by OpenRouter for this model, so spoken output is Mandarin pronunciation,
   not genuine Hokkien (see [services/openrouter_tts.py](services/openrouter_tts.py)).
-- See [STREAMLINED_PIPELINE_CONTEXT.md](STREAMLINED_PIPELINE_CONTEXT.md)
-  section 20 for further known limitations (Hokkien writing standardization,
-  retrieval scores not being eligibility probabilities, source staleness, etc.).
+- Other known limitations: Hokkien Hanji writing is not fully standardized,
+  retrieval scores are relevance signals, not eligibility probabilities, and
+  the scraped knowledge base is a one-time snapshot that can go stale (see
+  Data above).
 - No generation- or rendering-quality eval harness yet (see Evaluation above)
   — only retrieval is benchmarked with labeled metrics today.
 - The Docker image only packages the WebRTC demo path; all AI inference still
@@ -404,8 +402,7 @@ alert currently in place.
 ## Development Process
 
 This prototype was built iteratively, with several earlier designs discarded
-once evaluated — see [STREAMLINED_PIPELINE_CONTEXT.md](STREAMLINED_PIPELINE_CONTEXT.md)
-for the full spec this implementation follows:
+once evaluated:
 
 - **TTS backend switch**: MERaLiON-OmniVoice-Hokkien-TTS (genuine Hokkien
   pronunciation via local GPU inference) was the original choice — the
@@ -444,9 +441,8 @@ for the full spec this implementation follows:
   once Docker packaging was added, since none of them are imported by the
   live pipeline — only by the archived local Hokkien-TTS downloader/server.
   This keeps the image small and avoids needing the `pytorch-cu126` wheel
-  index inside the container at all, matching the pipeline spec's guidance
-  against packaging large model weights into the main application image
-  ([STREAMLINED_PIPELINE_CONTEXT.md](STREAMLINED_PIPELINE_CONTEXT.md) section 14).
+  index inside the container at all, since large model weights should not be
+  packaged into the main application image.
 
 ## Using AI Coding Agents
 
@@ -454,10 +450,16 @@ This project was built with GitHub Copilot (Claude Sonnet 5) as the primary
 coding agent, used across pipeline implementation, retrieval/evaluation
 tooling, debugging, and documentation.
 
-> TODO before submission: export and commit the Copilot chat/session logs
-> for this project (see `session_store_sql`/chronicle tooling) to a location
-> in this repo, and link it here.
+Full session logs are committed at
+[agent_logs/copilot_sessions/](agent_logs/copilot_sessions/) — one
+JSON-lines file per chat session, exported directly from VS Code's local
+per-workspace session storage
+(`%APPDATA%\Code\User\workspaceStorage\<hash>\chatSessions\*.jsonl`). This is
+VS Code Copilot Chat's native session schema (session metadata plus a
+`requests[]` array of request/response turns), not Claude Code's
+`~/.claude/projects/*.jsonl` schema, but it is the equivalent full record of
+every prompt, tool call, and response for this repo.
 
 ## Demo Video
 
-> TODO before submission: add the 3–5 minute demo video URL here.
+https://youtu.be/nOIZ0iUQiPI
