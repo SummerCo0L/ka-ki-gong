@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "SKILLS-ADVISORY",
+    "type": "scheme",
+    "title": "Career and Skills Advisory",
+    "description": "Offers personalised advice to help you navigate job search challenges and identify skills and training needs to bring you closer to your career goals. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SKILLS-ADVISORY",
+    "keywords": [
+      "1 to 1",
+      "Jobseekers",
+      "Workers"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Skills and training recommendations to support your career transition or progression",
+      "Career exploration and planning",
+      "Resume and interview guidance",
+      "Job search strategies and resources"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-09-01T06:49:46.062Z",
+    "sections": {
+      "About this support": "Career and Skills Advisory offers personalised advice to help you navigate job search challenges and identify skills and training needs to bring you closer to your career goals. This service is offered through Skills and Workforce Development Agency (SWDA) and our partners including NTUC's e2i and our Career Matching Providers, Ingeus and AngusKnight Singapore.",
+      "Who is this for?": "Singapore Citizens, Permanent Residents and foreign spouses who are Long-Term Visit Pass/Long-Term Visit Pass Plus Holders with Pre-Approved Letter of Consent or Letter of Consent",
+      "How to apply?": "Make an appointment for Career and Skills Advisory at:\n\n- [Lifelong Learning Institute](https://careershorizon.mycareersfuture.gov.sg/appointment)\n\n- [Other service touchpoints](https://www.lifelonglearningsg.org/advice/skills-and-training-advisory)",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/skills-career-planning/career-skills-advisory)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)"
+    }
+  },
+  {
+    "id": "SVC-MFCM",
+    "type": "service",
+    "title": "MightyKids, Families & Community (MightyKFC)",
+    "description": "MightyKFC is a developmental mentoring programme that aims to nurture at-risk children and youth in the Telok Blangah region.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-MFCM",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Mental health",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 6,
+    "max_age": 14,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-26T04:01:43.962Z",
+    "sections": {
+      "About this support": "MightyKFC is a developmental mentoring programme with the following service components:\n\n- Centre based activities\n- Life skills workshops\n- Individual mentoring\n- Community service\n- Parent-child bonding session",
+      "Who is this for?": "- MightyKFC’s client group is latchkey children and youth from the lower income group, aged 4 – 16 years old.\n- MightyKFC targets children and youth who primarily reside or study in schools in the Telok Blangah region.",
+      "How to apply?": "You may:\n\n- Walk into the centre\n- Email to [mkfc@life-community.org](mailto:mkfc@life-community.org)\n- Call the centre at [62707198](tel:62707198)",
+      "What to expect?": "- An intake interview will be arranged to register for the programme.\n- Upon successful registration, services will be provided to the service users for the duration of the programme at the activity centre."
+    }
+  },
+  {
+    "id": "WJtDbT4F",
+    "type": "service",
+    "title": "Women at Work (W@W)",
+    "description": "The W@W programme is designed to support Malay/Muslim women to re-enter the workforce.",
+    "url": "https://supportgowhere.life.gov.sg/services/WJtDbT4F",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Free"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-25T06:40:54.352Z",
+    "sections": {
+      "About this support": "The W@W programme is designed to support Malay/Muslim women who have been unemployed for more than 6 months and seeking to re-enter the workforce.",
+      "Who is this for?": "Malay/Muslim women who have been unemployed for more than 6 months and seeking to re-enter the workforce.",
+      "How to apply?": "Interested parties can write to 'CONTACT US @ MENDAKI' via this link: [Contact Us](https://www.mendaki.org.sg/contact-us)",
+      "What to expect?": "Interested parties can write to 'CONTACT US @ MENDAKI' via this link: [Contact Us](https://www.mendaki.org.sg/contact-us)"
+    }
+  },
+  {
+    "id": "SVC-BPCS",
+    "type": "service",
+    "title": "Babes Pregnancy Crisis Support",
+    "description": "For individuals aged 21 and below needing support with their pregnancy, so that they are aware of their options and are able to make an informed decision regarding their pregnancy.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-BPCS",
+    "keywords": [
+      "Free",
+      "Teenage Pregnancy and Sexuality"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 13,
+    "max_age": 20,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-19T08:37:52.272Z",
+    "sections": {
+      "About this support": "Babes supports pregnant teens through:\n\n- Casework and counselling\n- 24-hour helpline\n- Practical support (befriender, baby essentials, employment & back to school assistance etc)\n- Information & resources\n- Outreach and youth engagement events",
+      "Who is this for?": "- Pregnant teenager who needs help; Anyone who needs information about teenage pregnancy\n- Singapore Citizens and Permanent Residents",
+      "How to apply?": "If you are a pregnant teen who needs help, know of one who needs help or need information about teenage pregnancy, please contact Babes' 24-hour helpline at 6206 6641 or text via WhatsApp at 8111 3535 to speak to the caseworkers.",
+      "What to expect?": "- Teenagers who require help with their pregnancy and/or anyone who needs information about teenage pregnancy may contact Babes via the 24-hour helpline (call/text).\n- When an enquiry is attended to, the Helpliner will also assess if the teenager is eligible to be a case under Babes. Should the assessment be one that Babes can assist, Babes will arrange for a meeting with the teenager and/or her family/partner within 3-5 working days to assess the needs and provide the necessary support and guidance."
+    }
+  },
+  {
+    "id": "SKILLSFUTURE_CREDITS",
+    "type": "scheme",
+    "title": "SkillsFuture Credit",
+    "description": "For Singapore Citizens aged 25 and above to pay for or offset the out-of-pocket course fees of approved courses.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SKILLSFUTURE_CREDITS",
+    "keywords": [
+      "Courses",
+      "Trainings"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Financial/Retirement Planning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "SkillsFuture Credits can be used on top of existing SWDA course fee subsidies",
+      "Submit your claim via MySkillsFuture within 60 days before course starts",
+      "No application required"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T09:14:48.361Z",
+    "sections": {
+      "About this support": "- Singapore Citizens aged 25 and above will receive an opening credit of S$500. Opening credits will not expire.\n- A one-off SkillsFuture Credit top-up of $500 was provided to every Singapore Citizen aged 25 and above as at 31 December 2020. These credits will expire on 31 December 2025.\n- Can be used on top of existing government course subsidies to pay for a wide range of approved skills-related courses, such as:\n  - Courses subsidised or approved by SkillsFuture Singapore including online courses\n  - Selected courses offered by Ministry of Education (MOE)-funded institutions\n  - Courses supported by lead agencies\n  - SkillsFuture@PA courses offered by the People’s Association and selected courses under National Silver Academy",
+      "Who is this for?": "- Singapore Citizen\n- Aged 25 and above",
+      "How to apply?": "- No application required\n- How to use your SkillsFuture Credit:\n  - Step 1: Inform your Training Provider that you intend to use your SkillsFuture Credit in part or in full for the qualifying course fees at the point of course registration\n  - Step 2: Submit your claim via MySkillsFuture within 60 days before the course start date (date inclusive)",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Credit.html?_gl=1*19sp13n*_gcl_au*MTU0NDEwNDQ2NS4xNzQ5NDU0MTYx)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm\nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "JOBSKLINT",
+    "type": "scheme",
+    "title": "Jobs-Skills Integrators",
+    "description": "Targeted at companies building industry-relevant skills and individuals seeking relevant jobs and skills matches. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/JOBSKLINT",
+    "keywords": [
+      "Jobseekers",
+      "Mid-career",
+      "Trainings"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Pilot for Jobs-Skills Integrator in Precision Engineering, Retail, and Wholesale Trade sectors ",
+      "Employers gain access to training courses and skilled jobseekers",
+      "Individuals receive careers advisory and job matching services"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T08:54:51.278Z",
+    "sections": {
+      "About this support": "For Individuals:\n\n- Training courses with integrated career services that can equip you with in-demand skills to help you transit into or within the sector\n- Sector-specific career advisory services and job matching support, including opportunities that will enhance your career prospects\n- Careers advisory for employees to explore development opportunities within the company or sector\n- A central point of contact for referrals to training and job matching services\n\nFor Employers:\n\n- Tailored training courses to meet the specific skills needs of your workforce\n- Access to job seekers with the necessary skills ready to start careers in targeted sector",
+      "Who is this for?": "JSIT is available to employers and individuals.\n\nPlease contact Nanyang Polytechnic (NYP), Singapore National Employers Federation (SNEF), National Trade Union Congress (NTUC), and Singapore Business Federation (SBF) directly for more information.",
+      "How to apply?": "Jobs-Skills Integrators can be contacted via:\n\n- Retail Sector: [Singapore National Employers Federation](https://snef.org.sg/grants/jsit-r/) at[ jsit-r@snef.org.sg](mailto: jsit-r@snef.org.sg)\n- Wholesale Trade Sector: [Singapore Business Federation](https://www.sbf.org.sg/what-we-do/skills-empowered/jobs-skills-integrator-for-wholesale-trade-sector-(jsit-wst)) at [jobs.skills@sbf.org.sg](mailto:jobs.skills@sbf.org.sg)",
+      "Agency website": "[View more details](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/talent-pipeline/jobs-skills-integrators-jsit)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFSERIES",
+    "type": "scheme",
+    "title": "SkillsFuture Series",
+    "description": "Provides short, industry-relevant training for in-demand skills in Care, Digital, Green, and Industry 4.0 sectors.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFSERIES",
+    "keywords": [
+      "Courses",
+      "Employment Support and Vocational Training",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Offers short, industry-relevant training programmes",
+      "Focus on emerging skills in Care, Digital, Green, and Industry 4.0 sectors",
+      "Training across Basic, Intermediate, and Advanced levels for different proficiencies"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T08:32:26.145Z",
+    "sections": {
+      "About this support": "- Training across Basic, Intermediate, and Advanced levels to match different skill proficiencies\n- Acquire foundational or advanced skills to boost career prospects and enhance employability",
+      "Who is this for?": "- Singapore Citizens and Permanent Residents, criteria may vary depending on courses",
+      "How to apply?": "To enrol in a SkillsFuture Series course:\n\n- Visit the [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/portal/en/index.html)\n- Log in with your Singpass to access the course directory\n- Search for SkillsFuture Series courses under the respective growth areas: [Care Economy](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1:[2022-12-15T00:00:00Z TO *]&fq=IsValid:true&q=care economy), [Digital Economy](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1:[2022-12-15T00:00:00Z TO *]&fq=IsValid:true&q=digital economy), [Green Economy](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1:[2022-12-15T00:00:00Z TO *]&fq=IsValid:true&q=green economyI), or [Industry 4.0](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1:[2022-12-15T00:00:00Z TO *]&fq=IsValid:true&q=industry 4.0)\n- Select a course at the Basic, Intermediate, or Advanced level according to your proficiency\n- Follow the instructions to sign up for your chosen course",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-series.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFFELLOW",
+    "type": "scheme",
+    "title": "SkillsFuture Fellowships ",
+    "description": "Awards a $10,000 monetary award to support skills mastery for eligible Singapore Citizens. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFFELLOW",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Trainings"
+    ],
+    "domains": [
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Receive $10,000 to continue your learning journey ",
+      "Open to Singapore Citizens with at least 10 years of working experience in the same (or related) industry or job function"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T08:25:04.187Z",
+    "sections": {
+      "About this support": "- Monetary award of $10,000 for skills mastery and lifelong learning\n- National recognition by the President of the Republic of Singapore\n- Opportunities to inspire and mentor future talent",
+      "Who is this for?": "- Singapore Citizens\n- At least 10 years of working experience in the same or related industry or job function",
+      "How to apply?": "Applications are now closed.\n\nFor further enquiries, please contact the Programme Manager for the [SkillsFuture Fellowships](mailto:sfa@snef.org.sg).",
+      "Agency website": "[View more details](https://www.skillsfuture.gov.sg/fellowships)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFMCES",
+    "type": "scheme",
+    "title": "SkillsFuture Mid-Career Enhanced Subsidy ",
+    "description": "Provides up to 90% subsidy on course fees for Singapore Citizens aged 40 and above. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFMCES",
+    "keywords": [
+      "Mid-career",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Up to 90% subsidy on course fees for Singapore Citizens aged 40 and above ",
+      "At least 90% subsidy on programme costs for MOE-subsidised courses at institutions like Autonomous Universities, Polytechnics, and ITE "
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T08:21:42.742Z",
+    "sections": {
+      "About this support": "- Up to 90% subsidy on course fees for courses offered by Skills & Workforce Development Agency (SWDA)-appointed Continuing Education and Training (CET) Centres\n- At least 90% subsidy on programme costs for Ministry of Education (MOE)-subsidised full-time and part-time courses at institutions like Autonomous Universities, Polytechnics, and the Institute of Technical Education\n- For certifiable-skills training courses, up to 70% subsidy on course fees",
+      "Who is this for?": "- Singapore Citizen\n- Aged 40 and above\n- Qualifies for the Ministry of Education (MOE)/Skills & Workforce Development Agency (SWDA) base course fee subsidy",
+      "How to apply?": "- Enrol in a course that is supported by Skills & Workforce Development Agency (SWDA) or offered by one of the following institutions:\n  - Autonomous Universities (AU):\n    - National University of Singapore (NUS)\n    - Nanyang Technological University (NTU)\n    - Singapore Management University (SMU)\n    - Singapore University of Technology and Design (SUTD)\n    - Singapore Institute of Technology (SIT)\n    - Singapore University of Social Sciences (SUSS)\n  - Polytechnics\n  - Institute of Technical Education (ITE)\n  - LASALLE College of the Arts and Nanyang Academy of Fine Arts (NAFA)\n  - National Institute of Early Childhood Development (NIEC)\n- Ensure the course is eligible for MOE/SSG base course fee subsidy\n  - The enhanced subsidy will be applied automatically at the point of enrolment if you are eligible",
+      "Where to go": "",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/MCES.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SGWSQ",
+    "type": "scheme",
+    "title": "Singapore Workforce Skills Qualifications",
+    "description": "A national credential system that trains, develops, assesses and certifies skills and competencies for the workforce.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SGWSQ",
+    "keywords": [
+      "Jobseekers",
+      "Mid-career",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "WSQ is a national credential system for skills and competencies certification",
+      "No academic prerequisites required for entry, recognises prior work experience and credentials"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T07:19:16.425Z",
+    "sections": {
+      "About this support": "- Acquire job role-specific skills and competencies through competency-based training\n- Gain portable credentials to improve employability and mobility\n- Access to bite-sized modules leading to Statements of Attainment and full WSQ qualifications\n- Quality assured qualifications awarded by Skills & Workforce Development Agency (SWDA) or in partnership with established awarding bodies",
+      "Who is this for?": "- Open to all individuals, regardless of academic background\n- Recognises prior learning and work experience",
+      "How to apply?": "To enrol in Workforce Skills Qualifications (WSQ) courses:\n\n- Visit the [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/portal/en/index.html) to browse available WSQ courses\n- Register for the course through the training provider\n- Complete the course to receive a Statement of Attainment or WSQ qualification",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/training-skills-development/workforce-skills-qualifications)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours:\nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "L0DUZZzA",
+    "type": "scheme",
+    "title": "Workfare Skills Support (Level-Up)",
+    "description": "Enhanced tier of Workfare Skills Support (WSS), supporting lower-wage Singaporean workers who go for long-form training.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/L0DUZZzA",
+    "keywords": [
+      "Budget 2025",
+      "Lower-wage workers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Low-income"
+    ],
+    "highlights": [
+      "Provides training allowance  of at least $300 per month",
+      "Covers a wide catalogue of long-form courses (including Nitec, Higher Nitec, Diplomas, Post-Diplomas, and Undergraduate courses)",
+      "Covers multiple bouts of long-form training",
+      "Apply online via the Training Allowance System using Singpass"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T05:46:09.131Z",
+    "sections": {
+      "About this support": "**Training Allowance (TA)**\n\n- Full-time training: 50% of average income over the latest available 12-month period, with minimum allowance of $300 per month\n- Part-time training: $300 per month\n\n**Coverage for multiple rounds of long-form training**\n\nEvery individual can receive:\n\n- Up to 24 months of monthly TA between ages 30 to 39\n- Up to another 24 months of monthly TA from age 40. This is a shared cap between WSS (Level-Up) and the SkillsFuture Level-Up Programme\n- For each age period, the cap is shared between both full-time and part-time training\n\n**Courses supported include:**\n\n- SkillsFuture Career Transition Programme courses\n- Nitec, Higher Nitec, Diplomas, Post-Diplomas, and Undergraduate courses by Institutes of Higher Learning\n- From 2026 Q4, long-form Workforce Skills Qualifications (WSQ) full qualifications",
+      "Who is this for?": "- Singapore Citizen;\n- At least 30 years old or older as of 31 December of the preceding year, or at least 13 years old for persons with disabilities;\n- Earn an average gross monthly income of not more than $3,000 for the past 12 months;\n- Have declared your net trade income and made MediSave contributions in full if you are self-employed;\n- Live in a property with an annual value of $21,000 and below as at 31 December of the preceding year;\n- Own not more than one property; and\n- If you are married:\n  - you and your spouse together not own more than one property; and\n  - the assessable income of your spouse does not exceed $70,000 of the preceding Year of Assessment\n\nThe above is similar to the [**Workfare Income Supplement**](https://www.cpf.gov.sg/member/growing-your-savings/government-support/workfare-income-supplement) (WIS) criteria.",
+      "How to apply?": "You can apply online via the [Training Allowance System (TAS)](https://go.gov.sg/wss-level-up-tas)** **using your Singpass.",
+      "Agency website": "[View more details](https://go.gov.sg/wss-level-up)",
+      "Email / Form": "[Submit an enquiry](http://go.gov.sg/wss-feedback)",
+      "Phone number": "WSS Hotline: [1800 536 8333](tel:18005368333)"
+    }
+  },
+  {
+    "id": "NATIONAL_SILVER_ACADEMY",
+    "type": "scheme",
+    "title": "National Silver Academy",
+    "description": "Offers learning opportunities, short-term courses and programmes for seniors.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/NATIONAL_SILVER_ACADEMY",
+    "keywords": [
+      "Courses",
+      "Seniors",
+      "Trainings"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Education and learning",
+      "Healthcare and well-being",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Seniors"
+    ],
+    "highlights": [
+      "Encourage lifelong learning amongst seniors"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-07T08:58:58.390Z",
+    "sections": {
+      "About this support": "- Administered by the Agency for Integrated Care (AIC) to offer subsidised learning opportunities for seniors aged 50 and above\n- Formed by a network of post-secondary education institutions (PSEIs) and community-based organisations offering a wide range of learning opportunities located all around Singapore",
+      "Who is this for?": "- For short courses offered by PSEIs, only Singaporeans aged 50 and above will receive a subsidy of up to 50% off course fees\n- For courses run by community-based organisations, Singaporeans and PRs aged 50 and above will receive a subsidy of up to 80% off course fees",
+      "How to apply?": "Please refer to each course listing [here](https://www.aic.sg/Age-Well/Learning-and-Volunteerism/Learning-Opportunities) for the application process",
+      "Where to go": "[Visit the AIC Link branch nearest to you](https://www.aic.sg/Contact-Us#map)",
+      "Agency website": "[View more details](https://www.aic.sg/Age-Well/Learning-and-Volunteerism/Learning-Opportunities)",
+      "Email / Form": "[Submit an enquiry](mailto:enquiries@aic.sg)",
+      "Phone number": "AIC hotline: [1800 650 6060](tel:18006506060)\n\nCalls from AIC Hotline may be reflected as 6650 6060 on your caller ID."
+    }
+  },
+  {
+    "id": "SVC-SW",
+    "type": "service",
+    "title": "Sheltered Workshops",
+    "description": "Sheltered Workshops offer employment and/or vocational training to adults with disabilities who do not possess the competencies or skills for open employment.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SW",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Referral required"
+    ],
+    "domains": [
+      "Disability support",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 18,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-07-16T04:47:24.920Z",
+    "sections": {
+      "About this support": "Sheltered workshops offer the following:\n\n- Employment and/or vocational training to adults with disabilities who do not possess the competencies or skills for open employment.\n- Allow participants to practice in jobs or tasks where the processes are either simple or broken down into simpler steps.\n- Participants will gain valuable experience at the workshop, thereby improving their prospects for open employment.",
+      "Who is this for?": "Applicants should be:\n\n- 18 years old and above*^#\n- Singapore citizens of Permanent Residents^^\n- Have a permanent disability based on any one of the following:\n  - Physical Disability: Requires some assistance with at least 1 of the 6 Activities of Daily Living due to physical impairment\n  - A visual impairment: Moderate visual impairment or worse in the better eye\n  - A hearing impairment: Moderate hearing loss or worse in the better ear\n  - Intellectual disability\n  - Autism\n\nProof of disability must be provided using the [Disability Verification Form](https://www.enablingguide.sg/disability-verification)** completed by a relevant registered healthcare professional.\n\n- Applicants should not be suffering from any untreated infectious disease.\n\n*Students of Government and community-funded SPED schools should be encouraged to remain in school until graduation. Parents of SPED graduands may approach their School to discuss the transition plans of the children prior to graduating from School.\n\n^Applicants who are below age 21 will need consent of parents or legal guardians for their application.\n\n#Applicants who are aged 21 and above with no mental capacity, will need the consent of the appointed deputy(s)/donee(s) on behalf of the applicant.\n\n^^For Permanent Residents, at least one immediate family member must be a Singapore Citizen. Immediate family members refer to spouses, parents, children or the applicant, including stepparents and stepchildren.\n\n**From 8 September 2025, the [Disability Verification Form (DVF)](https://www.enablingguide.sg/disability-verification) is the standardised proof of disability required to verify an individual’s disability status when applying for selected MSF disability schemes and services and other selected Government schemes. Applicants can check if their disability status is already verified via their Touchpoints, SupportGoWhere, or call SG Enable at [1800-8585-885](tel:1800-8585-885)",
+      "How to apply?": "- Please approach a social service professional from a Touchpoint (e.g. Social Service Agency (SSA), hospitals etc.) for assistance in submitting a Sheltered Workshop application. If you are currently not receiving support from any social service or medical touchpoints, you may [approach SG Enable for assistance](https://www.enablingguide.sg/im-looking-for-disability-support/child-adult-care/information-and-referral-services).\n- Before meeting your Touchpoints, all applicants are encouraged to check if your disability status has already been verified by logging into [SupportGoWhere](https://supportgowhere.life.gov.sg/grants/pwdr/apply) with your Singpass. If you do not have a verified disability status, the Touchpoint will guide you to the relevant registered healthcare professionals to assist with DVF.\n\n**Submission of applications to SG Enable by Social Service Professional (Online or Hardcopy)**\n\n**Step 1:**\n\nAll applicants should check if they have a verified disability status by logging into [SupportGoWhere](https://supportgowhere.life.gov.sg/grants/pwdr/apply) with their Singpass. If the applicant already has a verified disability status, a DVF is not required.\n\n**Step 2:**\n\nIf the applicant does not have a verified disability status or has a new disability condition which has not been verified previously, registered Touchpoint Assessor/Admin must submit a copy of the DVF completed by a relevant registered Healthcare Professional together with the AD application.\n\n**Step 3:**\n\nRegistered touchpoints’ Assessor/Admin may submit clients’ AD application and completed DVF online via CorpPass (recommended) or via hardcopy.\n\n1. **Online submission (Recommended)**\n  Log into e-Services using your CorpPass\n2. **Hardcopy submission**\n  Download the [AD application form](https://www.enablingguide.sg/docs/default-source/default-document-library/ad-application-form.pdf?sfvrsn=71d5f444_3), print and send together with the required documents. If required, you may download sections of the AD application form and DVF below for use:\n  - [Client Assessment Form (Revised)](https://www.enablingguide.sg/docs/default-source/default-document-library/final-caf-r-form.pdf?sfvrsn=c2d096c3_1)\n  - [Medical Information Form](https://www.enablingguide.sg/docs/default-source/default-document-library/final-interim-medical-information.pdf?sfvrsn=c4f804d4_1)\n  - [Declaration Form](https://www.enablingguide.sg/docs/default-source/default-document-library/declaration-form.pdf?sfvrsn=a7fa3568_2)\n  - [Disability Verification Form](https://www.enablingguide.sg/disability-verification)",
+      "What to expect?": "- Upon receiving the referral, SG Enable will contact you to provide information to help you make an informed decision on your choice of service.\n- Acceptance into the programme at the preferred centre is subject to the availability of vacancies and approval of the centre management."
+    }
+  },
+  {
+    "id": "WSS",
+    "type": "scheme",
+    "title": "Workfare Skills Support (WSS) (Basic)",
+    "description": "Provides training allowance and cash incentives to encourage lower-wage Singaporean workers to upskill via training.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/WSS",
+    "keywords": [
+      "Budget 2026",
+      "Trainings",
+      "Workers"
+    ],
+    "domains": [
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Low-income"
+    ],
+    "highlights": [
+      "Provides training allowance for trainees who self-sponsor their own short training",
+      "Provides cash award for trainees who complete sustained training",
+      "Provides absentee payroll for employers who send eligible employees for training",
+      "No application required for employees; self-employed persons and employers should submit claims online"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-06T02:53:34.743Z",
+    "sections": {
+      "About this support": "- Training Allowance (TA) of $10.50 per training hour for self-sponsored trainees\n- Training commitment award of $800 for one Workforce Skills Qualification (WSQ) or Academic Continuing Education and Training Qualification\n- Absentee payroll for employers sending eligible employees for training: 95% trainee’s basic hourly wage, capped at $13 per training hour\n- WSS (Basic) supports short training, such as:\n  - Eligible courses at the [MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/portal/en/portal-search/portal-search.html?fq=Course_Supp_Period_To_1:[2026-06-25T00:00:00Z TO *]&fq=IsValid:true&fq={!tag=Tags_text_Filtered}Tags_text_Filtered:(\"Workfare_Training Commitment\" \"Workfare_Training Allowance\")&q=*:*&filtersearch=Tags_text_Filtered:)\n  - Recommended courses that meet Progressive Wage Model (PWM) training requirements",
+      "Who is this for?": "- Singapore Citizen;\n- At least 30 years old or older as of 31 December of the preceding year, or at least 13 years old for persons with disabilities;\n- Earn an average gross monthly income of not more than $3,000 for the past 12 months;\n- Have declared your net trade income and made MediSave contributions in full if you are self-employed;\n- Live in a property with an annual value of $21,000 and below as at 31 December of the preceding year;\n- Own not more than one property; and\n- If you are married:\n  - you and your spouse together not own more than one property; and\n  - the assessable income of your spouse does not exceed $70,000 of the preceding Year of Assessment\n\n** **\n\nThe above is similar to the [**Workfare Income Supplement**](https://www.cpf.gov.sg/member/growing-your-savings/government-support/workfare-income-supplement) (WIS) criteria.",
+      "How to apply?": "**Employees**\n\nNo application needed.\n\n** **\n\n**Self-employed persons**\n\nYou will need to provide in the [TA claim form](https://go.gov.sg/wss-sep-ta) within 120 days of course end date:\n\n- softcopy of your proof of self-employment (for example, contract for service or equivalent dated within 3 months after course end date, or ACRA business registration and business transaction documents dated within 3 months after course end date)\n- your course details (for example, course title, course start and end dates, and training provider’s name\n\n**Employers**\n\nYou can [apply online at Enterprise Portal for Jobs and Skills](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx)",
+      "Agency website": "[View more details](https://go.gov.sg/wss-info)",
+      "Email / Form": "[Submit an enquiry](http://go.gov.sg/wss-feedback)",
+      "Phone number": "WSS hotline: [1800 536 8333](tel:1800-5368333)"
+    }
+  },
+  {
+    "id": "SCTP",
+    "type": "scheme",
+    "title": "SkillsFuture Career Transition Programme (SCTP)",
+    "description": "Industry-oriented training programmes to support mid-career individuals in gaining new, in-demand skills to enhance employability and take on new career opportunities.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SCTP",
+    "keywords": [
+      "Budget 2022",
+      "Mid-career"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "3 to 12 months long industry-oriented courses for skills upgrading",
+      "Complemented with career advisory and employment assistance",
+      "Apply directly to the training providers from 1 April 2022"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T09:03:31.316Z",
+    "sections": {
+      "About this support": "- Industry-oriented training programmes, from 3 to 12 months, to support mid-career individuals in gaining new, in-demand skills to enhance employability and transit to new career opportunities\n- Flexibility of part-time or full-time courses",
+      "Who is this for?": "Singapore Citizens and Permanent Residents aged 21 years old and above",
+      "How to apply?": "Interested participants can view the courses by browsing the [course directory](https://www.myskillsfuture.gov.sg/content/portal/en/portal-search/portal-search.html?fq=IsValid:true&fq={!tag=Tags_text_FeaturedInitiatives}Tags_text_FeaturedInitiatives:(\"SkillsFuture Career Transition Programme\")&fq=Course_Supp_Period_To_1:[2026-06-26T00:00:00Z TO *]&q=*:*&filtersearch=Tags_text_FeaturedInitiatives:) and apply directly to the training providers from 1 April 2022.",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-career-transition-programme.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm\nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFC-MID-CAREER",
+    "type": "scheme",
+    "title": "SkillsFuture Credit (Mid-Career)",
+    "description": "For Singapore Citizens aged 40 and above to pay for or offset the out-of-pocket course fees for selected courses that are oriented towards meeting industry and employment needs.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFC-MID-CAREER",
+    "keywords": [
+      "Budget 2024",
+      "Mid-career"
+    ],
+    "domains": [
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Can be used on top of existing SWDA course fee subsidies",
+      "Singapore Citizens aged 40 and above as of 1 Jan 2024 received the top-up in May 2024",
+      "Singapore Citizens turning 40 years old after 2024 will receive their SkillsFuture Credit (Mid-Career) top-up of S$4,000 in end-January of the same year"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:53:40.145Z",
+    "sections": {
+      "About this support": "- Singapore Citizens aged 40 and above as of 1 Jan 2024 received the SkillsFuture Credit (Mid-Career) top-up of S$4,000 in May 2024. The credit will not expire. In addition, the outstanding balance from Additional SkillsFuture Credit (Mid-Career Support) top-up in 2020 is now merged with SkillsFuture Credit (Mid-Career).\n- Singapore Citizens turning 40 years old after 2024 will receive their SkillsFuture Credit (Mid-Career) top-up of S$4,000 in end-January of the same year.\n- Can be used on top of existing Skills & Workforce Development Agency (SWDA) course subsidies to pay for selected courses which are oriented towards meeting industry and employment needs",
+      "Who is this for?": "- Singapore Citizen\n- Aged 40 and above",
+      "How to apply?": "- Starting from 1 May 2024, the SkillsFuture Credit (Mid-Career) top-up of $4,000, which does not expire, can further offset nett course fees for [selected courses](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?q=Tags:\"SkillsFuture Credit (Mid-Career)\"&search=true&jumpstart=false) that have better employability outcomes.\n- Please refer to the following websites for more details on [SkillsFuture Level-Up Programme](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Level-Up_Programme.html) and [SkillsFuture Credit](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Credit.html).",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Level-Up_Programme.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm\nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFWKSTPDIP",
+    "type": "scheme",
+    "title": "SkillsFuture Work-Study Post-Diploma ",
+    "description": "Provides a $5,000 sign-on incentive and industry-recognised qualifications for eligible fresh Polytechnic graduates. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFWKSTPDIP",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Receive a sign-on incentive of $5,000 for eligible fresh Polytechnic graduates ",
+      "Competitive starting salary and full-time employment with participating companies ",
+      "Attain an industry-recognised Post-Diploma qualification or professional certification "
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:48:18.583Z",
+    "sections": {
+      "About this support": "- Competitive starting salary with full-time employment at participating companies\n- Attain an industry-recognised Post-Diploma qualification or professional certification\n- $5,000 sign-on incentive for eligible fresh Polytechnic graduates\n- Potential for skills-based wage increments and career advancement upon programme completion",
+      "Who is this for?": "- Singapore Citizens or Permanent Residents\n- Fresh Polytechnic graduates within 3 years of graduation\n- Full-time National Servicemen within 3 years of Operationally Ready Date",
+      "How to apply?": "Submit your application through the respective polytechnic's website:\n\n- [Ngee Ann Polytechnic](https://www.cet.np.edu.sg/signature_programme/work-study-programme/)\n- [Nanyang Polytechnic](https://www.nyp.edu.sg/wsp)\n- [Republic Polytechnic](https://www.rp.edu.sg/ace/work-study-programmes)\n- [Singapore Polytechnic](https://www.sp.edu.sg/pace/workforce-upskilling/recruit-talents/work-study-programme)\n- [Temasek Polytechnic](https://www.tp.edu.sg/wsp)",
+      "Where to go": "",
+      "Agency website": "[View more details](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline:[6669 7932](tel:66697932)\n\nCall Centre Operating Hours:\nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SKILLSFUTURE-ADVICE",
+    "type": "scheme",
+    "title": "SkillsFuture Advice",
+    "description": "A webinar that helps you learn about SkillsFuture programmes, MySkillsFuture portal and funding support.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SKILLSFUTURE-ADVICE",
+    "keywords": [
+      "Jobseekers",
+      "Webinars",
+      "Workers"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "1-hour webinar"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:47:02.675Z",
+    "sections": {
+      "About this support": "Free 1-hour webinars that will guide you in developing your resilience and upskilling plans through practical information and online resources:\n\n- Understand your resilience and find learning programmes/initiatives that suit your needs\n- Learn practical tips on developing your resilience mindset, building a circle of social support and improving your employability by planning for the future\n- Learn about SkillsFuture programmes, including SkillsFuture Credit, funding support to offset your course fees, as well as, government support schemes (SGUnited jobs and COVID-19 support grant) to help you ride through the tough times\n- Get an introduction to the MySkillsFuture portal that will help you in your career and learning development\n- Discover courses to help you transit into available job roles and a glimpse into the hiring sectors",
+      "Who is this for?": "All Singapore Citizens or Permanent Residents",
+      "How to apply?": "- You can [sign up online](https://form.gov.sg/#!/60dde90a22fd030012f32901).\n- You may also access [online resources](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources.html?type=education-career-personal-development) to guide you in your skill development.",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-advice.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm\nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFWKSTDIP",
+    "type": "scheme",
+    "title": "SkillsFuture Work-Study Diploma ",
+    "description": "Provides a head-start in career related to discipline of study for eligible fresh Institute of Technical Education (ITE) graduates.  ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFWKSTDIP",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Receive a sign-on incentive of $5,000 for eligible fresh graduates ",
+      "Competitive starting salary and full-time employment with participating companies ",
+      "Attain an industry-recognised Diploma-level qualification"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:34:47.343Z",
+    "sections": {
+      "About this support": "- Competitive starting salary and full-time employment with participating companies\n- Structured on-the-job training and mentorship over 12 to 36 months\n- Attainment of an industry-recognised Diploma-level qualification\n- Sign-on incentive of $5,000 for eligible fresh graduates\n- Potential for wage increments and career advancement based on performance",
+      "Who is this for?": "- Singapore Citizens or Permanent Residents\n- Fresh graduates within 3 years of graduation from the ITE\n- Full-time National Servicemen within 3 years of their Operationally Ready Date",
+      "How to apply?": "Submit your application through the [ITE's website](https://www.ite.edu.sg/courses/work-study-diploma).",
+      "Agency website": "[View more details](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFWKSTCERT",
+    "type": "scheme",
+    "title": "SkillsFuture Work-Study Certificate ",
+    "description": "Provides industry-relevant skills and knowledge related to discipline of study through a work-study arrangement for individuals. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFWKSTCERT",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Receive a sign-on incentive of S$5,000 ",
+      "Acquire relevant work experience and skills valued by the industry ",
+      "Potential for skills-based wage increments and career advancement upon completion"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:31:41.432Z",
+    "sections": {
+      "About this support": "- Full-time employment with a competitive starting salary\n- Industry-recognised certificate upon completion\n- Sign-on incentive of S$5,000\n- Potential for skills-based wage increments and career advancement based on performance",
+      "Who is this for?": "- Singapore Citizens or Permanent Residents\n- Within 3 years of graduation from the Institute of Technical Education (ITE) and Polytechnics or the Operational Ready Date for full-time National Servicemen",
+      "How to apply?": "- Click [here](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx) to navigate the programme summary and listing\n- Select the programme you are interested\n- Click the button \"Click here to Apply\"",
+      "Agency website": "[View more details](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "SkillsFuture Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours:\nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFDWP",
+    "type": "scheme",
+    "title": "SkillsFuture for Digital Workplace",
+    "description": "Equips Singapore Citizen adults with essential digital skills for the evolving digital economy.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFDWP",
+    "keywords": [
+      "Jobseekers",
+      "Mid-career",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Develop a deep understanding of critical digital competencies for the evolving economy",
+      "Safely navigate technology-rich environments with cybersecurity awareness",
+      "Master various digital tools, including nationally recognized platforms, for strategic data utilization"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:28:52.967Z",
+    "sections": {
+      "About this support": "- Navigate technology-rich environments with awareness of cybersecurity risks, ensuring secure work practices\n- Acquire proficiency in diverse digital applications and tools, including nationally recognized platforms, while understanding the strategic use of data and information\n  - Gain insights into essential jobs and digital skills needed in today's and tomorrow's digital economy",
+      "Who is this for?": "- Singapore Citizen or Permanent Resident\n- Employers can tap on SFDW2.0 to equip their employees with the necessary aptitudes and skills",
+      "How to apply?": "Choose a programme partner and contact them directly:\n\n- Ascendo Academy Pte Ltd: Email [sdfw@ascendo.edu.sg](mailto:sdfw@ascendo.edu.sg) or call [+65 8383 2908](tel:83832908)\n- Capelle Academy Pte Ltd: Email [contactus@capelleconsulting.com](mailto:contactus@capelleconsulting.com) or call [+65 6325 4982](tel:63254982)\n- James Cook Institute Pte Ltd: Email [enquiry@jci.edu.sg](mailto:enquiry@jci.edu.sg), call [+65 6737 5761](tel:67375761), or WhatsApp +65 8767 0614\n- Eduquest International Institute Pte. Ltd.: Email [info@eduquest.sg](mailto:info@eduquest.sg) or call [+65 6338 7151](tel:63387151)\n- NTUC LearningHub Pte Ltd: For individual enquiries, email [sales@ntuclearninghub.com](mailto:sales@ntuclearninghub.com) or WhatsApp +65 8488 5482. For corporate enquiries, email [corpsales@ntuclearninghub.com](mailto:corpsales@ntuclearninghub.com)\n- Nanyang Polytechnic: Visit [their website](https://www.nyp.edu.sg) for more information\n- Singapore Chinese Chamber Institute of Business: Email [enquiry@scciob.edu.sg](mailto:enquiry@scciob.edu.sg) or call [+65 6505 3898](tel:65053898) / [+65 6334 1080](tel:63341080)\n- Singapore National Employers Federation: Email [christopher_oh@snef.org.sg](mailto:christopher_oh@snef.org.sg) or call [+65 6827 6919](tel:68276919)",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Digital_Workplace.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm\nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFWKSTDEG",
+    "type": "scheme",
+    "title": "SkillsFuture Work-Study Degree",
+    "description": "Provides work-relevant skills through on-the-job training and classroom learning for students and working adults.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFWKSTDEG",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Structured on-the-job training with classroom learning",
+      "Tuition fee sponsorship, stipends, and potential sign-on bonuses from sponsoring companies",
+      "Opportunity for career offers from sponsoring companies upon graduation"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:26:48.008Z",
+    "sections": {
+      "About this support": "- Gain work-relevant skills through a blend of classroom learning and structured on-the-job training\n- Receive financial support from sponsoring companies, which may include tuition fee sponsorship, stipends, and sign-on bonuses\n- Opportunities for career advancement with the sponsoring company after graduation\n- Flexible study modes with Term-in/Term-out or Work-day/Study-day options",
+      "Who is this for?": "- Prospective Polytechnic or Junior College students\n- Working adults interested in pursuing a degree\n- Keen on enrolling in a local university offering the SkillsFuture Work-Study Degree programmes\n- Interested in integrating work experience with academic learning",
+      "How to apply?": "Prospective students may visit the [SkillsFuture Work-Study Degree page](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/wsdeg.html) for a list of programmes offered by universities and their respective contact information.",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/wsdeg.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays \n8.30am to 5.30pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SF-MID-CAREER-TA",
+    "type": "scheme",
+    "title": "SkillsFuture Mid-Career Training Allowance",
+    "description": "Supports both full-time and part-time long-form training for Singapore Citizens aged 40 and above to upskill and reskill. Individuals can decide which type of training best suits their needs.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SF-MID-CAREER-TA",
+    "keywords": [
+      "Budget 2026",
+      "Mid-career"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Training Allowance (TA) of up to $3,000 per month for full-time training, and a flat rate of $300 per month for part-time training",
+      "Up to 24 months of TA for each individual throughout their lifetime"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:25:28.204Z",
+    "sections": {
+      "About this support": "- Training Allowance (TA) for full-time, long-form training\n  - 50% of an individual's average earned monthly income in the latest 12 months before course start date, with a minimum allowance of $300 and a maximum allowance of $3,000 per month\n  - Eligible for individuals who enrol in selected full-time, long-form training programmes\n  - Eligible for individuals with income in the latest 12 months before course start date\n- TA for part-time, long-form training\n  - Flat rate of $300 per month\n  - Eligible for employed individuals who enrol in selected part-time, long-form training programmes",
+      "Who is this for?": "Singapore Citizen aged 40 and above pursuing selected full-time and part-time long-form training programmes",
+      "How to apply?": "[Visit MySkillsFuture Website](https://www.myskillsfuture.gov.sg/)",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture-Mid-Career-Training-Allowance.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre operating hours: \nMonday to Friday\n8.30am to 5.30pm\nClosed on Saturday, Sunday, and Public Holidays"
+    }
+  },
+  {
+    "id": "tmyOMyke",
+    "type": "scheme",
+    "title": "MyCareersFuture ",
+    "description": "The one-stop portal for job search and application needs. It uses Artificial Intelligence (AI) and Machine Learning (ML) to help jobseekers discover career opportunities, make career transitions, or search for jobs based on skills matches.  It also provides valuable career-related resources, including career insights and career guidance to facilitate their career planning and career development processes.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/tmyOMyke",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Education and learning",
+      "Financial/Retirement Planning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Our latest Job-to-Skills job matching algorithm connects you with opportunities tailored to your skills and experience.",
+      "Utilise CareersFinder to discover personalised upskilling and career recommendations based on your unique profile.",
+      "Filter jobs eligible for Government support such as Career Conversion Programmes, Graduate Industry Traineeships (GRIT) Programme and Mid-Career Pathways Programmes",
+      "Elevate your skills with our curated articles, webinars, and courses designed for your professional growth."
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:02:12.425Z",
+    "sections": {
+      "About this support": "- **Advanced Matching Algorithm: **Our latest Job-to-Skills job matching algorithm connects you with opportunities tailored to your skills and experience.\n- **CareersFinder by MyCareersFuture: **[CareersFinder](https://careersfinder.mycareersfuture.gov.sg/) harnesses Government data and artificial intelligence to help individuals discover personalised upskilling and career recommendations based on their unique profile to achieve their career goals.\n- **Government Support Eligibility: **Filter jobs eligible for Government support such as:\n  - Career Conversion Programmes (CCP) if you are open to reskill and change career/occupations\n  - GRaduate Industry and Traineeship Programme (GRIT) if you are a fresh graduate looking for a traineeship opportunity, and\n  - Mid-Career Pathways Programmes (MCPP) if you are a mature individual looking for a mid-career attachments.\n- **CareersCompass by MyCareersFuture:** Access curated articles, career guides and expert insights to help you navigate career planning, skills development and job search strategies.\n- **CareersHorizon by MyCareersFuture: **A one-stop digital platform for career-related event registrations and management. It enables Singaporeans to access a comprehensive suite of career resources, including online articles, virtual career events, seminars, and workshops. The platform also offers micro-learning content, such as podcasts, covering topics relevant to all career stages. Additionally, it supports Singaporeans in searching and registering for career events, and it also facilitates networking opportunities between employers and individuals.",
+      "Who is this for?": "Singapore Citizens and Permanent Residents who are looking to plan their careers, make career transitions, or search for jobs.",
+      "How to apply?": "Embark on your journey to professional success with [MyCareersFuture](https://www.mycareersfuture.gov.sg/).",
+      "Agency website": "[View more details](https://www.mycareersfuture.gov.sg/)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)"
+    }
+  },
+  {
+    "id": "yYmSnTml",
+    "type": "scheme",
+    "title": "GRaduate Industry Traineeships (GRIT)",
+    "description": "Equips fresh graduates with experience and skills, easing their transition into full-time employment.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/yYmSnTml",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Recent graduates"
+    ],
+    "domains": [
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Offers up to 800 structured traineeships across various sectors for 3 to 6 months",
+      "Monthly allowance ranging from S$1,800 to S$2,400, co-funded by the government and host organisations"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:00:26.662Z",
+    "sections": {
+      "About this support": "Jointly introduced by the Ministry of Manpower (MOM), Skills & Workforce Development Agency (SWDA), GRIT provides fresh graduates with meaningful traineeships in both private companies and public agencies, enhancing their employability and work readiness.",
+      "Who is this for?": "All trainees must fulfil the following criteria:\n\n- Singapore Citizen or Permanent Resident; and\n- Graduated or graduating in 2024, 2025 or 2026 from Universities, Polytechnics, Institute of Technical Education (ITE) and other Educational Institutions (e.g. private universities and overseas institutions); or\n- Graduated earlier from above institutions and completed National Service in 2024, 2025 or 2026.** **\n- Applicants must have no prior working experience and must be prepared to commit to a full-time traineeship.",
+      "How to apply?": "Traineeship opportunities will be progressively made available on [MyCareersFuture.](https://www.mycareersfuture.gov.sg/)",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/attachment-placement-programmes/graduate-industry-traineeships)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n Monday - Friday: 8:30am to 5:30pm\n Saturday, Sunday & Public Holidays Closed"
+    }
+  },
+  {
+    "id": "EMPSUPSN",
+    "type": "scheme",
+    "title": "Employment Support for Seniors",
+    "description": "Provides career advisory and job-matching services for seniors aged 50 and above. Administered by Centre for Seniors (CFS). ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/EMPSUPSN",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Seniors"
+    ],
+    "domains": [
+      "Financial/Retirement Planning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Seniors"
+    ],
+    "highlights": [
+      "Career advisory services to assess job readiness and explore career options",
+      "Job-matching services to access job opportunities"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T07:54:35.667Z",
+    "sections": {
+      "About this support": "- Career advisory services to help seniors establish job readiness and identify possible training and career options\n- Job-matching services to gain access to meaningful job opportunities from forward-thinking organisations",
+      "Who is this for?": "- Singapore Citizen or Permanent Resident\n- Aged 50 years and above",
+      "How to apply?": "Contact Centre for Seniors (CFS) at [8028 2536](tel:80282536) or [admin@cfs.org.sg](mailto:admin@cfs.org.sg) for more information.",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/attachment-placement-programmes/employment-support-for-seniors)",
+      "Email / Form": "[Submit an enquiry](mailto:admin@cfs.org.sg)",
+      "Phone number": "Centre for Seniors (CFS) hotline: [8028 2536](tel:80282536)"
+    }
+  },
+  {
+    "id": "CCPIND",
+    "type": "scheme",
+    "title": "Career Conversion Programme (CCP) for Individuals",
+    "description": "Support mid-career new hires or existing employees seeking to transition into growth job roles with good longer-term prospects.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/CCPIND",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Mid-career",
+      "Workers"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Undergo on-the-job training to take up new growth job roles",
+      "Salary support of up to 90% for mid-career individuals",
+      "Apply through CCP-supportable jobs on MyCareersFuture"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T07:30:50.492Z",
+    "sections": {
+      "About this support": "- Access on-the-job training to switch careers into growth sectors with long-term prospects\n- Salary support of up to 90% for mid-career workers\n- Embark on a new career with CCPs across around 30 sectors",
+      "Who is this for?": "Mid-career individuals should meet the following criteria:\n\n- Singapore Citizen or Permanent Resident\n- Aged 21 or above\n- Graduated or completed National Service, for at least 2 years\n- Career conversion is required:\n  - New Hire: New job role trained for under the CCP should be substantially different from previous job role before joining CCP\n  - Existing Employee: New job role should be growth job roles identified under the Jobs Transformation Maps (JTMs)\n- Able to commit to full-time employment or attachment in a participating company\n\nBeyond the general eligibility criteria, different CCPs may have additional course-specific entry requirements, and employers may apply their own -specific shortlisting process. In general, individuals applying for CCPs should also not be shareholders, immediate ex-staff, or related to owners/decision-makers of the CCP participating company or its related entities.",
+      "How to apply?": "Apply for CCPs here through CCP-supportable jobs on [MyCareersFuture](https://www.mycareersfuture.gov.sg/).",
+      "Where to go": "",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/attachment-placement-programmes/career-conversion-programmes-for-individuals)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)"
+    }
+  },
+  {
+    "id": "SGUP-CA",
+    "type": "scheme",
+    "title": "Mid-Career Pathways Programme (MCPP) ",
+    "description": "A full-time attachment programme for mature, mid-career individuals seeking a career switch. Applicants are attached to a host organisation for 4-6 months to gain industry-relevant skills and experience. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SGUP-CA",
+    "keywords": [
+      "Budget 2022",
+      "Mid-career"
+    ],
+    "domains": [
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Full-time attachment programme of 4 to 6 months with training allowance with approved host organisations",
+      "Trainees can look forward to a full-time role with their host organisations if their performance is assessed to be satisfactory during the attachment",
+      "Apply through the MyCareersFuture portal"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T07:29:38.911Z",
+    "sections": {
+      "About this support": "- Offers full-time attachment opportunities of between 4 to 6 months to support mature mid-career jobseekers in widening their professional networks and gaining meaningful industry-relevant skills and experience\n\n**Training Allowance**\n\nMature mid-career trainees will receive a training allowance of up to $3,800 per month for the duration of the attachment or programme. The approved monthly training allowance may vary depending on the scope of the attachment proposed by the host organisation. The government co-funds the training allowance with the host organisation.\n\nMonthly Training Allowance\n$1,800 to $3,800\nGovernment Funding\n70% of the training allowance",
+      "Who is this for?": "- All Singaporeans and Permanent Residents aged 40 and above",
+      "How to apply?": "Apply for attachment opportunities through [MyCareersFuture](https://mycareersfuture.gov.sg).",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/attachment-placement-programmes/mid-career-pathways-programme-for-mature-mid-career-individuals)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)"
+    }
+  },
+  {
+    "id": "CGPOLARIS",
+    "type": "scheme",
+    "title": "Career Guidance Programme",
+    "description": "Polaris is a suite of personalised career guidance programmes designed for individuals looking to elevate their careers through career planning. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/CGPOLARIS",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Fees payable"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Polaris suite of programmes are SkillsFuture Credit-eligible",
+      "Programmes range from two months to three months in duration"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T07:28:10.659Z",
+    "sections": {
+      "About this support": "- Personalised career guidance by a credentialed career coach to help you make informed career decisions\n- Tailored Career Development Plan to support your professional growth",
+      "Who is this for?": "- Singapore Citizens and Permanent Residents",
+      "How to apply?": "Tailor your personalised career development plan with [expert guidance and support from credentialed career coaches](https://content.mycareersfuture.gov.sg/career-guidance-by-polaris/).",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/skills-career-planning)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)"
+    }
+  },
+  {
+    "id": "VCADVINI",
+    "type": "scheme",
+    "title": "Volunteer Career Advisors Initiative",
+    "description": "A community-driven effort designed to support you in navigating your career journey with confidence. Launched with the aim of fostering career resilience and growth, the initiative connects you with industry experts from diverse sectors who volunteer their time and expertise. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/VCADVINI",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Get sector-specific career advice from industry veterans and connected to government programme and services",
+      "Gain insights into industry trends and skills"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T07:26:00.443Z",
+    "sections": {
+      "About this support": "- Get sector- and occupation-specific career advice from industry veterans\n- Access insights into industry trends and skills to inform career decisions",
+      "Who is this for?": "Singapore Citizens or Permanent Residents",
+      "How to apply?": "Please visit [VCA App](https://go.gov.sg/vcai-app) for more information about the initiative and view the list of Volunteer Career Advisors.",
+      "Agency website": "[View more details](https://go.gov.sg/vcainitiative)",
+      "Email / Form": "[Submit an enquiry](mailto:capo@wsg.gov.sghttps://form.gov.sg/66f36d773f815c0206f0f885?66d02c2747c670ce5355e70d=CM Wang)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)"
+    }
+  },
+  {
+    "id": "EMPSUPPWD",
+    "type": "scheme",
+    "title": "Employment Support for Persons with Disabilities",
+    "description": "Enhances the employability of, and increases employment options for, Persons with Disabilities (PWDs) by providing access to career advisory services, training courses, and post-placement job support. Administered by SG Enable. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/EMPSUPPWD",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "PWDs"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Persons with disabilities"
+    ],
+    "highlights": [
+      "Career advisory services to help establish job readiness, and identify training and career options",
+      "Course fee subsidies of up to 95% for SG Enable’s list of curated training courses",
+      "Received training allowance of $6 per hour, and training commitment award of $100 per completed course"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T07:14:09.612Z",
+    "sections": {
+      "About this support": "- Career advisory services to help determine job readiness and explore career pathways\n- Up to 95% subsidy on course fees for SG Enable’s list of curated training courses\n- Training allowance at $6 per hour for course duration\n- Training commitment award of $100 for each completed course",
+      "Who is this for?": "- Singapore Citizen or Permanent Resident\n- Identified as Person(s) with Disabilities (PWDs), specifically, individual(s) with physical, sensory, intellectual and/or development impairments, which substantially reduce their prospects of securing and retaining jobs, and advancing in education, training and employment, and recreation\n- Certification from medical doctor required to prove disability status",
+      "How to apply?": "Contact SG Enable at [1800-8585-885](tel:18008585885) or [employment@sgenable.sg](mailto:employment@sgenable.sg) for more information.",
+      "Where to go": "[20 Lengkok Bahru (Enabling Village)](https://onemap.gov.sg/?postal=159053)\n\n[#01-01 Singapore 159053](https://onemap.gov.sg/?postal=159053)",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/attachment-placement-programmes/support-for-persons-with-disabilities)",
+      "Email / Form": "[Submit an enquiry](mailto:employment@sgenable.sg)",
+      "Phone number": "SG Enable hotline: [1800-8585-885](tel:1800-8585-885)"
+    }
+  },
+  {
+    "id": "JOBOPPYR",
+    "type": "scheme",
+    "title": "Job Opportunities (Yellow Ribbon)",
+    "description": "Provides career support and job access to help ex-offenders reintegrate into the workforce. Administered by Yellow Ribbon Singapore (YRSG). ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/JOBOPPYR",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Rehabilitation/Reintegration Services"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Career advisory services to increase access to employment opportunities",
+      "Prepares unemployed ex-offenders to re-enter the workforce",
+      "Career retention support to ease re-integration and stay in employment"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T07:07:53.530Z",
+    "sections": {
+      "About this support": "- Career advisory services to guide ex-offenders in finding suitable employment and improved access to employment opportunities\n- Prepares unemployed ex-offenders to re-enter the workforce\n- Provides ex-offenders with career retention support to ease re-integration and stay in employment",
+      "Who is this for?": "Ex-offenders who are Singapore Citizens or Permanent Residents",
+      "How to apply?": "Contact Yellow Ribbon Singapore at [6513 1537](tel:65131537) or [Career_Services@yellowribbon.gov.sg](mailto:Career_Services@yellowribbon.gov.sg) for more information.",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/attachment-placement-programmes/job-opportunities-yellow-ribbon)",
+      "Email / Form": "[Submit your enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Yellow Ribbon Singapore hotline: [6513 1537](tel:65131537)  or  [1800 741 5567](tel:18007415567)"
+    }
+  },
+  {
+    "id": "wpGyuJUN",
+    "type": "scheme",
+    "title": "SkillsFuture Jobseeker Support Scheme ",
+    "description": "Provides temporary financial support of up to $6,000 over 6 months to involuntarily unemployed individuals, to support them in finding a job that makes better use of their skills and experiences.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/wpGyuJUN",
+    "keywords": [
+      "Budget 2025",
+      "Jobseekers"
+    ],
+    "domains": [
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Payouts of up to $6,000 over 6 months ",
+      "To qualify for payouts, individuals will have to apply online to participate in the scheme and take part in supported job search activities"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T06:58:11.571Z",
+    "sections": {
+      "About this support": "- Payouts of up to $6,000 over 6 months\n- To qualify for payouts, individuals will have to apply online to participate in the scheme and take part in supported job search activities",
+      "Who is this for?": "- Singapore Citizen or Permanent Resident, aged 21 and above\n- Earned an average gross monthly income of $5,000 or less in the past 12 months*** **(excluding employer CPF contributions)\n- Previously employed in Singapore for at least six months in the past 12 months\n- Unemployed due to involuntary reasons such as retrenchment, cessation of business, dismissals or termination due to illness, injury or accident\n- Lives in a property in Singapore with annual value of $31,000 or less\n- Has not received a payout from this scheme in the past three years\n\n*** **Average gross monthly income includes basic salary and extra wages such as overtime pay, commissions and bonuses. This includes only the period(s) where the individual is employed and earning an income.",
+      "How to apply?": "You can learn more and apply for the scheme at https://go.gov.sg/jobseekersupport",
+      "Agency website": "[View more details](https://go.gov.sg/jobseekersupport)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)"
+    }
+  },
+  {
+    "id": "SVC-YVASSPV",
+    "type": "service",
+    "title": "YMCA Vocational and Soft Skills Programme (VaSSP)",
+    "description": "Aims to equip out-of-school youths and youths-at-risk with job competency as well as specific vocational skills. ",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-YVASSPV",
+    "keywords": [
+      "Referral required",
+      "Youths at risk"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 14,
+    "max_age": 21,
+    "cost": "PAID",
+    "info_last_updated": "2026-06-30T07:19:28.047Z",
+    "sections": {
+      "About this support": "The YMCA Vocational and Soft Skills Programme (VaSSP), also known as Project Bridge, aims to equip out-of-school youths and youths-at-risk of dropping out (who are absent from school for a long period) with essential soft skills and vocational expertise, enabling them to enhance their employability to integrate into the workforce or to reintegrate to education.\n\nConducted over 6 months, the programme consists to three phases: Core Training, Vocational Training, and Monitoring Phase. Service users engage in soft skills training, covering crucial areas such as goal setting, resume writing, interview skills, and communication and conflict resolution.\n\nSubsequently, youths can select one out of 14 vocational tracks and receive certified training in the chosen industry. Thereafter, YMCA staff will continue to monitor the service users for a period of time before completion of the programme by supporting them in aspects such as career counselling or academic support in the service users' journey to either obtain employment or reintegrate back into education.",
+      "Who is this for?": "- Unemployed youths or school leavers between 15 and 21 years old\n- Educational attainment of 'N' levels or below\n- Pass the admission interview\n- Able to commit and attend full-time training, and achieve 75% attendance and above",
+      "How to apply?": "- Email - projectbridge@ymca.org.sg\n- Students can be referred by school counsellor or other social service agencies",
+      "What to expect?": "- Interested parties can write in to VaSSP and a staff will be in touch within 3 working days\n- Youths will need to go through admission interview and meet the criteria of the programme"
+    }
+  },
+  {
+    "id": "VG22AnYD",
+    "type": "service",
+    "title": "The GRIT Academy",
+    "description": "Mentoring programme for youths-at-risk in Jurong. ",
+    "url": "https://supportgowhere.life.gov.sg/services/VG22AnYD",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Mental health",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-06-30T07:13:02.090Z",
+    "sections": {
+      "About this support": "The GRIT Academy (TGA) aims to provide individual mentoring support for youths-at-risk aged between 11 to 17 years old residing or studying in schools in Jurong; and serve as the primary relationship holder to follow through with the youths as they transit to other youth programmes.",
+      "Who is this for?": "The target clientele is youths-at-risk aged between 11 to 17 years old residing or studying in schools in Jurong (i.e. Jurong West, Jurong East and Taman Jurong).\n\nApplicants must fulfil at least one of the following criteria to be eligible for the programme:\n\n1. Youths who lack meaningful engagements such as those not attending Co-Curricular Activities, as well as youths who often loiter at public areas such as playgrounds and void decks.\n2. Youths with underprivileged background such as youths from low-income families, students receiving the MOE Financial Assistance Scheme and youths staying in rental flats.\n3. Youths exhibiting at-risk behaviour such as poor affiliation to schools, minor behavioural issues, socio-emotional issues and/or peer issues.",
+      "How to apply?": "Complete the form on https://lakeside.org.sg/our-services/the-grit-project/ and email it to [thegritproject@lakeside.org.sg](mailto:thegritproject@lakeside.org.sg).",
+      "What to expect?": "Screening for potential service users will take approximately 2 weeks from the referral/youth sign-up. Adjustment to the screening time frame will be considered based on the assessed urgency."
+    }
+  },
+  {
+    "id": "LPsRp3sD",
+    "type": "scheme",
+    "title": "Enabling Business Hub",
+    "description": "Developed by SG Enable, Enabling Business Hubs (EBHs) bring training and employment opportunities closer to homes for persons with disabilities through customised job support and inclusive workplace practices.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/LPsRp3sD",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "PWDs"
+    ],
+    "domains": [
+      "Disability support",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Persons with disabilities"
+    ],
+    "highlights": [
+      "Employment for PwDs",
+      "Training and employment opportunities for PwDs"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-06-18T07:14:42.107Z",
+    "sections": {
+      "About this support": "With an on-site Employment Support Team, persons with disabilities can look forward to a comprehensive suite of employment-related services such as vocational assessment, training, job-matching and post-placement job support. These services aim to better match persons with disabilities to jobs in the region based on their skills and interests and support them in employment.\n\nEBH@Jurong\n\nLocated beside Lakeside MRT, at 111A Yuan Ching Road, Singapore 619606, EBH@Jurong aims to bring training and employment opportunities closer to the homes of persons with disabilities living in the West, including those with higher work support needs.\n\nKey Features of EBH@Jurong\n\n1. Provide targeted training and support** **to prepare persons with disabilities for employment in the logistics sector.\n2. Provide on-site employment support, including longer and more intensive employment support for persons with disabilities with higher work support needs and require a longer runway of support to work independently in the community.",
+      "Who is this for?": "Applicants should be:\n\n- Aged 16 and above\n- Singapore Citizens or Permanent Residents\n- Verified to have a permanent disability of any of the following:\n  - Physical Disability: Requires some assistance with at least one of the six Activities of Daily Living due to physical impairment\n  - Moderate visual impairment or worse in the better eye\n  - Moderate hearing loss or worse in the better ear\n  - Intellectual disability\n  - Autism\n- Preferably living in the West or keen to work in the Logistics industry",
+      "How to apply?": "**Prior to application, applicants are encouraged to check if your disability status has already been verified by logging into **[**SupportGoWhere**](https://supportgowhere.life.gov.sg/status/pwdr)**. **\n\n**Preparation of documents**\n\nThe following supporting documents are required before making an application:\n\n- [Disability Verification Form (DVF)](https://www.enablingguide.sg/docs/default-source/default-document-library/disability-verification-form.pdf) (To be completed and endorsed by registered healthcare professional if disability status is unverified)\n- Copy of NRIC Front and Back\n- [One Referral Form](https://www.enablingguide.sg/docs/default-source/default-document-library/one-referral-form-with-omnibus_2025.pdf?sfvrsn=ab89bee_1) (For email/physical submissions only)\n\n**How to apply**\n\nPersons with disabilities seeking employment assistance may:\n\n1. Apply online via [SupportGoWhere](https://supportgowhere.life.gov.sg/grants/ebh/apply),[ ](#_msocom_5)or\n2. Download the One Referral Form (ORF) and email the supporting documents to EBH@Jurong at [EBH_Jurong@bizlink.org.sg](mailto:EBH_Jurong@bizlink.org.sg) or;\n3. Contact [EBH_Jurong@bizlink.org.sg](mailto:EBH_Jurong@bizlink.org.sg) to schedule an appointment with the EBH@Jurong employment services team.\n\nPersons with disabilities keen on other employment programmes, please email us at [employment@sgenable.sg](mailto:employment@sgenable.sg).",
+      "Where to go": "[Enabling Village](https://www.onemap.gov.sg/?postal=159053)\n[20 Lengkok Bahru ](https://www.onemap.gov.sg/?postal=159053)\n[#01-01, Singapore 159053](https://www.onemap.gov.sg/?postal=159053)",
+      "Agency website": "[View more details](https://www.enablingguide.sg/ebh)",
+      "Email / Form": "[employment@sgenable.sg](mailto:employment@sgenable.sg)",
+      "Phone number": "SG Enable’s Hotline: [1800-8585-885](tel:1800-8585-885)"
+    }
+  },
+  {
+    "id": "lFdUZ4N8",
+    "type": "scheme",
+    "title": "IHL Internship Programme",
+    "description": "The SG Enable IHL Internship Programme matches students with disabilities to internships offered by inclusive organisations in various sectors based on their course of study, interests and preferences. Students will learn in a real work environment, build up their professional networks, and gain practical job-related knowledge and skills.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/lFdUZ4N8",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "PWDs"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [
+      "Matches students with disabilities to internships with inclusive employers",
+      "Job support provided during the internship",
+      "Opportunity to learn in real work environments and build professional networks"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-06-16T09:13:33.852Z",
+    "sections": {
+      "About this support": "IHL students with disabilities will receive internship support services such as:\n\n- reviewing their resumes;\n- conducting internship search;\n- preparing them for interviews;\n- accompanying them for interviews (sitting in as observer);\n- advising potential employers on the student’s disabilities and support needs and;\n- providing job support (either virtual or in-person) during the internship.",
+      "Who is this for?": "- Singapore Citizens and Singapore Permanent Residents who have a verified disability status*;\n- Currently enrolled at an Institute of Higher Learning (IHL)# and\n- Applicants should have a permanent disability based on any one of the following:\na) Physical Disability: Requires some assistance with at least 1 of the 6 Activities of Daily Living due to physical impairment\nb) Moderate visual impairment or worse in the better eye\nc) Moderate hearing loss or worse in the better ear\nd) Intellectual Disability\ne) Autism\n\n*You can check if your disability status is verified on [SupportGoWhere](https://supportgowhere.life.gov.sg/status/pwdr) by logging with your Singpass or contact us at [IHL-to-work@sgenable.sg](mailto:IHL-to-work@sgenable.sg).\n\n# IHLs refer to autonomous universities, polytechnics, Institute of Technical Education and other arts and private education institutions.",
+      "How to apply?": "To register, applicants will need to:\n\n1. Check if your disability status is verified via [SupportGoWhere](https://supportgowhere.life.gov.sg/status/pwdr ), or contact us at [IHL-to-work@sgenable.sg](mailto:IHL-to-work@sgenable.sg).\n2. Download and complete the [Disability Verification Form (DVF](https://www.enablingguide.sg/disability-verification)). (To be completed by a [relevant registered healthcare professional](https://www.enablingguide.sg/registered-healthcare-professionals-(hcps)/))\n    - Note: Only applicants who do not have a verified disability status will be required to upload the DVF.\n3. Upload the completed DVF as part of the online application on the IHL Internship Programme on [SupportGoWhere](https://supportgowhere.life.gov.sg/grants/ihl/apply).",
+      "Where to go": "[Enabling Village](https://onemap.gov.sg/?postal=159053)\n[20 Lengkok Bahru #01-01](https://onemap.gov.sg/?postal=159053)\n[159053](https://onemap.gov.sg/?postal=159053)",
+      "Agency website": "[View more details](https://www.enablingguide.sg/ihl-to-work)",
+      "Email / Form": "[IHL-to-work@sgenable.sg](mailto:IHL-to-work@sgenable.sg)",
+      "Phone number": "SG Enable hotline: [1800-8585-885](tel:1800-8585-885)"
+    }
+  },
+  {
+    "id": "ejdrPN9A",
+    "type": "scheme",
+    "title": "Job Placement and Job Support",
+    "description": "Provides persons with disabilities employment assistance through job matching and job coaching for up to 12 months. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/ejdrPN9A",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "PWDs"
+    ],
+    "domains": [
+      "Disability support",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Persons with disabilities"
+    ],
+    "highlights": [
+      "Vocational assessment to assess work readiness",
+      "Explore job opportunities with inclusive employers",
+      "Receive job support for up to 12 months: On-site job coaching to facilitate workplace integration"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-05-21T09:13:57.102Z",
+    "sections": {
+      "About this support": "SG Enable works with partner agencies funded by the government to provide Job Placement and Job Support (JPJS) services such as APSN, Autism Resource Centre (Singapore), Movement for the Intellectually Disabled of Singapore (MINDS) and SPD. Persons with disabilities who approach SG Enable for employment assistance will be referred to a suitable partner agency, subject to the respective agency’s eligibility criteria.\n\nSG Enable and its appointed partners provide specialised job placement and job support services that include the following:\n\n- Assessing the jobseeker’s strengths, job interests and skills, and identifying training opportunities\n- Helping the jobseeker identify job opportunities and link up with prospective inclusive employers\n- Assessing the nature of the job and its tasks for suitability\n- Assessing the built environment for accessibility\n- Working with the employer to job redesign and recommend workplace modification, making use of assistive devices, if needed\n- On-site job coaching to help the new employee integrate into the workplace",
+      "Who is this for?": "Singapore Citizens and Permanent Residents who are verified to have a permanent disability of any of the following:\n\n- Physical Disability: Requires some assistance with at least one of the size Activities of Daily Living due to physical impairment\n- Moderate Visual Impairment or worse in the better eye\n- Moderate Hearing Loss or worse in the better ear\n- Intellectual Disability\n- Autism\n\n^You can check if your disability status is verified on [SupportGoWhere](https://supportgowhere.life.gov.sg/status/pwdr) or contact us at [employment@sgenable.sg](mailto:employment@sgenable.sg).",
+      "How to apply?": "**Preparation of documents**\n\nThe following support documents are required before making an application:\n\n- [Disability Verification Form (DVF)](https://www.enablingguide.sg/docs/default-source/default-document-library/disability-verification-form.pdf) (To be completed and endorsed by registered healthcare professional)\n- Copy of NRIC Front and Back\n- One Referral Form (for email/physical submissions only)\n\n**How to apply**\n\nPersons with disabilities seeking employment assistance may apply\n\n1)      Online via SupportGoWhere, or\n\n2)      Download the [One Referral Form](https://www.enablingguide.sg/docs/default-source/default-document-library/one-referral-form-with-omnibus_2025.pdf?sfvrsn=ab89bee_1) and email us at [employment@sgenable.sg](mailto:employment@sgenable.sg), or\n\n3)      Approach SG Enable’s Information and Career Centre, located within the Enabling Village, for assistance.\n\nJobseekers with disabilities can also apply for vacancies with our inclusive employers in our [Disability Employment Portal](https://eservice1.enable.gov.sg/MSFPortal/EDS/Employment/Pages/Common/Index/Index.aspx).",
+      "Where to go": "[20 Lengkok Bahru 159053](https://onemap.gov.sg/?postal=159053)\n\nEnabling Village #01-01",
+      "Agency website": "[View more details](https://www.enablingguide.sg/im-looking-for-disability-support/training-employment/job-placement-and-job-support)",
+      "Email / Form": "[contactus@sgenable.sg](mailto:contactus@sgenable.sg)",
+      "Phone number": "SG Enable hotline: [1800-8585-885](tel:1800-8585-885)"
+    }
+  },
+  {
+    "id": "zQnhRFwq",
+    "type": "scheme",
+    "title": "Hospital-to-Work Transition Programme",
+    "description": "Provides case management, rehabilitation and employment support for persons with acquired disability from accidents or medical conditions who are looking to return to work. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/zQnhRFwq",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "PWDs"
+    ],
+    "domains": [
+      "Disability support",
+      "Mental health",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Persons with disabilities"
+    ],
+    "highlights": [
+      "Provides employment assistance for persons with acquired disabilities",
+      "Personalised rehabilitation and training facilitation",
+      "1-1 case management services"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-05-21T09:08:53.799Z",
+    "sections": {
+      "About this support": "Jobseekers in the programme can get personalised career re-assessment, rehabilitation and job-matching services. Persons with disabilities who are already in employment can also benefit from job support services. A case manager will support you throughout your transition to work, providing the following services:\n\nRehabilitation\n\n- For clients requiring rehabilitation support, SG Enable collaborates with partner agencies such as SPD and ABLE to provide integrated rehabilitation and employment support services.\n\nCase management\n\n- Assessing the jobseeker’s strengths, job interests and skills, and identifying job options.\n- Facilitate psychosocial and community support through referrals, if needed.\n- Recommending relevant training courses, building resume and strengthening interview skills.\n- Assessing the nature of the job and its tasks for suitability.\n- Assessing the built environment for accessibility.\n- Working with employers to job redesign and recommend workplace modification, if needed.\n\nEmployment support\n\n- Vocational re-assessment, training coordination, job matching and placement, and on-site job coaching to help the new employee integrate into the workplace.",
+      "Who is this for?": "- Singapore Citizen or Permanent Resident\n- Above 16 years of age\n- Medically certified as fit for employment\n- Persons with a permanent acquired disability*^ based on any one of the following:\n  - Physical Disability: Requires some assistance with at least one of the six Activities of Daily Living due to physical impairment\n  - Moderate Visual Impairment or worse in the better eye\n  - Moderate Hearing Loss or worse in the better ear\n\n*If your condition does not fall under the categories listed above, you may still approach SG Enable for a discussion.\n\n^You can check if your disability status is verified on [SupportGoWhere ](https://supportgowhere.life.gov.sg/status/pwdr)by logging with your Singpass or contacting us at [H2W_SWW@sgenable.sg](mailto:H2W_SWW@sgenable.sg).",
+      "How to apply?": "**Preparation of documents**\n\nThe following supporting documents are required before making an application:\n\n- [Disability Verification Form (DVF)](https://www.enablingguide.sg/docs/default-source/default-document-library/disability-verification-form.pdf) (To be completed by a relevant registered healthcare professional)\n- [Fitness for Employment and Rehabilitation Form](https://www.enablingguide.sg/docs/default-source/default-document-library/h2w-fitness-for-employment-and-rehabilitation-form.pdf) (To be completed by a relevant registered healthcare professional)\n- [Hospital-to-Work Application Form](https://www.enablingguide.sg/docs/default-source/default-document-library/h2w-application-form.pdf) (For email/physical submissions only)\n- [OneMSF Omnibus Consent Form](https://www.enablingguide.sg/docs/default-source/default-document-library/onemsf-omnibus-consent-form_version-1-0.docx)\n- Copy of NRIC Front and Back\n\n** For persons with disabilities**:\n\n- Apply online via [SupportGoWhere](https://supportgowhere.life.gov.sg/grants/h2w/apply), or\n- Email [H2W_SWW@sgenable.sg](mailto:H2W_SWW@sgenable.sg) with the above completed supporting documents\n- Approach SG Enable’s Information and Career Centre, located within the Enabling Village, for assistance.\n\n** **\n\n**For Healthcare Professionals (HCP) **making referrals:\n\n- Apply online via [Partner Portal](https://partner.casecentral.gov.sg/), or\n- Email [H2W_SWW@sgenable.sg](mailto:H2W_SWW@sgenable.sg) with the above supporting documents filled and endorsed.",
+      "Where to go": "[20 Lengkok Bahru 159053](https://onemap.gov.sg/?postal=159053)\nEnabling Village",
+      "Agency website": "[View more details](https://enablingguide.sg/h2w)",
+      "Email / Form": "[H2W_SWW@sgenable.sg](mailto:H2W_SWW@sgenable.sg)",
+      "Phone number": "SG Enable hotline: [1800-8585-885](tel:1800-8585-885)\n\nAirtime charges apply for mobile calls to 1800 service lines. Calls are free of charge only if made from regular land lines in Singapore."
+    }
+  },
+  {
+    "id": "uX75MUE0",
+    "type": "scheme",
+    "title": "GRaduate Industry Traineeships @Gov (GRIT@Gov)",
+    "description": "Equips fresh graduates with experience and skills, easing their transition into full-time employment. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/uX75MUE0",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Recent graduates"
+    ],
+    "domains": [
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "3 to 6-month traineeships in Public Service for fresh graduates ",
+      "Enables fresh graduates to gain useful skills and experience through short-term traineeships",
+      "Trainees receive a monthly training allowance ranging from S$1,800 to $2,400 "
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-03-16T03:33:13.862Z",
+    "sections": {
+      "About this support": "The GRaduate Industry Traineeships @Gov (GRIT@Gov) Programme supports fresh graduates in gaining experience and skills, to facilitate their transition into full-time employment. GRIT@Gov offers traineeships for fresh graduates within public sector agencies.\n\nTrainees will receive a monthly training allowance ranging from S$1,800 to $2,400 for the duration of the traineeship. This training allowance may vary depending on the scope of each traineeship.",
+      "Who is this for?": "All trainees must fulfil the following criteria:\n\n- Singapore Citizen or Permanent Resident; and\n  - Graduated or graduating in 2024, 2025 or 2026 from Universities, Polytechnics, Institute of Technical Education (ITE) and other Educational Institutions (e.g. private universities and overseas institutions); or\n  - Graduated earlier from above institutions and completed National Service in 2024, 2025 or 2026.** **\n  - Applicants must have no prior working experience and must be prepared to commit to a full-time traineeship.\n\nTrainees who complete their studies from Universities, Polytechnics, the Institute of Technical Education (ITE) or other Educational Institutions within 2026 but who will only receive their qualification/certification award in 2027 are eligible for the programme as well.",
+      "How to apply?": "Browse and apply for GRIT@Gov traineeships via [Careers@Gov](https://jobs.careers.gov.sg/?s=grit@gov&utm_source=c@gshopfront&utm_medium=click&utm_id=grit-gov).\n\nIf you are a fresh graduate who is considering a role in the Public Service, check out our [Early Careers](https://www.careers.gov.sg/join-us/early-careers/?utm_source=gritgovpage&utm_medium=website&utm_campaign=gritgovprog) page.\n\nTo view all vacancies across the Public Service (including for mid-careerists), please visit our [Careers@Gov job portal](https://jobs.careers.gov.sg/?utm_source=gritgovpage&utm_medium=website&utm_campaign=gritgovprog).",
+      "Agency website": "[View more details ](https://www.careers.gov.sg/join-us/grit-gov/)",
+      "Email / Form": "[Submit an enquiry](https://form.gov.sg/6603c569d4c3dae8e1eaf228)"
+    }
+  },
+  {
+    "id": "TIPP",
+    "type": "scheme",
+    "title": "Tech Immersion and Placement Programme (TIPP)",
+    "description": "Immersive training bootcamp to prepare non-ICT professionals for ICT roles like web developers, user experience designers, and data analysts.  ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/TIPP",
+    "keywords": [
+      "Jobseekers",
+      "Mid-career"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Prepare mid-career professionals for a career switch into tech",
+      "Mentorship and coaching from leading experts in ICT field",
+      "Subsidised course fee upon completion of the programme"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-02-19T06:49:25.473Z",
+    "sections": {
+      "About this support": "- [Immersive ICT training courses or mentorship & coaching programmes](https://www.imda.gov.sg/How-We-Can-Help/TechSkills-Accelerator-TeSA/Tech-Immersion-and-Placement-Programme-TIPP#Eligible-partners-and-courses) that will lead to the creation of an impressive portfolio\n- Interact with leading experts\n- Enjoy subsidised course fees",
+      "Who is this for?": "- **Individuals: **Singapore Citizens who are non-ICT professionals and are interested in switching to ICT job roles\n- **Companies: **Singapore registered Institute of Higher Learning (IHL); or Private Education Institution (PEI) with a valid Enhanced Registration Framework (ERF) registered with SkillsFuture Singapore (SSG) for the duration of the project qualifying period.\n- Other eligibility criteria varies by [industry partner and course.](https://www.imda.gov.sg/How-We-Can-Help/TechSkills-Accelerator-TeSA/Tech-Immersion-and-Placement-Programme-TIPP#Eligible-partners-and-courses)",
+      "How to apply?": "You can visit the list of [eligible partners and courses](https://www.imda.gov.sg/How-We-Can-Help/TechSkills-Accelerator-TeSA/Tech-Immersion-and-Placement-Programme-TIPP#Eligible-partners-and-courses) and apply directly via the partners' website",
+      "Agency website": "[View more details](https://www.imda.gov.sg/How-We-Can-Help/TechSkills-Accelerator-TeSA/Tech-Immersion-and-Placement-Programme-TIPP)",
+      "Email / Form": "[Submit an enquiry](https://go.gov.sg/imda-feedback)",
+      "Phone number": "IMDA Hotline: [6377 3800](tel:63773800)"
+    }
+  },
+  {
+    "id": "CLT",
+    "type": "scheme",
+    "title": "Company-Led Training (CLT) Programme",
+    "description": "Deepen your tech and media skills through on-the-job training in emerging tech and media areas such as artificial intelligence, cyber security, data analytics and virtual production. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/CLT",
+    "keywords": [
+      "Technology",
+      "Workers"
+    ],
+    "domains": [
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "On-the-job training for in-demand tech and media skills",
+      "Work on projects guided by experienced mentors",
+      "Enhance your employability and career pathways in tech and media roles"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-02-19T06:49:10.173Z",
+    "sections": {
+      "About this support": "- Gain employment and receive a salary while being equipped with in-demand tech and media skills\n- Work on projects guided by experienced mentors\n- Gain in-depth industry exposure\n- Enhance your employability and career pathways in tech and media roles",
+      "Who is this for?": "Participating organisations must:\n\n- Be a Singapore-registered company.\n- Employ professionals in tech and media job roles that are in demand by the industry.\n- Have the capability and capacity to deliver training programmes, with a good track record in human resource development.\n- Commit resources including practical projects and qualified mentors to support trainees’ learning.\n- Provide structured career progression pathways based on skills and competencies.\n- Ensure that Singapore Permanent Residents (SPRs) do not exceed 15% of total trainees who have completed training.",
+      "How to apply?": "You can visit the [list of eligible companies](https://www.imda.gov.sg/How-We-Can-Help/TechSkills-Accelerator-TeSA/Company-Led-Training-Programme-CLT/Full-List-of-Job-Roles) and apply via the partners' website.",
+      "Agency website": "[View more details](http://go.gov.sg/tesaclt)",
+      "Email / Form": "[Submit an enquiry](https://go.gov.sg/imda-feedback)",
+      "Phone number": "IMDA Hotline: [6377 3800](tel:63773800)"
+    }
+  },
+  {
+    "id": "ZHDOAsEu",
+    "type": "scheme",
+    "title": "OnePA CC Courses",
+    "description": "Provide opportunities for residents to pick up new skills and interests through courses offered at Community Centres/Clubs (CCs) and Residents’ Networks (RNs). ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/ZHDOAsEu",
+    "keywords": [
+      "Courses",
+      "Fees payable"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Healthcare and well-being",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Dive into lifelong learning with PA's array of courses, from technical skills to languages",
+      "Enhance your well-being with health and wellness tips, including grooming, makeup, skincare, and body care advice",
+      "Embrace your interests and passions with lifestyle and leisure courses, exploring arts, crafts, cooking, and creativity",
+      "Keep fit with our wide range of sports and dance fitness courses"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2025-12-09T06:48:05.191Z",
+    "sections": {
+      "About this support": "- Diverse range of courses at Community Centres/Clubs (CCs) and Residents’ Networks (RNs) covering everything from personal growth to interest development in areas like enrichment, health, hobbies, and fitness\n- Industry Guru Series: Tailored networking and deep dive learning opportunities to prepare you for the evolving job market\n- SkillsFuture@PA: Enhance your skills and knowledge by utilising your SkillsFuture Credit (SFC) for courses at CCs\n- PA SHIOK Series: Customised courses and programmes by the People’s Association (PA) Malay Activity Executive Committees Council (MESRA) and Malay Muslim Organizations (MMOs)",
+      "Who is this for?": "Singapore Citizens, Permanent Residents and Non-Singapore Citizens / Foreigners",
+      "How to apply?": "- To sign up for People's Association (PA) courses, you can:\n  - Visit [OnePA](https://www.onepa.gov.sg) to browse and register for courses by logging in with your SingPass account\n  - Visit your [nearest CC](https://www.onepa.gov.sg/cc) to register at the counter",
+      "Where to go": "[Visit your nearest Community Centre/Club (CC)](https://www.onepa.gov.sg/cc)",
+      "Agency website": "[View more details](https://www.pa.gov.sg/our-programmes/cc-courses/courses/)",
+      "Email / Form": "[Submit an enquiry](https://www.pa.gov.sg/feedback/)",
+      "Phone number": "PA Contact Centre’s Hotline: [6225 5322](tel:62255322)"
+    }
+  },
+  {
+    "id": "SIVLERJOBS_PORTAL",
+    "type": "scheme",
+    "title": "Silverjobs Portal",
+    "description": "A job portal for seniors to explore work in  various sectors for meaningful retirement. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SIVLERJOBS_PORTAL",
+    "keywords": [
+      "Jobseekers",
+      "Seniors"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Financial/Retirement Planning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Seniors"
+    ],
+    "highlights": [
+      "Help seniors explore job opportunities"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2025-09-23T07:49:26.456Z",
+    "sections": {
+      "About this support": "A job platform created by the Centre For Seniors (CFS) - a non-profit, Social Service Agency (SSA) - with seniors in mind to help them to explore work in various sectors for meaningful retirement.",
+      "Who is this for?": "Singapore Citizens and Permanent Residents aged 50 and above.\nPlease refer to each job position for requirements.",
+      "How to apply?": "Please refer to each job position for application process.",
+      "Where to go": "[9 Bishan Place, Junction 8 Office Tower](https://onemap.gov.sg/?postal=579837)\n\n[#10-02, Singapore 579837](https://onemap.gov.sg/?postal=579837)",
+      "Agency website": "[View more details](https://silverjobs.sg/)",
+      "Email / Form": "[Submit an enquiry](mailto:ready2work@cfs.org.sg)",
+      "Phone number": "Silverjobs Portal hotline: [6478 5015](tel:64785015)"
+    }
+  }
+]

@@ -1,0 +1,2154 @@
+[
+  {
+    "id": "3OUzHyMJ",
+    "type": "scheme",
+    "title": "CPF Education Loan Scheme",
+    "description": "A loan scheme that allows CPF member to use their Ordinary Account (OA) savings to pay for their own, children’s, spouse’s, siblings' or relatives' government subsidised tuition fees for full-time diploma/degree courses at Approved Educational Institutions (AEIs). ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/3OUzHyMJ",
+    "keywords": [
+      "CPF",
+      "Education expenses",
+      "Students"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Allows for the use of OA savings to pay for the government subsidised tuition fees for full-time diploma/degree courses at Approved Educational Institutions (AEIs)",
+      "Applications will only be processed after the application period for the approved educational institution has closed",
+      "Processing of application generally takes 3 working days upon receipt of the student's enrolment confirmation from the approved educational institution"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-09-04T09:47:57.742Z",
+    "sections": {
+      "About this support": "- Allows the use of OA savings to pay for own, children’s, spouse’s, siblings' or relatives' government subsidised tuition fees for [full-time diploma/degree courses at Approved Educational Institutions (AEIs)](https://www.cpf.gov.sg/service/article/what-courses-are-covered-by-the-cpf-education-loan-scheme)\n- The student (i.e., borrower) would need to start repaying the principal amount withdrawn plus the accrued interest in cash, to the lender’s CPF OA, one year after graduating from or leaving the course of study, whichever occurs earlier\n\nNote:\n\n- OA savings can be used up to the Available Withdrawal Limit under the CPF Education Loan Scheme\n- The Available Withdrawal Limit is either 40% of your accumulated OA savings, or your remaining OA balance, whichever is lower\n- The amount that can be used is also subject to the tuition fees payable\n- If you are 55 or older, you must set aside the Full Retirement Sum (FRS) in your Retirement Account before using the remaining OA savings, up to the Available Withdrawal Limit.\n- You may wish to check how much tuition fees can be paid using [OA savings.](https://www.cpf.gov.sg/service/article/how-much-of-tuition-fees-can-be-paid-using-cpf-ordinary-account-oa-savings)",
+      "Who is this for?": "- CPF members/lenders with OA savings are eligible to pay for their own, children’s, spouse’s, or relative’s government subsidised tuition fees using OA savings, up to the Available Withdrawal Limit\n- The Available Withdrawal Limit is up to 40% of accumulated OA savings, or the remaining OA balance, whichever is lower\n- The CPF member can check the Available Withdrawal Limit through the CPF website using Singpass\n- Only full-time diploma / degree courses at Approved Educational Institutions (AEIs) are covered under this loan scheme\n- For the list of approved courses, you may refer to [approved courses under this scheme](https://www.cpf.gov.sg/service/article/what-courses-are-covered-by-the-cpf-education-loan-scheme)\n- Here are the alternative education financing options:\n  - [MOE Higher Education Student Loan](https://www.cpf.gov.sg/service/article/what-is-the-moe-higher-education-student-loan-hesl)\n  - [Other financing options offered by the institutions](https://www.cpf.gov.sg/service/article/what-are-the-financing-options-from-moe-and-the-educational-institutions)\n  - [Post-Secondary Education Account funds](https://www.moe.gov.sg/financial-matters/psea)",
+      "How to apply?": "- Apply online through [“Forms and e-applications\"](https://www.cpf.gov.sg/member/tools-and-services/forms-e-applications) at [CPF website](https://www.cpf.gov.sg/member/tools-and-services/forms-e-applications/apply-for-cpf-education-loan) with your Singpass\n- You must read the accompanying Terms & Conditions, and Procedures & Guidelines before you complete the online form\n- Before you submit your application online under the CPF Education Loan Scheme:\n  - Check the application period for the approved educational institution you are applying to use CPF savings to pay your tuition fees\n  - Ensure you are accepted by the institution and confirm that it is an approved educational institution under the CPF Education Loan Scheme\n  - Establish whether you are a new (e.g. fresh intake for AY2024/2025) or existing student (e.g. 2nd year student) under the institution\n- You are required to submit 1 (one) application form for each CPF lender, for the entire course of study, unless you enrol into a different AEI\n- Please note the application period for use of CPF savings under CPF Education Loan Scheme differs for each AEI\n- You may [refer to their schedules here](https://www.cpf.gov.sg/member/tools-and-services/forms-e-applications/apply-for-cpf-education-loan/application-schedule)",
+      "Where to go": "[Visit your nearest branch](https://www.cpf.gov.sg/member/contact-us/visit-us)\n\nNote: By appointment only",
+      "Agency website": "[View more details](https://www.cpf.gov.sg/service/sub-categories?category=P_M_OS)",
+      "Email / Form": "[Submit an enquiry](https://www.cpf.gov.sg/service/feedback)",
+      "Phone number": "CPFB Hotline: [1800-227-1188](tel:1800-227-1188)"
+    }
+  },
+  {
+    "id": "SVC-YC",
+    "type": "service",
+    "title": "Youth COP",
+    "description": "Aims to foster positive development and strengthen protective factors, empowering youths as crime-prevention leaders to help their communities thrive, stay safe, and build resilience.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-YC",
+    "keywords": [
+      "Referral required",
+      "Youths at risk"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 13,
+    "max_age": 17,
+    "cost": "FREE",
+    "info_last_updated": "2026-09-02T08:43:50.936Z",
+    "sections": {
+      "About this support": "Youth COP is a 3-year developmental programme that empowers students to become confident, responsible crime-prevention leaders who help keep their peers and communities safe. In partnership with Neighbourhood Police Centres and selected schools, the programme develops youths into active contributors who serve, protect, and care for their community through meaningful engagement and public education efforts.\n\nThrough strong collaboration with families, schools, police, and the wider community, Youth COP equips students with leadership skills, crime-prevention knowledge, and opportunities to make a positive impact. As Crime Prevention Ambassadors, participants build a strong sense of identity and self-worth, gain the competencies to navigate life’s challenges, make informed decisions, and foster safer, more caring school and community environments.",
+      "Who is this for?": "The programme supports secondary school students in selected schools, with leadership potential by providing guidance, developmental opportunities, and the knowledge and skills to understand laws and their implications. Youth COP nurtures these young people into positive contributors within their schools and communities, grounded in the belief that all youths grow and thrive when supported with strong relationships, meaningful experiences, and opportunities to realise their potential.",
+      "How to apply?": "- Students can nominate themselves through the booths in school.\n- Students can also be nominated for the programme through school personnel (e.g. teachers).",
+      "What to expect?": "- Programme staff will conduct a selection interview with the nominated student (by self or other school referral)  Students will be assessed for their risks, needs and suitability for this programme, within 2 to 3 weeks of referral or sign-up.\n- In the event that student is not suitable for the programme, they will be given a letter to explain reasons for rejection and will be directed to other services based on the social worker's recommendations."
+    }
+  },
+  {
+    "id": "L6htu6Eh",
+    "type": "service",
+    "title": "Epworth Literacy and Behaviour Intervention",
+    "description": "Offers literacy and behavioural intervention to support children aged 5 to 12 years old with learning difficulties.",
+    "url": "https://supportgowhere.life.gov.sg/services/L6htu6Eh",
+    "keywords": [
+      "Education",
+      "Fees payable"
+    ],
+    "domains": [
+      "Education and learning"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "OTHERS",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-09-02T08:13:25.021Z",
+    "sections": {
+      "About this support": "Offers literacy and behavioural intervention to support children with literacy and behavioural challenges.\n\nServices include:\n\n- Literacy and/or language intervention - provides children between 5 to 12 years old with skills and strategies to overcome their learning challenges and develop literacy skills.\n- Behavioural intervention - supports children between 5 to 12 years old in the aspects of essential executive functioning for learning, task readiness, on-seat behaviour, and basic social competency skills.\n- Parenting workshops are also offered for parents to increase their knowledge in effective parenting and understanding the needs of their children.",
+      "Who is this for?": "Children aged between 5 - 12 years old (in pre-schools and mainstream schools) with learning difficulties assessed to be behind their same-aged peers in their literacy and/or language skills.",
+      "How to apply?": "You may contact the service provider directly for enquiries and to sign up for the programme.",
+      "What to expect?": "Epworth will screen to assess if the child is eligible and suitable for the programme."
+    }
+  },
+  {
+    "id": "Q1UpgN0i",
+    "type": "scheme",
+    "title": "Large Families Scheme",
+    "description": "Provides more support for Singaporean families who have three or more children. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/Q1UpgN0i",
+    "keywords": [
+      "Budget 2025",
+      "Families",
+      "Parents"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Healthcare and well-being"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Increased Child Development Account (CDA) First Step Grant to $10,000",
+      "Large Family MediSave Grant of $5,000",
+      "Large Family LifeSG Credits of $1,000 annually, during the years that the third and subsequent child turns 1 to 6 years old"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-09-01T06:04:15.241Z",
+    "sections": {
+      "About this support": "The SG Child Support Package announced at the 2026 National Day Rally will replace the Baby Bonus Scheme and Large Families Scheme. The increased CDA First Step Grant for large families will cease from April 2027. As Child Credits will be given to all eligible children under the Package, Large Family LifeSG Credits will also cease, with no disbursements in 2027. More details on additional support for large families will be provided at a later date.\n\nLearn more about the [SG Child Support Package](https://go.gov.sg/sgchildsupportpackage).\n\nFamilies will receive additional support of up to $16,000 for each third and subsequent Singapore Citizen child, on top of existing Baby Bonus Scheme benefits.\n\n**Child Development Account (CDA) First Step Grant**\n\n- $10,000 CDA First Step Grant (increase from $5,000)\n- For each third and subsequent Singapore Citizen child born on or after 18 February 2025\n- Deposited into the eligible child's CDA within two weeks of CDA opening\n- Can be used to defray approved preschool and healthcare expenses of the child and/or his/her siblings\n\n**Large Family MediSave Grant**\n\n- $5,000 Large Family MediSave Grant\n- For each third and subsequent Singapore Citizen child born on or after 18 February 2025\n- Deposited into the mother's MediSave account, following child's Baby Bonus enrolment\n- Can be used to offset the mother’s pregnancy and delivery costs, or approved dependant's healthcare expenses\n\n**Large Family LifeSG Credits**\n\n- $1,000 annually in Large Family LifeSG Credits\n- For each third and subsequent Singapore Citizen child, including those turning 1 to 6 years old in 2025\n- Credits are disbursed to the CDA trustee of the child and accessible via LifeSG mobile app\n- Can be used at any merchant that accepts payments using PayNow UEN QR or NETS QR, to defray household expenses\n- Credits are valid for 12 months from disbursement, with the expiry date displayed in the LifeSG mobile app",
+      "Who is this for?": "Families with a third or subsequent Singapore Citizen child born on or after 18 February 2025 will receive:\n\n- the increased CDA First Step Grant of $10,000,\n- a $5,000 Large Family MediSave Grant, and\n- $1,000 annually in Large Family LifeSG Credits during the years that the child turns 1 to 6 years old*.\n\n*The Large Family LifeSG Credits also applies to existing large families with at least one child aged six or below.",
+      "How to apply?": "No application is required.",
+      "Agency website": "[View more details](http://go.gov.sg/LFS)",
+      "Email / Form": "[Submit an enquiry](https://www.msf.gov.sg/AskMSF)",
+      "Phone number": "Baby Bonus and Large Families Scheme hotline: [1800 111 2222](tel:18001112222)"
+    }
+  },
+  {
+    "id": "CDA",
+    "type": "scheme",
+    "title": "Top-up to Child Development Account (CDA)",
+    "description": "One-off $400 top-up to Child Development Account (CDA) for Singapore Citizens aged 0 to 6 from September 2023. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/CDA",
+    "keywords": [
+      "Budget 2023",
+      "Education expenses"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "One-off $400 top-up to Child Development Account (CDA) for Singapore Citizens aged 0 to 6 in 2023",
+      "Top-up will be credited from September 2023",
+      "Eligible child must open a CDA by 30 June 2024"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-09-01T06:02:12.445Z",
+    "sections": {
+      "About this support": "The SG Child Support Package announced at the 2026 National Day Rally will replace the current Baby Bonus Scheme and Large Families Scheme. Those currently on the Baby Bonus Scheme will be automatically transitioned to the Package. In the meantime, existing payouts will continue as usual. \n\nLearn more about the [SG Child Support Package](https://go.gov.sg/sgchildsupportpackage).\n\n- $400 top-up to Child Development Account (CDA) for Singapore Citizens aged 0 to 6 from September 2023",
+      "Who is this for?": "- Singapore Citizen child born between 1 Jan 2017 and 31 Dec 2023 (both dates inclusive).\n- Children born on 1 Jan 2017 who have started primary school in 2023 will receive the Edusave top-up instead.\n- Eligible child must open a CDA by 30 June 2024.",
+      "How to apply?": "Eligible child must open a CDA by 30 June 2024. You can open a CDA with DBS Bank, OCBC or UOB.",
+      "Agency website": "View more details",
+      "Email / Form": "[Submit an enquiry through Ask Baby Bonus](https://ask.gov.sg/msf/questions/new?topic=MSF Baby Bonus)",
+      "Phone number": "MSF Consolidated Hotline: [1800 111 2222](tel:18002537707)\n\n(say ‘Baby Bonus’ when asked for the hotline you want to reach)\n\nOperating hours: Mon to Fri 8.30am to 6pm | Saturday: 8.30am to 1pm\n\n(Closed on Public Holidays)\n\nAirtime charges apply for mobile calls to 1800 service lines\n\nOverseas:  +6562537707"
+    }
+  },
+  {
+    "id": "CDAA",
+    "type": "scheme",
+    "title": "Child Development Account ",
+    "description": "Special savings account for the child, which can be used for approved areas of child-raising expenditure, including healthcare and preschool fees. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/CDAA",
+    "keywords": [
+      "Budget 2023",
+      "Families"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "CDA First Step Grant enhanced by $2,000 for eligible Singaporean children ",
+      "Up to $15,000 in Government co-matching  for eligible Singaporean children",
+      "Enhancements will apply to eligible Singaporean children born on or after 14 February 2023"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-09-01T06:00:50.283Z",
+    "sections": {
+      "About this support": "The SG Child Support Package announced at the 2026 National Day Rally will replace the current Baby Bonus Scheme and Large Families Scheme. Those currently on the Baby Bonus Scheme will be automatically transitioned to the Package. In the meantime, existing payouts will continue as usual. \n\nLearn more about the [SG Child Support Package](https://go.gov.sg/sgchildsupportpackage).\n\nThe Child Development Account (CDA) is a special savings account for the child, which can be used for defray child-raising costs. The First Step Grant is automatically deposited after the CDA is opened, and subsequent savings will be co-matched by the Government, up to a cap.\n\nEligible Singaporean children born on or after 14 Feb 2023 will qualify for the following enhanced CDA benefits announced at Budget 2023.\n\n**Child Development Account First Step Grant:**\n\n- $5,000 automatically credited into the CDA upon account opening.\n\n**Government co-matching of CDA savings:**\n\n- Eligible Singaporean children are entitled to Government co-matching up to a cap of $4,000 for the first child, $7,000 for the second child, $9,000 for the third and fourth child, and $15,000 for the fifth child and beyond.",
+      "Who is this for?": "- Child is a Singapore Citizen\n- Children born on or after 14 Feb 2023\n- Parents are lawfully married\n- Children of unwed parents may be eligible for CDA benefits if they are born on or after 1 September 2016.",
+      "How to apply?": "All parents can apply for Baby Bonus Scheme at LifeSG:\n\n- [Bundled service](https://www.life.gov.sg/services/birth-registration) together with child’s birth registration\n- [Direct application](https://www.life.gov.sg/services/baby-bonus) for child who has already registered for birth",
+      "Agency website": "[View more details](https://www.life.gov.sg/services/baby-bonus)",
+      "Email / Form": "[Submit an enquiry through Ask Baby Bonus](https://ask.gov.sg/msf/questions/new?topic=MSF Baby Bonus)",
+      "Phone number": "MSF Consolidated Hotline: 1800 111 2222\n\n(say ‘Baby Bonus’ when asked for the hotline you want to reach)\n\nOperating hours: Mon to Fri 8.30am to 6pm | Saturday: 8.30am to 1pm\n\n(Closed on Public Holidays)\n\nAirtime charges apply for mobile calls to 1800 service lines"
+    }
+  },
+  {
+    "id": "ngaAPNbH",
+    "type": "service",
+    "title": "Life! Mentors",
+    "description": "A 5-8 year mentoring programme that supports children (6-13 years old) a fair chance to succeed in life. ",
+    "url": "https://supportgowhere.life.gov.sg/services/ngaAPNbH",
+    "keywords": [
+      "Education",
+      "Mentoring"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Healthcare and well-being",
+      "Mental health"
+    ],
+    "profiles": [
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-31T02:47:16.164Z",
+    "sections": {
+      "About this support": "The programme core services includes\n\n- 1-1 mentoring\n- Group mentoring\n- Family bonding activities",
+      "Who is this for?": "Singapore citizens/ Singapore PRs aged 6 – 13 years old from vulnerable backgrounds (e.g. ComLink+ families, parental incarceration, referral from school counsellors).",
+      "How to apply?": "Walk in to any of  Life Community Services Society centres or referral by school counsellors or fill in the online contact form (https://life-community.org/contact-us/)",
+      "What to expect?": "Programme staff will conduct intake and needs assessment within one month of the referral. For higher needs and urgent cases, it will be conducted within two weeks. Programme staff will contact the caregiver via phone call or text messages to introduce the programme, share the online intake form, and arrange a home visit."
+    }
+  },
+  {
+    "id": "SVC-LASSP",
+    "type": "service",
+    "title": "SHINE Children and Youth Services - Learning and Social Support Programme",
+    "description": "Provides literacy and language intervention to children aged between 7 and 12 years old (in mainstream schools) with learning difficulties.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-LASSP",
+    "keywords": [
+      "Fees payable",
+      "Intervention and Therapy"
+    ],
+    "domains": [
+      "Education and learning"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 5,
+    "max_age": 12,
+    "cost": "PAID",
+    "info_last_updated": "2026-08-26T04:04:15.635Z",
+    "sections": {
+      "About this support": "Provides literacy and language intervention to children aged 7 to 12 years (in mainstream schools) with learning difficulties.\n\nServices include:\n* Actualise Learning Potential and Promote Skills (ALPS) Language and literacy intervention programme - addresses the learning needs of children between 7 to 12 years old who typically lag 2 to 3 years behind their same-aged peers in language or literacy levels.\n* Parenting sessions to equip and empower parents and caregivers to understand the needs of their children and better engage with them.\n* Reading Odyssey - enhances the reading ability of children between 7 to 12 years old and to improve their motivation to read.",
+      "Who is this for?": "Children aged 7 to 12 years (in mainstream schools) with learning difficulties.",
+      "How to apply?": "You may contact the service provider directly for enquiries and to sign up for the programme.",
+      "What to expect?": "The centre will conduct an intake assessment and consultation session with the child to better understand their needs and discuss follow up support and suitability for the programme."
+    }
+  },
+  {
+    "id": "SVC-TBP",
+    "type": "service",
+    "title": "The Builders Project",
+    "description": "Aims to increase social capital and social discipline, and accomplish positive outcomes in Primary 4-6 school children who have been assessed to have higher needs.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-TBP",
+    "keywords": [
+      "Referral required",
+      "Social-emotional Support"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 10,
+    "max_age": 11,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-26T04:02:53.826Z",
+    "sections": {
+      "About this support": "The Builders Project is an early intervention programme targeting Primary 4-5 school children that aims to promote positive school climate and culture that are conducive for achieving social capital and social discipline. The programme works with the parents and teachers of the identified students which leads to better school outcomes such as lower chronic school absenteeism, premature withdrawal from school and other adolescent risk behaviours.",
+      "Who is this for?": "P4 to P6 children who:\n\n- Are in mainstream primary schools\n- Have been assessed to have higher need",
+      "How to apply?": "- Schools will refer students to the programme.",
+      "What to expect?": "- The one year programme is available in selected partner schools.\n- Lutheran Community Care Services (LCCS) will administer a pre-screening tool to students referred by teachers and social workers.\n- Based on the results, LCCS and teachers will jointly decide on the identified students who are suitable for further support."
+    }
+  },
+  {
+    "id": "SVC-MFCM",
+    "type": "service",
+    "title": "MightyKids, Families & Community (MightyKFC)",
+    "description": "MightyKFC is a developmental mentoring programme that aims to nurture at-risk children and youth in the Telok Blangah region.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-MFCM",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Mental health",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 6,
+    "max_age": 14,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-26T04:01:43.962Z",
+    "sections": {
+      "About this support": "MightyKFC is a developmental mentoring programme with the following service components:\n\n- Centre based activities\n- Life skills workshops\n- Individual mentoring\n- Community service\n- Parent-child bonding session",
+      "Who is this for?": "- MightyKFC’s client group is latchkey children and youth from the lower income group, aged 4 – 16 years old.\n- MightyKFC targets children and youth who primarily reside or study in schools in the Telok Blangah region.",
+      "How to apply?": "You may:\n\n- Walk into the centre\n- Email to [mkfc@life-community.org](mailto:mkfc@life-community.org)\n- Call the centre at [62707198](tel:62707198)",
+      "What to expect?": "- An intake interview will be arranged to register for the programme.\n- Upon successful registration, services will be provided to the service users for the duration of the programme at the activity centre."
+    }
+  },
+  {
+    "id": "SVC-HS",
+    "type": "service",
+    "title": "Halogen SPARK!",
+    "description": "A structured evidence-based entrepreneurship curriculum that targets Secondary 3 students who are from the G1/G2 Subject Based Banding (SBB) Stream that improves better school-focused outcomes, including their attendance and academic performance.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-HS",
+    "keywords": [
+      "Referral required"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 15,
+    "max_age": 16,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-26T03:50:38.822Z",
+    "sections": {
+      "About this support": "Halogen SPARK! is an upstream intervention programme that targets Secondary students who are from the G1/G2 SBB stream. It targets pre/low/mid-risk students from the Financial Assistance Scheme (FAS) and/or come from challenging and disadvantaged backgrounds.\n\nThe programme is a structured evidence-based programme developed by NFTE (Network for Teaching Entrepreneurship), where the key objectives are to increase service users' social-emotional and academic competencies through the incorporation of English and Math in the programme curriculum. It supports the development of numeracy and literacy skills through the entrepreneurship modules, and aims to instill self-confidence and self-efficacy in youths.",
+      "Who is this for?": "Secondary 3 students who are from the G1/G2 Subject Based Banding (SBB) stream",
+      "How to apply?": "- Schools will refer the students to the programme at the start of the calendar year.\n- Halogen SPARK! and teachers will jointly decide on the identified students on their service eligibility.",
+      "What to expect?": "- The one year programme is available in selected partner schools.\n- Halogen SPARK! will conduct a pre-programme survey for all enrolled students for the purpose of further adjustments to the programmes depending on the student demographics."
+    }
+  },
+  {
+    "id": "SVC-TSP",
+    "type": "service",
+    "title": "The Scaffold Programme",
+    "description": "Supports Secondary 1 and 2 students, who have been identified to have higher needs, including socio-emotional and behavioural difficulties, at risk of delinquency, and observed to have low school connectedness. ",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-TSP",
+    "keywords": [
+      "Referral required"
+    ],
+    "domains": [
+      "Education and learning"
+    ],
+    "profiles": [
+      "Families",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 13,
+    "max_age": 14,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-26T03:48:00.273Z",
+    "sections": {
+      "About this support": "The Scaffold Programme (TSP) is an upstream, early intervention programme that supports lower secondary school students in mainstream schools, who are predisposed to latent risk factors or premature withdrawal from school.\n\nTSP aims to provide quality school social work intervention for students and their ecosystems that lead to improved school outcomes, reduced referrals to downstream programmes, improvement in parent-child relationships and school-student attachment.",
+      "Who is this for?": "Secondary 1 and 2 students who have been identified to have higher needs including:\n\n- Socio-emotional and behavioural difficulties\n- At risk of delinquency\n- Observed to have low school connectedness",
+      "How to apply?": "The programme adopts a class-based design – i.e. school teachers will identify and refer suitable classes to join the programme at the start of the calendar year.",
+      "What to expect?": "- The one year programme is available in selected partner schools\n- Agency will have a discussion with relevant school personnel on the needs of the classes\n- The agency will then customise the service component to address the unique needs of the class"
+    }
+  },
+  {
+    "id": "f4VjU9VH",
+    "type": "service",
+    "title": "Our Lives Our Voices (OLOV)",
+    "description": "OLOV aims to empower clients to become self-advocates and foster an inclusive society where PWIDs can independently participate in the community in a meaningful manner. Through personalised training and peer support, it builds confidence and independence.",
+    "url": "https://supportgowhere.life.gov.sg/services/f4VjU9VH",
+    "keywords": [
+      "Education"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning"
+    ],
+    "profiles": [
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "PR",
+      "SG"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-08-25T07:07:27.250Z",
+    "sections": {
+      "About this support": "The programme provides structured, personalised training supported by a customised web application, peer-led facilitation, and community engagement. It equips PWIDs with essential communication and interpersonal skills, empowering them to discover their strengths, express their views, take on meaningful community roles, and pursue greater autonomy, purpose, and active participation in society.",
+      "Who is this for?": "1. PWIDs aged 18 years and above with an IQ below 70\n2. PWIDs who demonstrate ability to participate in group training sessions, express basic intentions and preferences.\n3. PWIDs registered under MINDS programmes",
+      "How to apply?": "Interested applicants can apply through the following:\n\n1. Email to [olov@minds.org.sg](mailto:olov@minds.org.sg)\n\n2.  Submit the form via https://tinyurl.com/olovinterest\n\n3. Call 65478503",
+      "What to expect?": "1. Basic screening will be conducted to ensure that PWIDs meet the criteria\n2. PWIDs will also be assessed over 2 trial sessions to determine suitability and interest.\n3. Enrollment is throughout the year."
+    }
+  },
+  {
+    "id": "YOUTH-GO",
+    "type": "service",
+    "title": "Youth GO! Programme",
+    "description": "An engagement and intervention programme for youths who may benefit from additional support (aged 12-21) that helps them stay focused in their studies/work, remain crime-free, develop problem-solving skills and be resilient.",
+    "url": "https://supportgowhere.life.gov.sg/services/YOUTH-GO",
+    "keywords": [
+      "Referral required",
+      "Youths at risk"
+    ],
+    "domains": [
+      "Education and learning"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-25T03:48:37.463Z",
+    "sections": {
+      "About this support": "- Youth GO! is an engagement and intervention programme that supports youths who may benefit from additional support.\n- Its objectives are to help youths who may benefit from additional support be meaningfully engaged in their studies or work, stay crime-free, develop problem-solving skills and be resilient individuals.",
+      "Who is this for?": "Youths who:\n\n- are Singapore Citizens/Permanent Residents (PR)\n- are between 12 - 21 years old\n- Diplay the following:\n  - Pro-criminal attitude/behaviour;\n  - Physically/verbally aggressive behaviour; and/or\n  - Subject to negative peer influence\n\nYouths who had completed the Guidance Programme (GP), Streetwise Programme (SWP), Youth Enhanced Supervision (YES) and/probation but require further support, and youths who are out-of-school and not engaged in meaningful work, can be eligible for the YGP, subject to meeting the above criteria.",
+      "How to apply?": "- Referrals can be made by contacting the respective Youth GO! service provider according to the region of the youth's residential address or the hotspot area.\n- Please refer to [Youth GO! Programme webpage](https://www.msf.gov.sg/what-we-do/help-those-in-need/article/programmes/Youth-GO-Programme) for information on the regions served by the different service providers, and their contact information.",
+      "What to expect?": "- For hotspot referrals, Youth GO! workers will work towards befriending the youth to assess if they fit the criteria of the target clientele.\n- Where referrals are successful, Youth GO! workers will continue to engage the youth and conduct casework and intervention through positive engagement activities and case counselling sessions."
+    }
+  },
+  {
+    "id": "2TFgSkxq",
+    "type": "scheme",
+    "title": "Post-Secondary Education Account (PSEA)",
+    "description": "Provides educational financial support for eligible Singapore Citizens' post-secondary education. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/2TFgSkxq",
+    "keywords": [
+      "Education",
+      "Education expenses",
+      "Students"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Funds can be used for approved programmes, repay government loans, and financial schemes",
+      "No application needed"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-23T13:56:01.987Z",
+    "sections": {
+      "About this support": "- PSEA Funds can be used to pay:\n  - one's own or siblings’ approved education programmes at approved institutions\n  - government education loans and financial schemes\n- PSEA balances earn interest at the same rate as the CPF Ordinary Account (CPF-OA), currently 2.5% per annum\n- Unused PSEA funds will be transferred to the CPF-OA when the account holder turns 31, subject to CPF-OA usage rules",
+      "Who is this for?": "- You must be a Singapore Citizen with a balance in either:\n  - the Child Development Account (CDA) when it is closed\n  - the Edusave Account when turning 17 years old or is no longer studying in a Ministry of Education (MOE)-funded school, whichever is later\n- The PSEA will also be opened for Singapore Citizens who are:\n  - eligible for PSEA top-ups by the Government\n  - recipient of the first payment of the National Service Housing, Medical and Education (NS HOME) Awards\n  - recipient of the annual education bursary under the Home Ownership Plus Education (HOPE) Scheme",
+      "How to apply?": "No application required.",
+      "Where to go": "[MOE Customer Service Centre, 1 North Buona Vista Drive MOE Building, Podium Block Singapore 138675](https://onemap.gov.sg/?postal=138675)\n\nNote: By appointment only.",
+      "Agency website": "[View more details](https://www.moe.gov.sg/financial-matters/psea)",
+      "Email / Form": "[Submit an enquiry](mailto:MOE_PSEA@moe.gov.sg)",
+      "Phone number": "MOE Hotline:[6872 2220](tel:68722220)"
+    }
+  },
+  {
+    "id": "KXiQ9o1l",
+    "type": "service",
+    "title": "CARENIGHTS",
+    "description": "Supports children aged 6 to 14 from vulnerable families with structured evening care services.",
+    "url": "https://supportgowhere.life.gov.sg/services/KXiQ9o1l",
+    "keywords": [
+      "Caregiver support",
+      "Free"
+    ],
+    "domains": [
+      "Caregiving support",
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-20T06:57:00.836Z",
+    "sections": {
+      "About this support": "The CareNights programme is a structured evening care for children aged 6 to 14 from vulnerable families, including those referred through ComLink+ or other community partners. It addresses a critical gap in after-school support, particularly helping caregivers who are working, attending training, or managing caregiving responsibilities.",
+      "Who is this for?": "- Caregivers with children aged 6 to 14 and are experiencing caregiving challenges\n- Low income (gross household income not exceeding $4,500 per month or per capita income not exceeding $1,125 per month) and/or ComLink+ families\n- Families coping with extenuating circumstances beyond those described above will be admitted on a case-by-case basis",
+      "How to apply?": "- Referral through schools, social service agencies, and government agencies\n- Submission of enquiries through Morning Star Community Services' Website",
+      "What to expect?": "- Structured evening care\n- The agency provide safe and nuturing environment during evening hours.\n- The agency aims to strengthen parent-child through facilited bonding activities and workshops."
+    }
+  },
+  {
+    "id": "SVC-CCETS",
+    "type": "service",
+    "title": "Care Corner Learning and Special Needs Support Programme",
+    "description": "Provides literacy, language, and numeracy intervention to children aged between 5 and 13 years old (in mainstream schools) with learning difficulties.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-CCETS",
+    "keywords": [
+      "Fees payable"
+    ],
+    "domains": [
+      "Education and learning"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 5,
+    "max_age": 13,
+    "cost": "PAID",
+    "info_last_updated": "2026-08-20T06:18:03.580Z",
+    "sections": {
+      "About this support": "The programme provides learning support to children in mainstream schools struggling with learning difficulties such as:\n\n- Attention Deficit Hyperactivity Disorder (ADHD)\n- Autism Spectrum Disorder (ADD)\n- Central Auditory Processing Disorder\n- Developmental Delay\n- Dyslexia\n- Dyscalculia\n- Dysgraphia\n- Dyspraxia\n- Specific Language Impairment\n- Sensory Processing Disorder\n\nServices includes:\n\n- KidsReady (N2 to K2) - For children attending preschool / development supporting-learning support (DS-LS) programme who need more support in English, Mathematics, handwriting and fine motor skills\n- KidsLearn (P1 to P6) - For primary school children needing learning support in English & Mathematics.",
+      "Who is this for?": "Children aged 4 to 13 in mainstream schools struggling with learning difficulties",
+      "How to apply?": "You may contact the service provider directly for enquiries or complete the online referral form: https://form.jotform.com/CC_LSN/lsnreferral",
+      "What to expect?": "Care Corner will conduct a pre-intake assessment to screen if the child is suitable for the programme."
+    }
+  },
+  {
+    "id": "SVC-BPCS",
+    "type": "service",
+    "title": "Babes Pregnancy Crisis Support",
+    "description": "For individuals aged 21 and below needing support with their pregnancy, so that they are aware of their options and are able to make an informed decision regarding their pregnancy.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-BPCS",
+    "keywords": [
+      "Free",
+      "Teenage Pregnancy and Sexuality"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 13,
+    "max_age": 20,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-19T08:37:52.272Z",
+    "sections": {
+      "About this support": "Babes supports pregnant teens through:\n\n- Casework and counselling\n- 24-hour helpline\n- Practical support (befriender, baby essentials, employment & back to school assistance etc)\n- Information & resources\n- Outreach and youth engagement events",
+      "Who is this for?": "- Pregnant teenager who needs help; Anyone who needs information about teenage pregnancy\n- Singapore Citizens and Permanent Residents",
+      "How to apply?": "If you are a pregnant teen who needs help, know of one who needs help or need information about teenage pregnancy, please contact Babes' 24-hour helpline at 6206 6641 or text via WhatsApp at 8111 3535 to speak to the caseworkers.",
+      "What to expect?": "- Teenagers who require help with their pregnancy and/or anyone who needs information about teenage pregnancy may contact Babes via the 24-hour helpline (call/text).\n- When an enquiry is attended to, the Helpliner will also assess if the teenager is eligible to be a case under Babes. Should the assessment be one that Babes can assist, Babes will arrange for a meeting with the teenager and/or her family/partner within 3-5 working days to assess the needs and provide the necessary support and guidance."
+    }
+  },
+  {
+    "id": "MUIS-FAS",
+    "type": "scheme",
+    "title": "MUIS Zakat Financial Assistance",
+    "description": "Provides monthly financial assistance and support in other forms to eligible low-income Muslim households.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/MUIS-FAS",
+    "keywords": [
+      "Lower-income",
+      "Resources and Support"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Financial/Retirement Planning"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [
+      "Monthly financial assistance for eligible individuals ",
+      "Support for emergency needs and burial expenses ",
+      "Study grants and food vouchers available ",
+      "Assessment based on Per Capita Income of $500 or lower for eligibility "
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-17T06:26:24.059Z",
+    "sections": {
+      "About this support": "Potential benefits include:\n\n- Monthly financial support: Dependent on Per Capita Income (PCI) criteria\n- Settlement of debt: One-time settlement of arrears for basic necessities (utility and conservancy charges)\n- Emergency assistance: Renders emergency assistance in times of crisis such as natural disasters, fire, or accidents\n- Burial expenses: Covers burial expenses incurred upon death of a Zakat beneficiary and their immediate family members\n- Study grants: Subsidies for national examinations mosque-based part-time Islamic education, and low-income students with special needs\n- Fidyah food vouchers: To purchase food supplies at approved Fidyah retailers islandwide",
+      "Who is this for?": "- Available to Muslim Singapore Citizens and Permanent Residents\n- Per Capita Income (PCI) must be $500 or lower to qualify\n- Applicants will undergo an assessment interview with a Social Development Officer (SDO) at the nearest Social Development (SD) mosque\n- Required documents: NRIC, birth certificate, income and bank documents, and other relevant supporting documents\n- Outcome notified by mail within up to 6 weeks",
+      "How to apply?": "- Call a Social Development (SD) mosque closest to your home for an appointment.\n- Schedule an assessment interview with an SDO.\n- During the interview, please prepare to bring your personal identification documents, such as NRIC and birth certificate, income and bank documents (payslips, CPF statements, bank books etc.), and other relevant supporting documents (bills, medical memos, referral letters etc.) to help verify your application",
+      "Where to go": "[Visit your nearest SD mosque](https://www.zakat.sg/how-to-apply-zakat/)",
+      "Agency website": "[View more details](https://www.zakat.sg/zakat-assistance/)",
+      "Email / Form": "[Submit an enquiry](mailto: info@muis.gov.sg)",
+      "Phone number": "MUIS Hotline: [6359 1199](tel:63591199)"
+    }
+  },
+  {
+    "id": "SKILLSFUTURE_CREDITS",
+    "type": "scheme",
+    "title": "SkillsFuture Credit",
+    "description": "For Singapore Citizens aged 25 and above to pay for or offset the out-of-pocket course fees of approved courses.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SKILLSFUTURE_CREDITS",
+    "keywords": [
+      "Courses",
+      "Trainings"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Financial/Retirement Planning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "SkillsFuture Credits can be used on top of existing SWDA course fee subsidies",
+      "Submit your claim via MySkillsFuture within 60 days before course starts",
+      "No application required"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T09:14:48.361Z",
+    "sections": {
+      "About this support": "- Singapore Citizens aged 25 and above will receive an opening credit of S$500. Opening credits will not expire.\n- A one-off SkillsFuture Credit top-up of $500 was provided to every Singapore Citizen aged 25 and above as at 31 December 2020. These credits will expire on 31 December 2025.\n- Can be used on top of existing government course subsidies to pay for a wide range of approved skills-related courses, such as:\n  - Courses subsidised or approved by SkillsFuture Singapore including online courses\n  - Selected courses offered by Ministry of Education (MOE)-funded institutions\n  - Courses supported by lead agencies\n  - SkillsFuture@PA courses offered by the People’s Association and selected courses under National Silver Academy",
+      "Who is this for?": "- Singapore Citizen\n- Aged 25 and above",
+      "How to apply?": "- No application required\n- How to use your SkillsFuture Credit:\n  - Step 1: Inform your Training Provider that you intend to use your SkillsFuture Credit in part or in full for the qualifying course fees at the point of course registration\n  - Step 2: Submit your claim via MySkillsFuture within 60 days before the course start date (date inclusive)",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Credit.html?_gl=1*19sp13n*_gcl_au*MTU0NDEwNDQ2NS4xNzQ5NDU0MTYx)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm\nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFSERIES",
+    "type": "scheme",
+    "title": "SkillsFuture Series",
+    "description": "Provides short, industry-relevant training for in-demand skills in Care, Digital, Green, and Industry 4.0 sectors.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFSERIES",
+    "keywords": [
+      "Courses",
+      "Employment Support and Vocational Training",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Offers short, industry-relevant training programmes",
+      "Focus on emerging skills in Care, Digital, Green, and Industry 4.0 sectors",
+      "Training across Basic, Intermediate, and Advanced levels for different proficiencies"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T08:32:26.145Z",
+    "sections": {
+      "About this support": "- Training across Basic, Intermediate, and Advanced levels to match different skill proficiencies\n- Acquire foundational or advanced skills to boost career prospects and enhance employability",
+      "Who is this for?": "- Singapore Citizens and Permanent Residents, criteria may vary depending on courses",
+      "How to apply?": "To enrol in a SkillsFuture Series course:\n\n- Visit the [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/portal/en/index.html)\n- Log in with your Singpass to access the course directory\n- Search for SkillsFuture Series courses under the respective growth areas: [Care Economy](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1:[2022-12-15T00:00:00Z TO *]&fq=IsValid:true&q=care economy), [Digital Economy](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1:[2022-12-15T00:00:00Z TO *]&fq=IsValid:true&q=digital economy), [Green Economy](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1:[2022-12-15T00:00:00Z TO *]&fq=IsValid:true&q=green economyI), or [Industry 4.0](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1:[2022-12-15T00:00:00Z TO *]&fq=IsValid:true&q=industry 4.0)\n- Select a course at the Basic, Intermediate, or Advanced level according to your proficiency\n- Follow the instructions to sign up for your chosen course",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-series.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFMCES",
+    "type": "scheme",
+    "title": "SkillsFuture Mid-Career Enhanced Subsidy ",
+    "description": "Provides up to 90% subsidy on course fees for Singapore Citizens aged 40 and above. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFMCES",
+    "keywords": [
+      "Mid-career",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Up to 90% subsidy on course fees for Singapore Citizens aged 40 and above ",
+      "At least 90% subsidy on programme costs for MOE-subsidised courses at institutions like Autonomous Universities, Polytechnics, and ITE "
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T08:21:42.742Z",
+    "sections": {
+      "About this support": "- Up to 90% subsidy on course fees for courses offered by Skills & Workforce Development Agency (SWDA)-appointed Continuing Education and Training (CET) Centres\n- At least 90% subsidy on programme costs for Ministry of Education (MOE)-subsidised full-time and part-time courses at institutions like Autonomous Universities, Polytechnics, and the Institute of Technical Education\n- For certifiable-skills training courses, up to 70% subsidy on course fees",
+      "Who is this for?": "- Singapore Citizen\n- Aged 40 and above\n- Qualifies for the Ministry of Education (MOE)/Skills & Workforce Development Agency (SWDA) base course fee subsidy",
+      "How to apply?": "- Enrol in a course that is supported by Skills & Workforce Development Agency (SWDA) or offered by one of the following institutions:\n  - Autonomous Universities (AU):\n    - National University of Singapore (NUS)\n    - Nanyang Technological University (NTU)\n    - Singapore Management University (SMU)\n    - Singapore University of Technology and Design (SUTD)\n    - Singapore Institute of Technology (SIT)\n    - Singapore University of Social Sciences (SUSS)\n  - Polytechnics\n  - Institute of Technical Education (ITE)\n  - LASALLE College of the Arts and Nanyang Academy of Fine Arts (NAFA)\n  - National Institute of Early Childhood Development (NIEC)\n- Ensure the course is eligible for MOE/SSG base course fee subsidy\n  - The enhanced subsidy will be applied automatically at the point of enrolment if you are eligible",
+      "Where to go": "",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/MCES.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SGWSQ",
+    "type": "scheme",
+    "title": "Singapore Workforce Skills Qualifications",
+    "description": "A national credential system that trains, develops, assesses and certifies skills and competencies for the workforce.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SGWSQ",
+    "keywords": [
+      "Jobseekers",
+      "Mid-career",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "WSQ is a national credential system for skills and competencies certification",
+      "No academic prerequisites required for entry, recognises prior work experience and credentials"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T07:19:16.425Z",
+    "sections": {
+      "About this support": "- Acquire job role-specific skills and competencies through competency-based training\n- Gain portable credentials to improve employability and mobility\n- Access to bite-sized modules leading to Statements of Attainment and full WSQ qualifications\n- Quality assured qualifications awarded by Skills & Workforce Development Agency (SWDA) or in partnership with established awarding bodies",
+      "Who is this for?": "- Open to all individuals, regardless of academic background\n- Recognises prior learning and work experience",
+      "How to apply?": "To enrol in Workforce Skills Qualifications (WSQ) courses:\n\n- Visit the [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/portal/en/index.html) to browse available WSQ courses\n- Register for the course through the training provider\n- Complete the course to receive a Statement of Attainment or WSQ qualification",
+      "Agency website": "[View more details](https://www.swda.gov.sg/home/individuals/training-skills-development/workforce-skills-qualifications)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours:\nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "L0DUZZzA",
+    "type": "scheme",
+    "title": "Workfare Skills Support (Level-Up)",
+    "description": "Enhanced tier of Workfare Skills Support (WSS), supporting lower-wage Singaporean workers who go for long-form training.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/L0DUZZzA",
+    "keywords": [
+      "Budget 2025",
+      "Lower-wage workers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Low-income"
+    ],
+    "highlights": [
+      "Provides training allowance  of at least $300 per month",
+      "Covers a wide catalogue of long-form courses (including Nitec, Higher Nitec, Diplomas, Post-Diplomas, and Undergraduate courses)",
+      "Covers multiple bouts of long-form training",
+      "Apply online via the Training Allowance System using Singpass"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-12T05:46:09.131Z",
+    "sections": {
+      "About this support": "**Training Allowance (TA)**\n\n- Full-time training: 50% of average income over the latest available 12-month period, with minimum allowance of $300 per month\n- Part-time training: $300 per month\n\n**Coverage for multiple rounds of long-form training**\n\nEvery individual can receive:\n\n- Up to 24 months of monthly TA between ages 30 to 39\n- Up to another 24 months of monthly TA from age 40. This is a shared cap between WSS (Level-Up) and the SkillsFuture Level-Up Programme\n- For each age period, the cap is shared between both full-time and part-time training\n\n**Courses supported include:**\n\n- SkillsFuture Career Transition Programme courses\n- Nitec, Higher Nitec, Diplomas, Post-Diplomas, and Undergraduate courses by Institutes of Higher Learning\n- From 2026 Q4, long-form Workforce Skills Qualifications (WSQ) full qualifications",
+      "Who is this for?": "- Singapore Citizen;\n- At least 30 years old or older as of 31 December of the preceding year, or at least 13 years old for persons with disabilities;\n- Earn an average gross monthly income of not more than $3,000 for the past 12 months;\n- Have declared your net trade income and made MediSave contributions in full if you are self-employed;\n- Live in a property with an annual value of $21,000 and below as at 31 December of the preceding year;\n- Own not more than one property; and\n- If you are married:\n  - you and your spouse together not own more than one property; and\n  - the assessable income of your spouse does not exceed $70,000 of the preceding Year of Assessment\n\nThe above is similar to the [**Workfare Income Supplement**](https://www.cpf.gov.sg/member/growing-your-savings/government-support/workfare-income-supplement) (WIS) criteria.",
+      "How to apply?": "You can apply online via the [Training Allowance System (TAS)](https://go.gov.sg/wss-level-up-tas)** **using your Singpass.",
+      "Agency website": "[View more details](https://go.gov.sg/wss-level-up)",
+      "Email / Form": "[Submit an enquiry](http://go.gov.sg/wss-feedback)",
+      "Phone number": "WSS Hotline: [1800 536 8333](tel:18005368333)"
+    }
+  },
+  {
+    "id": "NATIONAL_SILVER_ACADEMY",
+    "type": "scheme",
+    "title": "National Silver Academy",
+    "description": "Offers learning opportunities, short-term courses and programmes for seniors.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/NATIONAL_SILVER_ACADEMY",
+    "keywords": [
+      "Courses",
+      "Seniors",
+      "Trainings"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Education and learning",
+      "Healthcare and well-being",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Seniors"
+    ],
+    "highlights": [
+      "Encourage lifelong learning amongst seniors"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-07T08:58:58.390Z",
+    "sections": {
+      "About this support": "- Administered by the Agency for Integrated Care (AIC) to offer subsidised learning opportunities for seniors aged 50 and above\n- Formed by a network of post-secondary education institutions (PSEIs) and community-based organisations offering a wide range of learning opportunities located all around Singapore",
+      "Who is this for?": "- For short courses offered by PSEIs, only Singaporeans aged 50 and above will receive a subsidy of up to 50% off course fees\n- For courses run by community-based organisations, Singaporeans and PRs aged 50 and above will receive a subsidy of up to 80% off course fees",
+      "How to apply?": "Please refer to each course listing [here](https://www.aic.sg/Age-Well/Learning-and-Volunteerism/Learning-Opportunities) for the application process",
+      "Where to go": "[Visit the AIC Link branch nearest to you](https://www.aic.sg/Contact-Us#map)",
+      "Agency website": "[View more details](https://www.aic.sg/Age-Well/Learning-and-Volunteerism/Learning-Opportunities)",
+      "Email / Form": "[Submit an enquiry](mailto:enquiries@aic.sg)",
+      "Phone number": "AIC hotline: [1800 650 6060](tel:18006506060)\n\nCalls from AIC Hotline may be reflected as 6650 6060 on your caller ID."
+    }
+  },
+  {
+    "id": "jduPoSEk",
+    "type": "scheme",
+    "title": "MOE Higher Education Student Loan (HESL) Scheme",
+    "description": "Loan scheme to help students who are taking MOE-subsidised diploma, undergraduate or postgraduate programmes in publicly-funded post-secondary education institutions to finance their tuition fees and borrow a living allowance loan for other education-related expenses. It also helps undergraduates to finance cost of institution-approved overseas student programme.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/jduPoSEk",
+    "keywords": [
+      "Education expenses",
+      "Students"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Base provision and means-tested balance fee coverage components under the HESL scheme can cover up to 100% of subsidised tuition fees for eligible Singapore Citizen (SC) students",
+      "Eligible students who meet the income eligibility criteria can also apply for a living allowance loan component under the HESL scheme to cover their education expenses ",
+      "Loan is interest-free during the course of study; interest and repayment commence upon a student’s graduation or leaving the institution"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-29T06:59:04.149Z",
+    "sections": {
+      "About this support": "For Diploma students\nThere are two loan components under HESL:\n(i)     Base provision to cover up to 90% of subsidised tuition fees payable, depending on the student’s citizenship;\n(ii)   Means-tested provisions\n·  Loan to cover remaining 10% of subsidised tuition fees (for SC only)\n·  Living allowance loan of up to $3,200 per academic year\nFor Undergraduate and Postgraduate students\nThere are two loan components under HESL:\n(i)     Base provision to cover up to 90% of subsidised tuition fees payable, depending on the student’s citizenship;\n(ii)   Means-tested provisions\n· Loan to cover remaining 10% of subsidised tuition fees (for SC undergraduates only)\n· Living allowance loan of up to $4,100 per academic year (for full-time undergraduate students only)\n· Loan to cover up to $12,000 for the cost of one institution-approved overseas student programme (for full-time SC undergraduates only)",
+      "Who is this for?": "The HESL will be available to the following students, and the loan components available will depend on the student’s citizenship and level of study:\n\n- SC, Singapore Permanent Resident (PR) and international student (IS) studying full-time MOE-subsidised diploma courses in any of the local polytechnics.\n- SC and PR studying full-time MOE-subsidised diploma courses in Institute of Technical Education (ITE).\n- SC and PR studying full-time MOE-subsidised diploma and undergraduate programmes in LASALLE College of the Arts (LASALLE), Nanyang Academy of Fine Arts (NAFA) and University of the Arts Singapore (UAS).\n- SC, PR and IS studying full-time MOE-subsidised undergraduate, full-time MOE-subsidised postgraduate by coursework, and full-time/part-time MOE-subsidised postgraduate by research programmes in autonomous universities.\n- SC studying part-time MOE-subsidised undergraduate programmes in autonomous universities.\n\nDepending on the level of study and type of institution, the means-tested loan provisions are for:\n\n- SC and PR with gross monthly household per capita income (PCI)^ of $3,500 or less.\n- IS with gross monthly household PCI of $1,875 or less.\n\n^Monthly PCI is computed based on total monthly gross household income (GHI) divided by number of family members living in the same household.",
+      "How to apply?": "- The following students can apply for HESL via the new [StudentLoanSG (SLSG)](https://go.gov.sg/slsg) portal from July 2026.\n  - Newly matriculated students in Academic Year (AY) 2026 intake; and\n  - Existing students (before AY2026 intake) who do not have Tuition Fee Loan (TFL) and Study Loan (SL) for their current course of study.\n- Refer to the respective institution website for details on application window period and application procedures.\n- Existing students who have already taken up TFL and/or SL will continue to receive their current loan provision.  No action is required from them.  However, if they wish to apply for new or additional loan provision under the HESL scheme, they should first approach their institution for advice and assessment of needs.",
+      "Where to go": "[Customer Service Centre](https://onemap.gov.sg/?postal=138675)\n[1 North Buona Vista Drive](https://onemap.gov.sg/?postal=138675)\n[MOE Building, Podium Block](https://onemap.gov.sg/?postal=138675)\n[Singapore 138675](https://onemap.gov.sg/?postal=138675)",
+      "Agency website": "[View more details](https://www.moe.gov.sg/financial-matters/government-loan-schemes)",
+      "Email / Form": "[Submit an enquiry](https://www.moe.gov.sg/feedback)"
+    }
+  },
+  {
+    "id": "SCFA",
+    "type": "scheme",
+    "title": "Student Care Fee Assistance (SCFA)",
+    "description": "Provides fee assistance for children from lower-income working families enrolled in Student Care Centres (SCCs) registered with MSF.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SCFA",
+    "keywords": [
+      "Budget 2026",
+      "Students",
+      "Subsidies"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [
+      "Subsidies of up to $290 per month for children enrolled in SCCs , and co-payments from $11 per month for children enrolled in Special SCCs (SSCCs)",
+      "One-time Start-Up Grant (SUG) of up to $400 per child",
+      "Child must attend an SCC registered with MSF"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-23T06:50:01.706Z",
+    "sections": {
+      "About this support": "- For children attending SCCs aged 7 to 14 years old (Primary 1 to Secondary 2) in the calendar year in which subsidies commence, the subsidy is up to $290 per month, depending on your monthly household income.\n- For children attending SSCCs aged 7 to 18 years old in the calendar year in which subsidies commence, the out-of-pocket amount from $11 per month, depending on your monthly household income. Please visit the [Enabling Guide by SG Enable](https://www.enablingguide.sg/im-looking-for-disability-support/child-adult-care/special-student-care-centres) for more information on the subsidies.\n\n**SCFA subsidies:**\n\nCurrent\nRevised (from 1 January 2027)\nSCFA\nGross Household Income ($)\nGross Per Capita Income ($)\nGross Household Income ($)\nGross Per Capita Income ($)\nSubsidy for SCCs with fees < $295\nSubsidy for SCCs with fees ≥ $295\n$1,500 and below\n$375 and below\n$2,000 and below\n$500 and below\n98%\n$290\n$1,501 to $2,000\n$376 to $500\n$2,001 to $2,500\n$501 to $625\n95%\n$280\n$2,001 to $2,200\n$501 to $550\n$2,501 to $3,000\n$626 to $750\n90%\n$266\n$2,201 to $2,400\n$551 to $600\nRemoved\n85%\n$251\n$2,401 to $2,600\n$601 to $650\n$3,001 to $3,300\n$751 to $825\n80%\n$236\n$2,601 to $2,800\n$651 to $700\n$3,301 to $3,600\n$826 to $900\n70%\n$207\n$2,801 to $3,000\n$701 to $750\n$3,601 to $4,000\n$901 to $1,000\n60%\n$177\n$3,001 to $3,200\n$751 to $800\n$4,001 to $4,400\n$1,001 to $1,100\n50%\n$148\n$3,201 to $3,500\n$801 to $875\n$4,401 to $4,800\n$1,101 to $1,200\n40%\n$118\n$3,501 to $4,000\n$876 to $1,000\n$4,801 to $5,200\n$1,201 to $1,300\n30%\n$89\n$4,001 to $4,500\n$1,001 to $1,125\n$5,201 to $6,500\n$1,301 to $1,625\n20%\n$59",
+      "Who is this for?": "- Child is a Singapore Citizen or a Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)\n- Both you and your spouse are each working at least 56 hours a month\n- Child must attend a Student Care Centre registered with MSF\n- For children attending SCCs aged 7 to 14 years old (Primary 1 to Secondary 2) in the calendar year in which subsidies commence, the monthly gross household income must be $4,500 or less for families with 4 or fewer members, or monthly household income per capita must be $1,125 or less for families with 5 or more members. From January 2027: The monthly gross household income must be $6,500 or less, or monthly household income per capita must be $1,625 or less.\n  For children attending SSCCs aged 7 to 18 years old in the calendar year in which subsidies commence, the monthly gross household income must be $9,200 or less for families with 4 or fewer members, or monthly household income per capita must be $2,300 or less for families with 5 more members. Please visit [Enabling Guide by SG Enable](https://www.enablingguide.sg/im-looking-for-disability-support/child-adult-care/special-student-care-centres) for more information on the subsidies.\n\n**How Income is Calculated**\n\n- For salaried employees:\nBased on average gross monthly income over 12 months from CPF records or the latest IRAS assessment (within the last 2 years).\nIncludes: basic salary, bonuses, commissions, overtime pay, allowances, cash rewards, and employee CPF contributions.\n- For self-employed individuals:\nBased on average trade income over 12 months from the latest IRAS assessment (within the last 2 years), or income declared to CPF Board.\n\n**Note:** Family members refer to the child’s grandparents or siblings below 21 years old who live at the same address, are not working or have no income, and are Singapore Citizens or Permanent Residents.\n\nYour gross monthly income will be determined via HOMES as part of the means-test.\n\nFor further information, please refer to [MSF | Student Care Fee Assistance](https://www.msf.gov.sg/what-we-do/student-care/for-parents/student-care-fee-assistance).",
+      "How to apply?": "All SCFA applications must be submitted online via [SupportGoWhere](https://supportgowhere.life.gov.sg/grants/scfa)  at least six months before the intended start date. For example, if you wish to apply for SCFA effective from January 2027, you may submit the application from July 2026 onwards. SCFA approval will commence from the month in which the application is received, or from the month following the expiry of any existing SCFA, whichever is later.\n\n[Click here to learn more about the SCFA application process.](https://www.msf.gov.sg/docs/default-source/student-care/scfa-infographic---application-process.pdf)\n\n- If you're unemployed or looking for work, you will need to provide supporting documents (for example, proof of job search, medical letter, or medical certificate).\n- With the SCFA, if you still face difficulties with the monthly co-payment of your child's student care fees, you may submit an appeal through the SCC, along with supporting documents detailing the change in circumstances and an explanation of the reasons for the appeal. Appeals will be considered on a case-by-case basis, and if approved, will commence from the month when the appeal was submitted",
+      "Agency website": "[View more details](https://www.msf.gov.sg/what-we-do/student-care/for-parents/student-care-fee-assistance)",
+      "Email / Form": "[MSF_Comcare_SCFA@msf.gov.sg](mailto:MSF_Comcare_SCFA@msf.gov.sg)",
+      "Phone number": "ComCare hotline: [1800 222 0000](tel:18001112222)\n\nOperating hours: Monday to Sunday, 7am to 12 midnight\n\nAirtime charges apply for mobile calls to 1800 service lines. Calls are free of charge only if made from regular land lines in Singapore."
+    }
+  },
+  {
+    "id": "SVC-EIPFICE",
+    "type": "service",
+    "title": "Early Intervention Programme for Infants & Children (EIPIC)",
+    "description": "EIPIC is a centre-based programme that provides therapy and educational intervention for children aged 0-6 years who require medium to high levels of early intervention (EI) support.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-EIPFICE",
+    "keywords": [
+      "Intervention and Therapy",
+      "Referral required"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 6,
+    "cost": "PAID",
+    "info_last_updated": "2026-07-16T05:05:22.900Z",
+    "sections": {
+      "About this support": "EIPIC is a centre-based programme that provides therapy and educational intervention for children aged 0 to 6 years who require medium to high levels of early intervention (EI) support.\n\nThe continuum of EI services include:\n\n- EIPIC Under-2s\n  - Targeted at children under 2 years old\n  - Trains parents/caregivers so that they can effectively carry out intervention strategies in the child’s daily routines at home\n- EIPIC@Centre\n  - Provides both therapy and educational intervention services, typically in small groups\n- DS-Plus\n  - Provided in preschools targeted at children aged 2 to 6 years requiring low levels of EI support, and are attending preschools.",
+      "Who is this for?": "Children who are:\n\n- From birth to 6 years old\n- Singapore Citizens or Permanent Residents;\n- Assessed by a paediatrician to be at risk of a developmental, intellectual, sensory or physical disability, or a combination of disabilities; and\n- Not concurrently enrolled in any other ECDA-funded EI programmes (i.e. DS-LS, DS-Plus programmes).",
+      "How to apply?": "- You may approach a doctor at any polyclinic to obtain referral for assessment at the Department of Child Development (DCD) at KK Women’s and Children’s Hospital (KKH) or Child Development Unit (CDU) at National University Hospital (NUH).\n- Alternatively, you may approach a private paediatrician for assessment and recommendation for EIPIC.\n- If your child is assessed to be suitable for EIPIC, the hospital or the private paediatrician will recommend EIPIC and submit the application to SG Enable upon your consent.\n\nMore information can be found on the [Enabling Guide](https://www.enablingguide.sg/im-looking-for-disability-support/therapy-intervention/early-intervention-programme-for-infants-children).",
+      "What to expect?": "- Upon receiving the referral, SG Enable will contact you within 10 working days to provide necessary information to help you make an informed decision on your choice of EI Centre.\n- Your selected EI Centre will contact you within 2 weeks of referral to arrange an interview and assessment of your child.\n- Enrolment into a suitable programme at the preferred centre is subject to the availability of vacancies at the centre and approval of the respective centre management."
+    }
+  },
+  {
+    "id": "SVC-EIPFIACPEP",
+    "type": "service",
+    "title": "Early Intervention Programme for Infants and Children - P (EIPIC-P)",
+    "description": "EIPIC-P is a programme that provides therapy and educational intervention for children aged 0 to below 7 years who require medium to high levels of early intervention (EI) support. ",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-EIPFIACPEP",
+    "keywords": [
+      "Intervention and Therapy",
+      "Referral required"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 6,
+    "cost": "PAID",
+    "info_last_updated": "2026-07-16T04:55:14.123Z",
+    "sections": {
+      "About this support": "EIPIC-P offers alternative Early Intervention (EI) services for children who have been referred for the Early Intervention Programme for Infants and Children (EIPIC). Instead of enrolling at government-funded EIPIC centres, children could enrol at ECDA-appointed private centres at subsidised rates.",
+      "Who is this for?": "Children who are:\n\n- From birth to 6 years old.\n- Singapore Citizens or Permanent Residents.\n- Assessed by a paediatrician to be at risk of a developmental, intellectual, sensory or physical disability, or a combination of disabilities; and\n- Not concurrently enrolled in any other ECDA-funded EI programmes (i.e. EIPIC, DS-LS, DS-Plus programmes).",
+      "How to apply?": "- You may approach a doctor at any polyclinic to obtain a referral for assessment at the Department of Child Development (DCD) at KK Women’s and Children’s Hospital (KKH) or Child Development Unit (CDU) at National University Hospital (NUH).\n- Alternatively, you may approach a private paediatrician for an assessment.\n- If your child is assessed to be suitable for EIPIC, the hospital or the private paediatrician will recommend EIPIC and submit the application to SG Enable upon your consent.\n- More information can be found on the [Enabling Guide](https://www.enablingguide.sg/im-looking-for-disability-support/therapy-intervention/early-intervention-programme-for-infants-and-children-p).",
+      "What to expect?": "To be eligible for EIPIC-P, the child should be referred by a paediatrician to the Early Intervention (EI) Programme , with the referral made through SG Enable.\n\n- Upon receiving the referral, SG Enable will contact you within 10 working days to provide necessary information to help you make an informed decision on your choice of an EI Centre (government-funded EIPIC centre or EIPIC-P centre).\n- Your selected EI Centre will contact you within 2 weeks of referral to arrange an interview and assessment of your child.\n- Enrolment into a suitable programme at the preferred centre is subject to the availability of vacancies at the centre, and approval of the respective centre management."
+    }
+  },
+  {
+    "id": "SVC-SESSAWII",
+    "type": "service",
+    "title": "Special Education (SPED) School (Autism Spectrum Disorder with intellectual impairment)",
+    "description": "Special Education (SPED) schools provide education for children and youth with disabilities who are of school-going age.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SESSAWII",
+    "keywords": [
+      "Education",
+      "Fees payable"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 7,
+    "max_age": 21,
+    "cost": "PAID",
+    "info_last_updated": "2026-07-14T06:06:14.565Z",
+    "sections": {
+      "About this support": "Government and community-funded Special Education (SPED) schools cater to children and youths with moderate-to-severe special educational needs and require more intensive and specialised support in their schooling journey.\n\nDifferent SPED schools cater to students with different special educational needs.\n\nVisit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) to learn about the support for students with special educational needs and their educational pathways.",
+      "Who is this for?": "These SPED schools offer the customised curriculum for students who have Autism Spectrum Disorder with intellectual impairment.\n\nAll schools serve students aged 7 to 18, except:\n\n- APSN Chaoyang School (7 to 12 years old)\n- APSN Katong School (7 to 16 years old)\n- APSN Tanglin School (13 to 16 years old)\n- Grace Orchard School (7 to 18 years old)\n- Metta School (7 to 21 years old)\n- APSN Delta Senior School (17 to 21 years old)\n\nThe six schools mentioned above specifically cater to students who have Autism Spectrum Disorder with mild intellectual disability.\n\nMetta School and APSN Delta Senior School offer Vocational Certification Programmes for students aged 17 to 21.",
+      "How to apply?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) for details on the application process for SPED schools.",
+      "What to expect?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs/sped-schools) and each SPED school’s website for more information on each school."
+    }
+  },
+  {
+    "id": "SVC-SESSMTSID",
+    "type": "service",
+    "title": "Special Education (SPED) School (Moderate to Severe Intellectual Disability)",
+    "description": "Special Education (SPED) schools provide education for children and youth with disabilities who are of school-going age.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SESSMTSID",
+    "keywords": [
+      "Education",
+      "Fees payable"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 7,
+    "max_age": 18,
+    "cost": "PAID",
+    "info_last_updated": "2026-07-14T06:04:12.906Z",
+    "sections": {
+      "About this support": "Government and community-funded Special Education (SPED) schools cater to children and youths with moderate-to-severe special educational needs and require more intensive and specialised support in their schooling journey.\n\nDifferent SPED schools cater to students with different special educational needs.\n\nVisit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) to learn about the support for students with special educational needs and their educational pathways.",
+      "Who is this for?": "These SPED schools offer the customised curriculum for students aged 7 to 18 with Moderate to Severe Intellectual Disability.",
+      "How to apply?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) for details on the application process for SPED schools.",
+      "What to expect?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs/sped-schools) and each SPED school’s website for more information on each school."
+    }
+  },
+  {
+    "id": "SFWKSTPDIP",
+    "type": "scheme",
+    "title": "SkillsFuture Work-Study Post-Diploma ",
+    "description": "Provides a $5,000 sign-on incentive and industry-recognised qualifications for eligible fresh Polytechnic graduates. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFWKSTPDIP",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Receive a sign-on incentive of $5,000 for eligible fresh Polytechnic graduates ",
+      "Competitive starting salary and full-time employment with participating companies ",
+      "Attain an industry-recognised Post-Diploma qualification or professional certification "
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:48:18.583Z",
+    "sections": {
+      "About this support": "- Competitive starting salary with full-time employment at participating companies\n- Attain an industry-recognised Post-Diploma qualification or professional certification\n- $5,000 sign-on incentive for eligible fresh Polytechnic graduates\n- Potential for skills-based wage increments and career advancement upon programme completion",
+      "Who is this for?": "- Singapore Citizens or Permanent Residents\n- Fresh Polytechnic graduates within 3 years of graduation\n- Full-time National Servicemen within 3 years of Operationally Ready Date",
+      "How to apply?": "Submit your application through the respective polytechnic's website:\n\n- [Ngee Ann Polytechnic](https://www.cet.np.edu.sg/signature_programme/work-study-programme/)\n- [Nanyang Polytechnic](https://www.nyp.edu.sg/wsp)\n- [Republic Polytechnic](https://www.rp.edu.sg/ace/work-study-programmes)\n- [Singapore Polytechnic](https://www.sp.edu.sg/pace/workforce-upskilling/recruit-talents/work-study-programme)\n- [Temasek Polytechnic](https://www.tp.edu.sg/wsp)",
+      "Where to go": "",
+      "Agency website": "[View more details](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline:[6669 7932](tel:66697932)\n\nCall Centre Operating Hours:\nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SKILLSFUTURE-ADVICE",
+    "type": "scheme",
+    "title": "SkillsFuture Advice",
+    "description": "A webinar that helps you learn about SkillsFuture programmes, MySkillsFuture portal and funding support.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SKILLSFUTURE-ADVICE",
+    "keywords": [
+      "Jobseekers",
+      "Webinars",
+      "Workers"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "1-hour webinar"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:47:02.675Z",
+    "sections": {
+      "About this support": "Free 1-hour webinars that will guide you in developing your resilience and upskilling plans through practical information and online resources:\n\n- Understand your resilience and find learning programmes/initiatives that suit your needs\n- Learn practical tips on developing your resilience mindset, building a circle of social support and improving your employability by planning for the future\n- Learn about SkillsFuture programmes, including SkillsFuture Credit, funding support to offset your course fees, as well as, government support schemes (SGUnited jobs and COVID-19 support grant) to help you ride through the tough times\n- Get an introduction to the MySkillsFuture portal that will help you in your career and learning development\n- Discover courses to help you transit into available job roles and a glimpse into the hiring sectors",
+      "Who is this for?": "All Singapore Citizens or Permanent Residents",
+      "How to apply?": "- You can [sign up online](https://form.gov.sg/#!/60dde90a22fd030012f32901).\n- You may also access [online resources](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources.html?type=education-career-personal-development) to guide you in your skill development.",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-advice.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm\nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFWKSTDIP",
+    "type": "scheme",
+    "title": "SkillsFuture Work-Study Diploma ",
+    "description": "Provides a head-start in career related to discipline of study for eligible fresh Institute of Technical Education (ITE) graduates.  ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFWKSTDIP",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Receive a sign-on incentive of $5,000 for eligible fresh graduates ",
+      "Competitive starting salary and full-time employment with participating companies ",
+      "Attain an industry-recognised Diploma-level qualification"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:34:47.343Z",
+    "sections": {
+      "About this support": "- Competitive starting salary and full-time employment with participating companies\n- Structured on-the-job training and mentorship over 12 to 36 months\n- Attainment of an industry-recognised Diploma-level qualification\n- Sign-on incentive of $5,000 for eligible fresh graduates\n- Potential for wage increments and career advancement based on performance",
+      "Who is this for?": "- Singapore Citizens or Permanent Residents\n- Fresh graduates within 3 years of graduation from the ITE\n- Full-time National Servicemen within 3 years of their Operationally Ready Date",
+      "How to apply?": "Submit your application through the [ITE's website](https://www.ite.edu.sg/courses/work-study-diploma).",
+      "Agency website": "[View more details](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFWKSTCERT",
+    "type": "scheme",
+    "title": "SkillsFuture Work-Study Certificate ",
+    "description": "Provides industry-relevant skills and knowledge related to discipline of study through a work-study arrangement for individuals. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFWKSTCERT",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Receive a sign-on incentive of S$5,000 ",
+      "Acquire relevant work experience and skills valued by the industry ",
+      "Potential for skills-based wage increments and career advancement upon completion"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:31:41.432Z",
+    "sections": {
+      "About this support": "- Full-time employment with a competitive starting salary\n- Industry-recognised certificate upon completion\n- Sign-on incentive of S$5,000\n- Potential for skills-based wage increments and career advancement based on performance",
+      "Who is this for?": "- Singapore Citizens or Permanent Residents\n- Within 3 years of graduation from the Institute of Technical Education (ITE) and Polytechnics or the Operational Ready Date for full-time National Servicemen",
+      "How to apply?": "- Click [here](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx) to navigate the programme summary and listing\n- Select the programme you are interested\n- Click the button \"Click here to Apply\"",
+      "Agency website": "[View more details](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "SkillsFuture Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours:\nMondays to Fridays \n8.30 am to 5.30 pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFDWP",
+    "type": "scheme",
+    "title": "SkillsFuture for Digital Workplace",
+    "description": "Equips Singapore Citizen adults with essential digital skills for the evolving digital economy.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFDWP",
+    "keywords": [
+      "Jobseekers",
+      "Mid-career",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Develop a deep understanding of critical digital competencies for the evolving economy",
+      "Safely navigate technology-rich environments with cybersecurity awareness",
+      "Master various digital tools, including nationally recognized platforms, for strategic data utilization"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:28:52.967Z",
+    "sections": {
+      "About this support": "- Navigate technology-rich environments with awareness of cybersecurity risks, ensuring secure work practices\n- Acquire proficiency in diverse digital applications and tools, including nationally recognized platforms, while understanding the strategic use of data and information\n  - Gain insights into essential jobs and digital skills needed in today's and tomorrow's digital economy",
+      "Who is this for?": "- Singapore Citizen or Permanent Resident\n- Employers can tap on SFDW2.0 to equip their employees with the necessary aptitudes and skills",
+      "How to apply?": "Choose a programme partner and contact them directly:\n\n- Ascendo Academy Pte Ltd: Email [sdfw@ascendo.edu.sg](mailto:sdfw@ascendo.edu.sg) or call [+65 8383 2908](tel:83832908)\n- Capelle Academy Pte Ltd: Email [contactus@capelleconsulting.com](mailto:contactus@capelleconsulting.com) or call [+65 6325 4982](tel:63254982)\n- James Cook Institute Pte Ltd: Email [enquiry@jci.edu.sg](mailto:enquiry@jci.edu.sg), call [+65 6737 5761](tel:67375761), or WhatsApp +65 8767 0614\n- Eduquest International Institute Pte. Ltd.: Email [info@eduquest.sg](mailto:info@eduquest.sg) or call [+65 6338 7151](tel:63387151)\n- NTUC LearningHub Pte Ltd: For individual enquiries, email [sales@ntuclearninghub.com](mailto:sales@ntuclearninghub.com) or WhatsApp +65 8488 5482. For corporate enquiries, email [corpsales@ntuclearninghub.com](mailto:corpsales@ntuclearninghub.com)\n- Nanyang Polytechnic: Visit [their website](https://www.nyp.edu.sg) for more information\n- Singapore Chinese Chamber Institute of Business: Email [enquiry@scciob.edu.sg](mailto:enquiry@scciob.edu.sg) or call [+65 6505 3898](tel:65053898) / [+65 6334 1080](tel:63341080)\n- Singapore National Employers Federation: Email [christopher_oh@snef.org.sg](mailto:christopher_oh@snef.org.sg) or call [+65 6827 6919](tel:68276919)",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Digital_Workplace.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays\n8.30 am to 5.30 pm\nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SFWKSTDEG",
+    "type": "scheme",
+    "title": "SkillsFuture Work-Study Degree",
+    "description": "Provides work-relevant skills through on-the-job training and classroom learning for students and working adults.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SFWKSTDEG",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "Trainings"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Structured on-the-job training with classroom learning",
+      "Tuition fee sponsorship, stipends, and potential sign-on bonuses from sponsoring companies",
+      "Opportunity for career offers from sponsoring companies upon graduation"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:26:48.008Z",
+    "sections": {
+      "About this support": "- Gain work-relevant skills through a blend of classroom learning and structured on-the-job training\n- Receive financial support from sponsoring companies, which may include tuition fee sponsorship, stipends, and sign-on bonuses\n- Opportunities for career advancement with the sponsoring company after graduation\n- Flexible study modes with Term-in/Term-out or Work-day/Study-day options",
+      "Who is this for?": "- Prospective Polytechnic or Junior College students\n- Working adults interested in pursuing a degree\n- Keen on enrolling in a local university offering the SkillsFuture Work-Study Degree programmes\n- Interested in integrating work experience with academic learning",
+      "How to apply?": "Prospective students may visit the [SkillsFuture Work-Study Degree page](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/wsdeg.html) for a list of programmes offered by universities and their respective contact information.",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/wsdeg.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre Operating Hours: \nMondays to Fridays \n8.30am to 5.30pm \nClosed on Sat, Sun & Public Holidays"
+    }
+  },
+  {
+    "id": "SF-MID-CAREER-TA",
+    "type": "scheme",
+    "title": "SkillsFuture Mid-Career Training Allowance",
+    "description": "Supports both full-time and part-time long-form training for Singapore Citizens aged 40 and above to upskill and reskill. Individuals can decide which type of training best suits their needs.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SF-MID-CAREER-TA",
+    "keywords": [
+      "Budget 2026",
+      "Mid-career"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Training Allowance (TA) of up to $3,000 per month for full-time training, and a flat rate of $300 per month for part-time training",
+      "Up to 24 months of TA for each individual throughout their lifetime"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:25:28.204Z",
+    "sections": {
+      "About this support": "- Training Allowance (TA) for full-time, long-form training\n  - 50% of an individual's average earned monthly income in the latest 12 months before course start date, with a minimum allowance of $300 and a maximum allowance of $3,000 per month\n  - Eligible for individuals who enrol in selected full-time, long-form training programmes\n  - Eligible for individuals with income in the latest 12 months before course start date\n- TA for part-time, long-form training\n  - Flat rate of $300 per month\n  - Eligible for employed individuals who enrol in selected part-time, long-form training programmes",
+      "Who is this for?": "Singapore Citizen aged 40 and above pursuing selected full-time and part-time long-form training programmes",
+      "How to apply?": "[Visit MySkillsFuture Website](https://www.myskillsfuture.gov.sg/)",
+      "Agency website": "[View more details](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture-Mid-Career-Training-Allowance.html)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)\n\nCall Centre operating hours: \nMonday to Friday\n8.30am to 5.30pm\nClosed on Saturday, Sunday, and Public Holidays"
+    }
+  },
+  {
+    "id": "tmyOMyke",
+    "type": "scheme",
+    "title": "MyCareersFuture ",
+    "description": "The one-stop portal for job search and application needs. It uses Artificial Intelligence (AI) and Machine Learning (ML) to help jobseekers discover career opportunities, make career transitions, or search for jobs based on skills matches.  It also provides valuable career-related resources, including career insights and career guidance to facilitate their career planning and career development processes.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/tmyOMyke",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Education and learning",
+      "Financial/Retirement Planning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Our latest Job-to-Skills job matching algorithm connects you with opportunities tailored to your skills and experience.",
+      "Utilise CareersFinder to discover personalised upskilling and career recommendations based on your unique profile.",
+      "Filter jobs eligible for Government support such as Career Conversion Programmes, Graduate Industry Traineeships (GRIT) Programme and Mid-Career Pathways Programmes",
+      "Elevate your skills with our curated articles, webinars, and courses designed for your professional growth."
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-07-02T08:02:12.425Z",
+    "sections": {
+      "About this support": "- **Advanced Matching Algorithm: **Our latest Job-to-Skills job matching algorithm connects you with opportunities tailored to your skills and experience.\n- **CareersFinder by MyCareersFuture: **[CareersFinder](https://careersfinder.mycareersfuture.gov.sg/) harnesses Government data and artificial intelligence to help individuals discover personalised upskilling and career recommendations based on their unique profile to achieve their career goals.\n- **Government Support Eligibility: **Filter jobs eligible for Government support such as:\n  - Career Conversion Programmes (CCP) if you are open to reskill and change career/occupations\n  - GRaduate Industry and Traineeship Programme (GRIT) if you are a fresh graduate looking for a traineeship opportunity, and\n  - Mid-Career Pathways Programmes (MCPP) if you are a mature individual looking for a mid-career attachments.\n- **CareersCompass by MyCareersFuture:** Access curated articles, career guides and expert insights to help you navigate career planning, skills development and job search strategies.\n- **CareersHorizon by MyCareersFuture: **A one-stop digital platform for career-related event registrations and management. It enables Singaporeans to access a comprehensive suite of career resources, including online articles, virtual career events, seminars, and workshops. The platform also offers micro-learning content, such as podcasts, covering topics relevant to all career stages. Additionally, it supports Singaporeans in searching and registering for career events, and it also facilitates networking opportunities between employers and individuals.",
+      "Who is this for?": "Singapore Citizens and Permanent Residents who are looking to plan their careers, make career transitions, or search for jobs.",
+      "How to apply?": "Embark on your journey to professional success with [MyCareersFuture](https://www.mycareersfuture.gov.sg/).",
+      "Agency website": "[View more details](https://www.mycareersfuture.gov.sg/)",
+      "Email / Form": "[Submit an enquiry](https://service-portal.swda.gov.sg/s/feedback)",
+      "Phone number": "Hotline: [6669 7932](tel:66697932)"
+    }
+  },
+  {
+    "id": "VG22AnYD",
+    "type": "service",
+    "title": "The GRIT Academy",
+    "description": "Mentoring programme for youths-at-risk in Jurong. ",
+    "url": "https://supportgowhere.life.gov.sg/services/VG22AnYD",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Mental health",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-06-30T07:13:02.090Z",
+    "sections": {
+      "About this support": "The GRIT Academy (TGA) aims to provide individual mentoring support for youths-at-risk aged between 11 to 17 years old residing or studying in schools in Jurong; and serve as the primary relationship holder to follow through with the youths as they transit to other youth programmes.",
+      "Who is this for?": "The target clientele is youths-at-risk aged between 11 to 17 years old residing or studying in schools in Jurong (i.e. Jurong West, Jurong East and Taman Jurong).\n\nApplicants must fulfil at least one of the following criteria to be eligible for the programme:\n\n1. Youths who lack meaningful engagements such as those not attending Co-Curricular Activities, as well as youths who often loiter at public areas such as playgrounds and void decks.\n2. Youths with underprivileged background such as youths from low-income families, students receiving the MOE Financial Assistance Scheme and youths staying in rental flats.\n3. Youths exhibiting at-risk behaviour such as poor affiliation to schools, minor behavioural issues, socio-emotional issues and/or peer issues.",
+      "How to apply?": "Complete the form on https://lakeside.org.sg/our-services/the-grit-project/ and email it to [thegritproject@lakeside.org.sg](mailto:thegritproject@lakeside.org.sg).",
+      "What to expect?": "Screening for potential service users will take approximately 2 weeks from the referral/youth sign-up. Adjustment to the screening time frame will be considered based on the assessed urgency."
+    }
+  },
+  {
+    "id": "SVC-SY",
+    "type": "service",
+    "title": "SAMH Youthreach",
+    "description": "Provides psychosocial support and recovery programmes for youths aged 13 to 21 with emotional, psychological and psychiatric issues in the community.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SY",
+    "keywords": [
+      "Counselling",
+      "Free",
+      "Referral required"
+    ],
+    "domains": [
+      "Caregiving support",
+      "Counselling and crisis support",
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 21,
+    "cost": "FREE",
+    "info_last_updated": "2026-06-30T03:21:50.450Z",
+    "sections": {
+      "About this support": "The programme staff work with youths and their families to minimise risk, promote safety and improve functioning.\n\nServices include:\n\n- Counselling Case Management\n- Family Psychoeducation Programme\n- Expressive Therapies\n- Psycho-social Activities",
+      "Who is this for?": "- Singapore Citizens or Permanent Residents aged 13 to 21 with emotional, psychological and/or psychiatric issues.\n- No recent history of violent behaviour, alcohol or substance abuse, or sexual acting out behaviour.\n- Willing to participate in the centre's activities.\n- Family is willing to participate in case management and family education programmes.",
+      "How to apply?": "Referral by a psychiatrist, school counsellor, or social worker using the SAMH referral form is required.",
+      "What to expect?": "- An intake interview with child/youth and caregiver will be arranged to assess suitability.\n- Upon successful registration, the child/youth and caregiver will be engaged for services including case management, psychoeducation and psychosocial development programmes."
+    }
+  },
+  {
+    "id": "lFdUZ4N8",
+    "type": "scheme",
+    "title": "IHL Internship Programme",
+    "description": "The SG Enable IHL Internship Programme matches students with disabilities to internships offered by inclusive organisations in various sectors based on their course of study, interests and preferences. Students will learn in a real work environment, build up their professional networks, and gain practical job-related knowledge and skills.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/lFdUZ4N8",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "PWDs"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [
+      "Matches students with disabilities to internships with inclusive employers",
+      "Job support provided during the internship",
+      "Opportunity to learn in real work environments and build professional networks"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-06-16T09:13:33.852Z",
+    "sections": {
+      "About this support": "IHL students with disabilities will receive internship support services such as:\n\n- reviewing their resumes;\n- conducting internship search;\n- preparing them for interviews;\n- accompanying them for interviews (sitting in as observer);\n- advising potential employers on the student’s disabilities and support needs and;\n- providing job support (either virtual or in-person) during the internship.",
+      "Who is this for?": "- Singapore Citizens and Singapore Permanent Residents who have a verified disability status*;\n- Currently enrolled at an Institute of Higher Learning (IHL)# and\n- Applicants should have a permanent disability based on any one of the following:\na) Physical Disability: Requires some assistance with at least 1 of the 6 Activities of Daily Living due to physical impairment\nb) Moderate visual impairment or worse in the better eye\nc) Moderate hearing loss or worse in the better ear\nd) Intellectual Disability\ne) Autism\n\n*You can check if your disability status is verified on [SupportGoWhere](https://supportgowhere.life.gov.sg/status/pwdr) by logging with your Singpass or contact us at [IHL-to-work@sgenable.sg](mailto:IHL-to-work@sgenable.sg).\n\n# IHLs refer to autonomous universities, polytechnics, Institute of Technical Education and other arts and private education institutions.",
+      "How to apply?": "To register, applicants will need to:\n\n1. Check if your disability status is verified via [SupportGoWhere](https://supportgowhere.life.gov.sg/status/pwdr ), or contact us at [IHL-to-work@sgenable.sg](mailto:IHL-to-work@sgenable.sg).\n2. Download and complete the [Disability Verification Form (DVF](https://www.enablingguide.sg/disability-verification)). (To be completed by a [relevant registered healthcare professional](https://www.enablingguide.sg/registered-healthcare-professionals-(hcps)/))\n    - Note: Only applicants who do not have a verified disability status will be required to upload the DVF.\n3. Upload the completed DVF as part of the online application on the IHL Internship Programme on [SupportGoWhere](https://supportgowhere.life.gov.sg/grants/ihl/apply).",
+      "Where to go": "[Enabling Village](https://onemap.gov.sg/?postal=159053)\n[20 Lengkok Bahru #01-01](https://onemap.gov.sg/?postal=159053)\n[159053](https://onemap.gov.sg/?postal=159053)",
+      "Agency website": "[View more details](https://www.enablingguide.sg/ihl-to-work)",
+      "Email / Form": "[IHL-to-work@sgenable.sg](mailto:IHL-to-work@sgenable.sg)",
+      "Phone number": "SG Enable hotline: [1800-8585-885](tel:1800-8585-885)"
+    }
+  },
+  {
+    "id": "MFAS",
+    "type": "scheme",
+    "title": "ITE Monthly Financial Assistance Scheme (MFAS)",
+    "description": "Provides a monthly allowance to full-time Singaporean students from lower-income households who need regular financial assistance for daily expenses. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/MFAS",
+    "keywords": [
+      "Cash assistance",
+      "Students"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [
+      "Monthly allowance of $200 per month with effect from Academic Year 2026",
+      "Apply online via the ITE portal. Click on iStudent icon > Financial Assistance icon."
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-05-19T07:36:38.415Z",
+    "sections": {
+      "About this support": "- Monthly allowance of $200 per month\n- The number of months of award will depend on the needs of each individual student",
+      "Who is this for?": "Full-time Singaporean ITE students who require regular financial assistance",
+      "How to apply?": "You can apply online via the [ITE portal](https://myite.ite.edu.sg/)\n\nIf you need more help, refer to the [step by step guide](https://isomer-user-content.by.gov.sg/145/c7a7f637-986d-483a-9766-a19bccd726c0/Step By Step Guide on Applying Financial Assistance_Bursary_15 Sep 25.pdf).",
+      "Where to go": "[Visit your nearest branch](https://www.ite.edu.sg/who-we-are/get-in-touch)",
+      "Agency website": "[View more details](https://www.ite.edu.sg/current-full-time-students/admissions/student-services/financial-assistance)",
+      "Email / Form": "[Submit an enquiry](https://eventsportal.ite.edu.sg/feedback/)",
+      "Phone number": "ITE Hotline: [1800 222 2111](tel:18002222111)"
+    }
+  },
+  {
+    "id": "INFANT-CHILD-CARE",
+    "type": "scheme",
+    "title": "Infant and Childcare Subsidies",
+    "description": "Provides tiered subsidies to help cover infant care and childcare fees for Singapore Citizen children from different income backgrounds.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/INFANT-CHILD-CARE",
+    "keywords": [
+      "Child care",
+      "Infant care",
+      "Subsidies"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Working applicants: Basic Subsidy of $600 for infant care and $300 for childcare",
+      "Non-working applicants: Basic Subsidy of $150 for infant care and childcare",
+      "Additional Subsidy for working applicants"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-05-19T07:35:31.554Z",
+    "sections": {
+      "About this support": "**Working applicants (mother or single father who works at least 56 hours per month)**\n\n- Basic Subsidy of $600 for infant care and $300 for childcare\n- Additional Subsidy of up to $710 for infant care and up to $467 for childcare\n\n**Non-working applicants**\n\n- Basic Subsidy of $150 for infant care and childcare\n- Eligible applicants who are not working or who are non-parent caregivers can apply for Special Approval to receive the higher Basic Subsidy and Additional Subsidy that working applicants receive",
+      "Who is this for?": "Types of subsidies\nEligibility criteria\nFor all subsidies\n- Child must be a Singapore Citizen\n- Enrolled in an infant care or childcare centre licensed by ECDA\nAdditional Subsidy\n- Working applicants (mother or single father who works at least 56 hours per month)\n- Monthly household income of up to $12,000, or monthly household income per capita of up to $3,000 for larger families with 5 or more family members in the same household\n  - From 1 January 2027, monthly household income thresholds will be raised to $15,000, or $3,400 per capita\nSpecial Approval\n- Main subsidy applicants who are not working due to the following reasons:\n  - Looking for a job\n  - Studying, training, or on course for at least 56 hours a month\n  - Pregnancy\n  - Medically unfit for work due to hospitalisation, long-term illness and/or permanent disability\n  - Taking care of a special needs child\n  - Taking care of a sick family member who requires a full-time caregiver\n  - Caring full-time for a younger child aged 24 months and below who is not enrolled in a preschool\n  - Incarcerated\n  - Non-parent caregivers who are caring for the child such as grandparents, legal guardian, foster parents, and head of a children’s home\n- Families who are tenants of a rental flat under the HDB’s Public Rental Scheme or are beneficiaries of ComCare Short-To-Medium-Term Assistance (SMTA) or Long-Term-Assistance (LTA) will automatically qualify for maximum preschool subsidies upon application for Special Approval",
+      "How to apply?": "Refer to Early Childhood Development Agency (ECDA) [website](https://www.ecda.gov.sg/parents/preschool-subsidies/how-to-apply-or-make-changes-to-subsidies) to apply or make changes to subsidies",
+      "Where to go": "[ECDA office](https://onemap.gov.sg/?postal=229469)\n[51 Cuppage Road, ](https://onemap.gov.sg/?postal=229469)\n[#08-01, ](https://onemap.gov.sg/?postal=229469)\n[Singapore 229469](https://onemap.gov.sg/?postal=229469)",
+      "Agency website": "[View more details](https://www.ecda.gov.sg/parents/preschool-subsidies/how-to-apply-or-make-changes-to-subsidies)",
+      "Email / Form": "[Submit an enquiry](mailto:Contact@ecda.gov.sg)",
+      "Phone number": "ECDA hotline: [6735 9213](tel:67359213)"
+    }
+  },
+  {
+    "id": "KIFAS",
+    "type": "scheme",
+    "title": "Kindergarten Fee Assistance Scheme (KiFAS) and KiFAS Startup Grant (SUG) ",
+    "description": "Provides subsidies for kindergarten programmes to ensure affordability for low and middle-income Singapore Citizen families, along with an annual KiFAS Start-Up Grant (SUG) to assist low-income families with initial costs.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/KIFAS",
+    "keywords": [
+      "Budget 2026",
+      "Kindergarten",
+      "Subsidies"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [
+      "Subsidies range between $17 and $161 per month",
+      "Eligible families will receive an additional yearly SUG (capped at $240 per year) to cover initial costs",
+      "Apply at your child's kindergarten"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-05-19T07:34:38.868Z",
+    "sections": {
+      "About this support": "- Subsidies range between $17 and $161 per month\n- Subsidy amount depends on monthly household income, and will be directly disbursed to the child's kindergarten\n- Eligible applicants will receive a yearly KiFAS SUG capped at $240 per year to help cover initial costs such as registration fee, deposit, school uniform, insurance, and educational material fees, in addition to the basic subsidies",
+      "Who is this for?": "- Child must be a Singapore Citizen\n- Enrolled in an Anchor Operator or Ministry of Education Kindergarten\n- Monthly household income of up to $12,000, or monthly household income per capita of up to $3,000 for larger families with 5 or more family members in the same household\n  - From 1 January 2027, monthly household income thresholds will be raised to $15,000, or $3,400 per capita\n- Yearly SUG:\n  - Applicants with monthly household income of up to $1,900, or monthly household income per capita of up to $650 for larger families with 5 or more family members in the same household, can further apply for SUG\n  - Each application is assessed on a case-by-case basis",
+      "How to apply?": "Refer to Early Childhood Development Agency (ECDA) [website](https://www.ecda.gov.sg/parents/preschool-subsidies/how-to-apply-or-make-changes-to-subsidies/subsidy-application-for-new-preschool-enrolment) on steps on how to apply for subsidies",
+      "Where to go": "[ECDA office](https://onemap.gov.sg/?postal=229469)\n[51 Cuppage Road](https://onemap.gov.sg/?postal=229469)\n[#08-01](https://onemap.gov.sg/?postal=229469)\n[Singapore 229469](https://onemap.gov.sg/?postal=229469)",
+      "Agency website": "[View more details](https://www.ecda.gov.sg/parents/preschool-subsidies/how-to-apply-or-make-changes-to-subsidies/subsidy-application-for-new-preschool-enrolment)",
+      "Email / Form": "[Submit an enquiry](mailto:contact@ecda.gov.sg)",
+      "Phone number": "ECDA hotline: [6735 9213](tel:67359213)"
+    }
+  },
+  {
+    "id": "SVC-SESSMD",
+    "type": "service",
+    "title": "Special Education (SPED) School (Multiple Disabilities)",
+    "description": "Special Education (SPED) schools provide education for children and youth with disabilities who are of school-going age. ",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SESSMD",
+    "keywords": [
+      "Education",
+      "Fees payable"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 7,
+    "max_age": 18,
+    "cost": "PAID",
+    "info_last_updated": "2026-03-11T08:12:59.905Z",
+    "sections": {
+      "About this support": "Government and community-funded Special Education (SPED) schools cater to children and youths with moderate-to-severe special educational needs and require more intensive and specialised support in their schooling journey.\n\nDifferent SPED schools cater to students with different special educational needs.\n\nVisit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) to learn about the support for students with special educational needs and their educational pathways.",
+      "Who is this for?": "These SPED schools offer the customised curriculum for students aged 7 to 18 with Multiple Disabilities.\n\nThese schools include:\n\n- Cerebral Palsy Alliance Singapore School (East)\n- Cerebral Palsy Alliance Singapore School (West)\n- Rainbow Centre Margaret Drive School\n\nNote: From 2026, AWWA School @ Napiri will not be enrolling students with Multiple Disabilities.",
+      "How to apply?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) for details on the application process for SPED schools.",
+      "What to expect?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs/sped-schools) and each SPED school’s website for more information on each school."
+    }
+  },
+  {
+    "id": "SVC-SESSAWNII",
+    "type": "service",
+    "title": "Special Education (SPED) School (Autism Spectrum Disorder with no intellectual impairment)",
+    "description": "Special Education (SPED) schools provide education for children and youth with disabilities who are of school-going age. ",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SESSAWNII",
+    "keywords": [
+      "Education",
+      "Fees payable"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 7,
+    "max_age": 21,
+    "cost": "PAID",
+    "info_last_updated": "2026-03-04T09:39:54.907Z",
+    "sections": {
+      "About this support": "Government and community-funded Special Education (SPED) schools cater to children and youths with moderate-to-severe special educational needs and require more intensive and specialised support in their schooling journey.\n\nDifferent SPED schools cater to students with different special educational needs.\n\nVisit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) to learn about the support for students with special educational needs and their educational pathways.",
+      "Who is this for?": "These SPED schools offer the national curriculum for students aged 7 to 21 with Autism Spectrum Disorder, who have the cognitive ability to access the same curriculum as mainstream schools.\n\nThese schools include:\n\n- Pathlight School (Ang Mo Kio)\n- Pathlight School (Tampines)\n- St. Andrew’s Mission School\n- Anglo-Chinese School (Academy)",
+      "How to apply?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) for details on the application process for SPED schools.",
+      "What to expect?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs/sped-schools) and each SPED school’s website for more information on each school."
+    }
+  },
+  {
+    "id": "gyDNuWnW",
+    "type": "scheme",
+    "title": "PA Community Programmes and Events",
+    "description": "Provides one-stop access to a diverse range of community programmes and events organised by the People's Association.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/gyDNuWnW",
+    "keywords": [
+      "Courses",
+      "Families"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Healthcare and well-being"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "One-stop access to a diverse range of community programmes and events organised by the People's Association. "
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-03-03T07:27:51.631Z",
+    "sections": {
+      "About this support": "- Discover community programmes and events available in your neighbourhood\n\n- Stay healthy with fitness activities, broaden your experiences through outings, tours, and workshops.\n\n- Get to know your neighbours better through localised events such as neighbourhood celebrations and festivities, coffee talks and dialogues.\n\n- Contribute to the community by signing up for volunteering opportunities with like-minded individuals.",
+      "Who is this for?": "Singapore Citizens, Permanent Residents and Non-Singapore Citizens / Foreigners",
+      "How to apply?": "To sign up for community programmes and events organised by the People's Association, you can:\n\n- Visit [onePA ](https://www.onepa.gov.sg/events)to browse and register.\n- Visit your [nearest CC](https://www.onepa.gov.sg/cc) to enquire about available programmes and register at the counter.",
+      "Where to go": "[Visit your nearest Community Centre/Club (CC)](https://www.onepa.gov.sg/cc)",
+      "Agency website": "[View more details](https://www.onepa.gov.sg/events)",
+      "Email / Form": "[Submit an enquiry](https://www.pa.gov.sg/feedback/)",
+      "Phone number": "PA Contact Centre’s Hotline: [6225 5322](tel:62255322)"
+    }
+  },
+  {
+    "id": "EDUSAVE-ACC",
+    "type": "scheme",
+    "title": "Edusave Account",
+    "description": "Provides $230 to $290 annually for approved fees and programmes for every Singapore Citizen child, aged 7 to 16 or studying in a primary or secondary school. Ad-hoc top-ups may be made by the Government to the child’s Edusave account periodically.  ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/EDUSAVE-ACC",
+    "keywords": [
+      "Education",
+      "Students"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families"
+    ],
+    "highlights": [
+      "Receive annual contributions of $230 to $290 for all eligible Singapore Citizen children ",
+      "No application needed "
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-03-02T08:40:21.238Z",
+    "sections": {
+      "About this support": "- Annual contributions to Edusave accounts for primary school students: $230\n- Annual contributions to Edusave accounts for secondary school students: $290\n- Funds can be used for approved school enrichment programs, miscellaneous fees, approved educational activities and personal learning devices / assistive devices.\n- Edusave account balances earn interest at a rate pegged to the CPF Ordinary Account (CPF-OA), currently at 2.5%",
+      "Who is this for?": "- You must be a Singapore Citizen child, either aged 7 to 16 years old or enrolled in a Ministry of Education (MOE)-funded primary / secondary school\n- Junior college and Millennia Institute students do not receive annual contributions but can use remaining Edusave funds",
+      "How to apply?": "No application required.",
+      "Where to go": "[MOE Customer Service Centre 1 North Buona Vista Drive MOE Building, Podium Block Singapore 138675](https://onemap.gov.sg/?postal=138675)\n\nNote: By appointment only.",
+      "Agency website": "[View more details](https://www.moe.gov.sg/financial-matters/edusave-account)",
+      "Email / Form": "[Submit an enquiry](https://www.moe.gov.sg/feedback)",
+      "Phone number": "MOE Hotline: [6872 2220](tel:68722220)"
+    }
+  },
+  {
+    "id": "ByVdAY7f",
+    "type": "scheme",
+    "title": "MOE Independent School Bursary (ISB) ",
+    "description": "Provides financial assistance to lower- and middle-income families with children who are in Independent Schools and some Specialised Independent Schools.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/ByVdAY7f",
+    "keywords": [
+      "Education",
+      "Lower-mid income",
+      "Subsidies"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [
+      "Up to full waiver of school and miscellaneous fee",
+      "Secondary students from lower income families may receive free textbooks and school attire, and school meal and public transport subsidies",
+      "Pre-university students from lower income families may receive bursary of $1,600 per annum"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-02-27T07:05:58.998Z",
+    "sections": {
+      "About this support": "- Up to full waiver of school and miscellaneous fees, depending on household income\n- Students with Average Gross Household Income of up to $4,000, or Average Per Capita Income of up to $1,000 will also receive:\n  - Secondary students: Free textbooks and school attire, $21 transport credit per month for those who take public transport, and 10 meals per school week\n  - Pre-university students: Bursary of $1,600 per annum",
+      "Who is this for?": "- Singaporean students studying in Independent Schools and some Specialised Independent Schools\n- Average Gross Household Income of up to $12,000, or Average Per Capita Income of up to $3,000.",
+      "How to apply?": "Apply online through [this link](https://go.gov.sg/moe-efasis).",
+      "Where to go": "[Customer Service Centre 1 North Buona Vista Drive MOE Building, Podium Block Singapore 138675](https://onemap.gov.sg/?postal=138675)",
+      "Agency website": "[View more details](https://www.moe.gov.sg/financial-matters/financial-assistance)",
+      "Email / Form": "[Submit an enquiry](https://www.moe.gov.sg/feedback)",
+      "Phone number": "MOE hotline: [68722220](tel:68722220)"
+    }
+  },
+  {
+    "id": "SPED-FAS",
+    "type": "scheme",
+    "title": "SPED Financial Assistance Scheme (FAS)",
+    "description": "Provides financial assistance to lower-income families with children who are in MOE-funded Special Education Schools.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SPED-FAS",
+    "keywords": [
+      "Education expenses",
+      "Special education",
+      "Students"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Low-income",
+      "Persons with disabilities"
+    ],
+    "highlights": [
+      "Full waiver of school fees and free textbooks and school attire   ",
+      "Subsidies for school meals and public transport"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-02-27T06:57:52.632Z",
+    "sections": {
+      "About this support": "- Full waiver of school fees\n- Free textbooks and school attire\n- $21 transport credit per month for students who take public transport\n- Meal subsidy of school meals:\n  - 7 meals per school week for students 7 to 12 years old\n  - 10 meals per school week for students 13 to 21 years old",
+      "Who is this for?": "- Singaporean students studying in MOE-funded Special Education Schools\n- Average Gross Household Income of up to $4,000, or Average Per Capita Income of up to $1,000.",
+      "How to apply?": "Apply online through [this link](https://go.gov.sg/moe-efassped).",
+      "Where to go": "[Customer Service Centre 1 North Buona Vista Drive, MOE Building, Podium Block, Singapore 138675](https://onemap.gov.sg/?postal=138675)",
+      "Agency website": "[View more details](https://www.moe.gov.sg/financial-matters/financial-assistance)",
+      "Email / Form": "[Submit an enquiry](https://www.moe.gov.sg/feedback)",
+      "Phone number": "MOE Hotline: [6872 2220](tel:68722220)"
+    }
+  },
+  {
+    "id": "MOE-FAS",
+    "type": "scheme",
+    "title": "MOE Financial Assistance Scheme (MOE FAS)",
+    "description": "Provides financial assistance to lower-income families with children who are in Government and Government-Aided Schools and Specialised Schools.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/MOE-FAS",
+    "keywords": [
+      "Education expenses",
+      "Students"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [
+      "Full waiver of school and miscellaneous fees, free textbooks and school attire, and school meal and public transport subsidies for primary and secondary students",
+      "Full waiver of school fees and bursary of $1,600 per annum for pre-university students"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-02-27T06:52:23.815Z",
+    "sections": {
+      "About this support": "- Full waiver of school and miscellaneous fees\n- Free textbooks and school attire for primary and secondary school students\n- One of the following transport subsidies:\n  - Covers 70% of school bus fares per year for primary school students who take school bus\n  - $21 transport credit per month for primary and secondary students who take public transport\n- Meal subsidy\n  - 7 meals per school week for primary school students\n  - 10 meals per school week for secondary school students\n- Bursary of $1,600 per annum for pre-university students",
+      "Who is this for?": "- Singaporean students studying in Government and Government-Aided Schools and Specialised Schools\n- Average Gross Household Income of up to $4,000, or Average Per Capita Income of up to $1,000.",
+      "How to apply?": "- For students from Government and Government-Aided Schools- Apply online through [this link](https://go.gov.sg/moe-efasggas)\n- For students from Specialised Schools- Apply online through [this link](https://go.gov.sg/moe-efasss)",
+      "Where to go": "[Customer Service Centre 1 North Buona Vista Drive, MOE Building, Podium Block, Singapore 138675](https://onemap.gov.sg/?postal=138675)",
+      "Agency website": "[View more details](https://www.moe.gov.sg/financial-matters/financial-assistance)",
+      "Email / Form": "[Submit an enquiry](https://www.moe.gov.sg/feedback)",
+      "Phone number": "MOE Hotline: [6872 2220](tel:68722220)"
+    }
+  },
+  {
+    "id": "FTNt6bee",
+    "type": "scheme",
+    "title": "Government Bursaries for Higher Education ",
+    "description": "Provides financial assistance for Singapore Citizen students from lower- and middle-income families studying in MOE-subsidised full-time and part-time Nitec, Higher Nitec, diploma and undergraduate courses at publicly funded post-secondary education institutions.",
+    "url": "https://supportgowhere.life.gov.sg/schemes/FTNt6bee",
+    "keywords": [
+      "Education expenses",
+      "Students"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [
+      "Bursaries up to $6,300 per annum, depending on the level of study and household income",
+      " Medicine and Dentistry undergraduates may receive higher bursaries up to $26,100, based on intake, institution, and household income"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-02-26T08:26:36.596Z",
+    "sections": {
+      "About this support": "**Nitec and Higher Nitec students**\n\n- Fee subsidies and/or bursaries of up to $1,850 per annum.\n\n**Diploma students**\n\n- Bursaries of up to $3,050 per annum\n\n**Undergraduate students**\n\n- Bursaries of up to $6,300 per annum for non-Medicine/Dentistry students\n- Bursaries of up to $22,200 per annum for NUS Medicine/Dentistry students and $26,100 per annum for NTU Medicine students",
+      "Who is this for?": "- Singapore Citizen\n- Studying in MOE-subsidised full-time or part-time Nitec, Higher Nitec, diploma and undergraduate courses offered by publicly funded post-secondary education institutions.\n- Gross monthly household income of up to $12,000 or gross monthly household per capita income of $3,000.",
+      "How to apply?": "You can approach your child's institution to find out more about the application procedures for the scheme.",
+      "Where to go": "[Customer Service Centre 1 North Buona Vista Drive, MOE Building, Podium Block Singapore 138675](https://onemap.gov.sg/?postal=138675)",
+      "Agency website": "[View more details](https://www.moe.gov.sg/financial-matters/financial-assistance/financial-assistance-information-for-pseis)",
+      "Email / Form": "[Submit an enquiry](https://www.moe.gov.sg/feedback)",
+      "Phone number": "MOE Hotline: [68722220](tel:68722220)"
+    }
+  },
+  {
+    "id": "SVC-SESSMID",
+    "type": "service",
+    "title": "Special Education (SPED) School (Mild Intellectual Disability)",
+    "description": "Special Education (SPED) schools provide education for children and youth with disabilities who are of school-going age.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SESSMID",
+    "keywords": [
+      "Education",
+      "Fees payable"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 7,
+    "max_age": 21,
+    "cost": "PAID",
+    "info_last_updated": "2026-02-10T09:36:40.328Z",
+    "sections": {
+      "About this support": "Government and community-funded Special Education (SPED) schools cater to children and youths with moderate-to-severe special educational needs and require more intensive and specialised support in their schooling journey.\n\nDifferent SPED schools cater to students with different special educational needs.\n\nVisit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) to learn about the support for students with special educational needs and their educational pathways.",
+      "Who is this for?": "These SPED schools offer the customised curriculum for students with Mild Intellectual Disability.\n\nThese schools include:\n\n- APSN Chaoyang School (7 to 12 years old)\n- APSN Katong School (7 to 16 years old)\n- APSN Tanglin School (13 to 16 years old)\n- Grace Orchard School (7 to 18 years old)\n- Metta School (7 to 21 years old)\n- APSN Delta Senior School (17 to 21 years old)\n\nMetta School and APSN Delta Senior School offer Vocational Certification Programmes for students aged 17 to 21.",
+      "How to apply?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) for details on the application process for SPED schools.",
+      "What to expect?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs/sped-schools) and each SPED school’s website for more information on each school."
+    }
+  },
+  {
+    "id": "SVC-SESSSI",
+    "type": "service",
+    "title": "Special Education (SPED) School (Sensory impairment)",
+    "description": "Special Education (SPED) schools provide education for children and youth with disabilities who are of school-going age.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SESSSI",
+    "keywords": [
+      "Education",
+      "Fees payable"
+    ],
+    "domains": [
+      "Disability support",
+      "Education and learning",
+      "Family, parenting and relationships"
+    ],
+    "profiles": [
+      "Families",
+      "Persons with disabilities"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 7,
+    "max_age": 18,
+    "cost": "PAID",
+    "info_last_updated": "2026-02-10T09:34:01.463Z",
+    "sections": {
+      "About this support": "Government and community-funded Special Education (SPED) schools cater to children and youths with moderate-to-severe special educational needs and require more intensive and specialised support in their schooling journey.\n\nDifferent SPED schools cater to students with different special educational needs.\n\nVisit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) to learn about the support for students with special educational needs and their educational pathways.",
+      "Who is this for?": "Lighthouse School offers:\n\n- The customised curriculum for students aged 7 to 18 with Hearing Loss; or\n- The customised curriculum for students aged 7 to 18 with Visual Impairment; or\n- The national curriculum for students aged 7 to 12 with Visual Impairment (i.e., same curriculum as mainstream primary schools)",
+      "How to apply?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs) for details on the application process for SPED schools.",
+      "What to expect?": "Please visit [MOE Special Education (SPED) schools](https://www.moe.gov.sg/special-educational-needs/sped-schools) and each SPED school’s website for more information on each school."
+    }
+  },
+  {
+    "id": "ZHDOAsEu",
+    "type": "scheme",
+    "title": "OnePA CC Courses",
+    "description": "Provide opportunities for residents to pick up new skills and interests through courses offered at Community Centres/Clubs (CCs) and Residents’ Networks (RNs). ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/ZHDOAsEu",
+    "keywords": [
+      "Courses",
+      "Fees payable"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Healthcare and well-being",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [
+      "Dive into lifelong learning with PA's array of courses, from technical skills to languages",
+      "Enhance your well-being with health and wellness tips, including grooming, makeup, skincare, and body care advice",
+      "Embrace your interests and passions with lifestyle and leisure courses, exploring arts, crafts, cooking, and creativity",
+      "Keep fit with our wide range of sports and dance fitness courses"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2025-12-09T06:48:05.191Z",
+    "sections": {
+      "About this support": "- Diverse range of courses at Community Centres/Clubs (CCs) and Residents’ Networks (RNs) covering everything from personal growth to interest development in areas like enrichment, health, hobbies, and fitness\n- Industry Guru Series: Tailored networking and deep dive learning opportunities to prepare you for the evolving job market\n- SkillsFuture@PA: Enhance your skills and knowledge by utilising your SkillsFuture Credit (SFC) for courses at CCs\n- PA SHIOK Series: Customised courses and programmes by the People’s Association (PA) Malay Activity Executive Committees Council (MESRA) and Malay Muslim Organizations (MMOs)",
+      "Who is this for?": "Singapore Citizens, Permanent Residents and Non-Singapore Citizens / Foreigners",
+      "How to apply?": "- To sign up for People's Association (PA) courses, you can:\n  - Visit [OnePA](https://www.onepa.gov.sg) to browse and register for courses by logging in with your SingPass account\n  - Visit your [nearest CC](https://www.onepa.gov.sg/cc) to register at the counter",
+      "Where to go": "[Visit your nearest Community Centre/Club (CC)](https://www.onepa.gov.sg/cc)",
+      "Agency website": "[View more details](https://www.pa.gov.sg/our-programmes/cc-courses/courses/)",
+      "Email / Form": "[Submit an enquiry](https://www.pa.gov.sg/feedback/)",
+      "Phone number": "PA Contact Centre’s Hotline: [6225 5322](tel:62255322)"
+    }
+  },
+  {
+    "id": "SSAS",
+    "type": "scheme",
+    "title": "ITE Special Student Assistance Scheme (SSAS)",
+    "description": "One-off financial assistance to help students tide over short-term financial difficulties. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/SSAS",
+    "keywords": [
+      "Cash assistance",
+      "Students"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Financial support and benefits"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [
+      "One-off financial assistance from $100 to $400",
+      "Apply online via the ITE portal. Click on iStudent icon > Financial Assistance icon."
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2025-10-03T08:26:07.804Z",
+    "sections": {
+      "About this support": "- One-off financial assistance from $100 to $400\n- The amount will depend on the needs of each individual student",
+      "Who is this for?": "Full-time Singaporean ITE students who require financial assistance to tide over short-term financial difficulties",
+      "How to apply?": "You can apply online via the [ITE portal](https://myite.ite.edu.sg/)\n\nIf you need more help, refer to the [step by step guide](https://isomer-user-content.by.gov.sg/145/c7a7f637-986d-483a-9766-a19bccd726c0/Step By Step Guide on Applying Financial Assistance_Bursary_15 Sep 25.pdf).",
+      "Where to go": "[Visit your nearest branch](https://www.ite.edu.sg/who-we-are/get-in-touch)",
+      "Agency website": "[View more details](https://www.ite.edu.sg/current-full-time-students/admissions/student-services/financial-assistance)",
+      "Email / Form": "[Submit an enquiry](https://eventsportal.ite.edu.sg/feedback/)",
+      "Phone number": "ITE Hotline: [1800 222 2111](tel:18002222111)"
+    }
+  }
+]

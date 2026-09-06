@@ -1,0 +1,5590 @@
+{
+  "generated_at": "2026-09-06T10:09:46.398089+00:00",
+  "config": {
+    "eval_set": "C:\\Users\\mingy\\Desktop\\ka-ki-gong\\eval\\retrieval_eval_set.json",
+    "top_k": 10,
+    "alpha": 0.7,
+    "embedding_model": "openai/text-embedding-3-small",
+    "reranker_model": "cohere/rerank-4-fast",
+    "rerank_candidates": 15,
+    "max_rpm": null,  
+    "llm_judge": false,
+    "llm_judge_model": null
+  },
+  "summary": {
+    "num_queries": 133,
+    "recall@1": 0.9323308270676691,
+    "recall@3": 0.9774436090225563,
+    "recall@5": 0.9774436090225563,
+    "recall@10": 0.9774436090225563,
+    "mrr": 0.9548872180451128
+  },
+  "per_query": [
+    {
+      "query": "I heard about an insurance that helps pay money if I become very disabled when I'm old, and I want to know if there's help paying for the premiums too",
+      "expected": [
+        "1GKrS2tn",
+        "2K6v76Ac",
+        "CARESHIELD",
+        "ELDERSHIELD",
+        "PKQxhC2q"
+      ],
+      "top_results": [
+        [
+          "1GKrS2tn",
+          "Additional Premium Support for MediShield Life and CareShield Life",
+          0.516
+        ],
+        [
+          "PKQxhC2q",
+          "CareShield Life Premium Subsidies",
+          0.445
+        ],
+        [
+          "cVkNdnyT",
+          "Life Insurance Relief",
+          0.497
+        ],
+        [
+          "n4iFaG9r",
+          "Pioneer Generation Package",
+          0.517
+        ],
+        [
+          "MEDISAVE",
+          "MediSave",
+          0.513
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.845,
+        0.77,
+        0.76,
+        0.754,
+        0.713
+      ]
+    },
+    {
+      "query": "Can I use my own CPF savings to help pay for my grandchild's university school fees?",
+      "expected": [
+        "3OUzHyMJ"
+      ],
+      "top_results": [
+        [
+          "3OUzHyMJ",
+          "CPF Education Loan Scheme",
+          0.67
+        ],
+        [
+          "EDUSAVE-ACC",
+          "Edusave Account",
+          0.501
+        ],
+        [
+          "AboVw46N",
+          "CPF Housing Scheme",
+          0.647
+        ],
+        [
+          "Whq71CAX",
+          "CPF Investment Scheme (CPFIS)",
+          0.548
+        ],
+        [
+          "SNSS",
+          "Special Needs Savings Scheme (SNSS)",
+          0.493
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.871,
+        0.558,
+        0.5,
+        0.486,
+        0.478
+      ]
+    },
+    {
+      "query": "Is there a membership card that gives discounts for courses and activities at the community club?",
+      "expected": [
+        "705gVCXW"
+      ],
+      "top_results": [
+        [
+          "705gVCXW",
+          "PAssion Card",
+          0.664
+        ],
+        [
+          "ckLFmJ4I",
+          "SG Culture Pass",
+          0.308
+        ],
+        [
+          "ZHDOAsEu",
+          "OnePA CC Courses",
+          0.43
+        ],
+        [
+          "ACTIVESG_MEMBERSHIP",
+          "ActiveSG Membership",
+          0.43
+        ],
+        [
+          "gyDNuWnW",
+          "PA Community Programmes and Events",
+          0.404
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.91,
+        0.544,
+        0.424,
+        0.35,
+        0.309
+      ]
+    },
+    {
+      "query": "I am 55 now, can I take out some of my CPF money if I need it urgently?",
+      "expected": [
+        "7c13MJjn"
+      ],
+      "top_results": [
+        [
+          "7c13MJjn",
+          "Withdrawal of CPF Savings for Immediate Needs from Age 55",
+          0.663
+        ],
+        [
+          "RLE",
+          "Withdrawal of CPF Savings on Reduced Life Expectancy",
+          0.54
+        ],
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.641
+        ],
+        [
+          "Whq71CAX",
+          "CPF Investment Scheme (CPFIS)",
+          0.663
+        ],
+        [
+          "Z9jTRTTL",
+          "Voluntary Housing Refund",
+          0.529
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.896,
+        0.769,
+        0.734,
+        0.687,
+        0.609
+      ]
+    },
+    {
+      "query": "Is there a place where a few of us old folks can stay together and share one caregiver?",
+      "expected": [
+        "7gjb1DT2"
+      ],
+      "top_results": [
+        [
+          "7gjb1DT2",
+          "Shared Stay-in Senior Caregiving Services (Stay-in SCS)",
+          0.676
+        ],
+        [
+          "bncVrBSn",
+          "CAREconnect",
+          0.539
+        ],
+        [
+          "7mQT5PCe",
+          "CAREbuddy",
+          0.571
+        ],
+        [
+          "SVC-DDC",
+          "Dementia Day Care",
+          0.503
+        ],
+        [
+          "SVC-NHRC",
+          "Nursing Home Respite Care",
+          0.539
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.751,
+        0.682,
+        0.594,
+        0.533,
+        0.517
+      ]
+    },
+    {
+      "query": "Is there help to pay for more energy and water saving things in my flat?",
+      "expected": [
+        "9kUw7c5Q"
+      ],
+      "top_results": [
+        [
+          "9kUw7c5Q",
+          "Enhanced Climate Friendly Households Programme (Climate Vouchers)",
+          0.646
+        ],
+        [
+          "U-SAVE",
+          "U-Save",
+          0.451
+        ],
+        [
+          "EASE",
+          "Enhancement for Active Seniors (EASE)",
+          0.429
+        ],
+        [
+          "SCCR",
+          "Service and Conservancy Charges (S&CC) Rebate",
+          0.383
+        ],
+        [
+          "TEN-PRIORITY",
+          "Tenants' Priority Scheme (TPS)",
+          0.363
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.883,
+        0.779,
+        0.617,
+        0.537,
+        0.463
+      ]
+    },
+    {
+      "query": "Is there a programme to encourage me to stay active playing sports as I grow older?",
+      "expected": [
+        "ACTIVESG_MEMBERSHIP"
+      ],
+      "top_results": [
+        [
+          "ACTIVESG_MEMBERSHIP",
+          "ActiveSG Membership",
+          0.594
+        ],
+        [
+          "LWAWP",
+          "Live Well, Age Well Programme",
+          0.639
+        ],
+        [
+          "ZHDOAsEu",
+          "OnePA CC Courses",
+          0.433
+        ],
+        [
+          "gyDNuWnW",
+          "PA Community Programmes and Events",
+          0.445
+        ],
+        [
+          "SVC-AACAAACHASACS",
+          "Active Ageing Centres (AAC)",
+          0.491
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.769,
+        0.753,
+        0.72,
+        0.663,
+        0.602
+      ]
+    },
+    {
+      "query": "How can I get a wheelchair or hearing aid subsidised for my elderly father?",
+      "expected": [
+        "ATF",
+        "SMF"
+      ],
+      "top_results": [
+        [
+          "SMF",
+          "Seniors' Mobility and Enabling Fund",
+          0.647
+        ],
+        [
+          "ATF",
+          "Assistive Technology Fund (ATF)",
+          0.563
+        ],
+        [
+          "QEAKpruj",
+          "Equipment Rental Scheme (ERS)",
+          0.578
+        ],
+        [
+          "s1Mns2Os",
+          "Enabled Living Programme (ELP)",
+          0.474
+        ],
+        [
+          "EASE",
+          "Enhancement for Active Seniors (EASE)",
+          0.606
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.881,
+        0.808,
+        0.701,
+        0.644,
+        0.617
+      ]
+    },
+    {
+      "query": "Can I use my CPF savings to help pay for my flat?",
+      "expected": [
+        "AboVw46N"
+      ],
+      "top_results": [
+        [
+          "AboVw46N",
+          "CPF Housing Scheme",
+          0.734
+        ],
+        [
+          "ENCPFHG-FAM",
+          "Enhanced CPF Housing Grant (Families)",
+          0.518
+        ],
+        [
+          "HOUSEL-HDB",
+          "Housing Loan from HDB",
+          0.554
+        ],
+        [
+          "ENCPFHG-SIN",
+          "Enhanced CPF Housing Grant (Singles)",
+          0.509
+        ],
+        [
+          "IwOX3hng",
+          "Housing Subsidy - Citizen Top-Up",
+          0.585
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.897,
+        0.855,
+        0.836,
+        0.827,
+        0.82
+      ]
+    },
+    {
+      "query": "I heard the government is giving out some vouchers and rebates to help with our daily expenses and bills, what are all of those?",
+      "expected": [
+        "9kUw7c5Q",
+        "BX7Se4Pg",
+        "CDC",
+        "ESbwvFrn",
+        "GST-CASH",
+        "SCCR",
+        "U-SAVE",
+        "ckLFmJ4I"
+      ],
+      "top_results": [
+        [
+          "SCCR",
+          "Service and Conservancy Charges (S&CC) Rebate",
+          0.572
+        ],
+        [
+          "U-SAVE",
+          "U-Save",
+          0.639
+        ],
+        [
+          "GSTV-CASH",
+          "GST Voucher (GSTV) – Cash",
+          0.472
+        ],
+        [
+          "CDC",
+          "Community Development Council (CDC) Vouchers",
+          0.546
+        ],
+        [
+          "9kUw7c5Q",
+          "Enhanced Climate Friendly Households Programme (Climate Vouchers)",
+          0.581
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.747,
+        0.717,
+        0.679,
+        0.653,
+        0.651
+      ]
+    },
+    {
+      "query": "Is there a programme to help me get closer to my grown-up children?",
+      "expected": [
+        "C46c4FeP"
+      ],
+      "top_results": [
+        [
+          "C46c4FeP",
+          "Strengthening Elderly Parent-Adult Child Bonds Programme",
+          0.577
+        ],
+        [
+          "ngaAPNbH",
+          "Life! Mentors",
+          0.428
+        ],
+        [
+          "SVC-HDSSPIII",
+          "HCSA SPIN",
+          0.475
+        ],
+        [
+          "a7JTjGeT",
+          "ComLink+",
+          0.439
+        ],
+        [
+          "SVC-WP",
+          "WiShine",
+          0.534
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.808,
+        0.628,
+        0.587,
+        0.581,
+        0.529
+      ]
+    },
+    {
+      "query": "I want to train as a caregiver, is there a subsidy for the course fees?",
+      "expected": [
+        "CAREGIVERS_TRAINING",
+        "SVC-CTCP"
+      ],
+      "top_results": [
+        [
+          "CAREGIVERS_TRAINING",
+          "Caregivers Training Grant (CTG)",
+          0.742
+        ],
+        [
+          "SFMCES",
+          "SkillsFuture Mid-Career Enhanced Subsidy",
+          0.66
+        ],
+        [
+          "NATIONAL_SILVER_ACADEMY",
+          "National Silver Academy",
+          0.59
+        ],
+        [
+          "SKILLSFUTURE_CREDITS",
+          "SkillsFuture Credit",
+          0.525
+        ],
+        [
+          "INFANT-CHILD-CARE",
+          "Infant and Childcare Subsidies",
+          0.576
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.929,
+        0.739,
+        0.735,
+        0.718,
+        0.684
+      ]
+    },
+    {
+      "query": "I am getting old and thinking of selling or downsizing my flat to get some retirement money or move somewhere with care nearby, what options do I have?",
+      "expected": [
+        "CCA",
+        "K450UIdj",
+        "LEASE_BUYBACK",
+        "PRIORITY-SEN",
+        "SHB",
+        "SL-TR-FLEXI",
+        "zwEOzPAt"
+      ],
+      "top_results": [
+        [
+          "SHB",
+          "Silver Housing Bonus (SHB)",
+          0.647
+        ],
+        [
+          "LEASE_BUYBACK",
+          "Lease Buyback Scheme",
+          0.642
+        ],
+        [
+          "SL-TR-FLEXI",
+          "Short-lease 2-room Flexi Flats",
+          0.585
+        ],
+        [
+          "K450UIdj",
+          "Renting Out of HDB Flats",
+          0.643
+        ],
+        [
+          "CCA",
+          "Community Care Apartments (CCAs)",
+          0.488
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.853,
+        0.841,
+        0.827,
+        0.81,
+        0.772
+      ]
+    },
+    {
+      "query": "I am a single Singaporean senior buying a second small flat, can I get back the extra buyer's stamp duty I paid?",
+      "expected": [
+        "CCLONfhj"
+      ],
+      "top_results": [
+        [
+          "CCLONfhj",
+          "ABSD Concession for Single Singapore Citizen Seniors",
+          0.76
+        ],
+        [
+          "gk4nIS14",
+          "Stamp Duty Remissions for Married and Divorced Couples",
+          0.695
+        ],
+        [
+          "G1ZJdvwf",
+          "Stamp Duty Remissions for Transfer of HDB Flats within Family",
+          0.695
+        ],
+        [
+          "zwEOzPAt",
+          "Deferred Downpayment Scheme (DDS)",
+          0.543
+        ],
+        [
+          "HOUSEL-HDB",
+          "Housing Loan from HDB",
+          0.48
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.96,
+        0.802,
+        0.795,
+        0.679,
+        0.459
+      ]
+    },
+    {
+      "query": "I am over 40 and want to switch to a new career, is there financial help for me to train or get attached to a company?",
+      "expected": [
+        "CCPIND",
+        "CLT",
+        "SCTP",
+        "SF-MID-CAREER-TA",
+        "SFC-MID-CAREER",
+        "SFMCES",
+        "SGUP-CA"
+      ],
+      "top_results": [
+        [
+          "SGUP-CA",
+          "Mid-Career Pathways Programme (MCPP)",
+          0.634
+        ],
+        [
+          "CCPIND",
+          "Career Conversion Programme (CCP) for Individuals",
+          0.608
+        ],
+        [
+          "SF-MID-CAREER-TA",
+          "SkillsFuture Mid-Career Training Allowance",
+          0.442
+        ],
+        [
+          "TIPP",
+          "Tech Immersion and Placement Programme (TIPP)",
+          0.453
+        ],
+        [
+          "SFC-MID-CAREER",
+          "SkillsFuture Credit (Mid-Career)",
+          0.489
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.915,
+        0.877,
+        0.793,
+        0.786,
+        0.765
+      ]
+    },
+    {
+      "query": "I don't know which long-term care schemes I can apply for, can someone check all of them for me at once?",
+      "expected": [
+        "CEt7UtbF"
+      ],
+      "top_results": [
+        [
+          "CEt7UtbF",
+          "Eligible Schemes Enrolment (ESE)",
+          0.65
+        ],
+        [
+          "Sucth2ke",
+          "Long-Term Care Subsidies",
+          0.633
+        ],
+        [
+          "MEDISAVE_CARE",
+          "MediSave Care",
+          0.556
+        ],
+        [
+          "ELDERSHIELD",
+          "ElderShield",
+          0.561
+        ],
+        [
+          "CARESHIELD",
+          "CareShield Life",
+          0.526
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.905,
+        0.808,
+        0.743,
+        0.738,
+        0.727
+      ]
+    },
+    {
+      "query": "Is there a personalised programme to help me plan my career?",
+      "expected": [
+        "CGPOLARIS",
+        "SKILLS-ADVISORY",
+        "tmyOMyke"
+      ],
+      "top_results": [
+        [
+          "CGPOLARIS",
+          "Career Guidance Programme",
+          0.695
+        ],
+        [
+          "tmyOMyke",
+          "MyCareersFuture",
+          0.639
+        ],
+        [
+          "SKILLS-ADVISORY",
+          "Career and Skills Advisory",
+          0.538
+        ],
+        [
+          "zQnhRFwq",
+          "Hospital-to-Work Transition Programme",
+          0.395
+        ],
+        [
+          "VCADVINI",
+          "Volunteer Career Advisors Initiative",
+          0.418
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.899,
+        0.796,
+        0.79,
+        0.687,
+        0.633
+      ]
+    },
+    {
+      "query": "Is there a card that helps me pay less for seeing the doctor or dentist nearby?",
+      "expected": [
+        "CHAS"
+      ],
+      "top_results": [
+        [
+          "DAL4e5J1",
+          "Medical Fee Exemption Card (MFEC)",
+          0.469
+        ],
+        [
+          "lceYNjsb",
+          "Merdeka Generation Package",
+          0.391
+        ],
+        [
+          "705gVCXW",
+          "PAssion Card",
+          0.489
+        ],
+        [
+          "MEDISAVE",
+          "MediSave",
+          0.497
+        ],
+        [
+          "LrEfS3Nx",
+          "Matched MediSave Scheme",
+          0.468
+        ]
+      ],
+      "rank_of_first_match": null,
+      "rerank_scores": [
+        0.531,
+        0.517,
+        0.496,
+        0.476,
+        0.436
+      ]
+    },
+    {
+      "query": "Can I get on-the-job training in new technology like AI while I keep working?",
+      "expected": [
+        "CCPIND",
+        "CLT"
+      ],
+      "top_results": [
+        [
+          "CLT",
+          "Company-Led Training (CLT) Programme",
+          0.631
+        ],
+        [
+          "TIPP",
+          "Tech Immersion and Placement Programme (TIPP)",
+          0.456
+        ],
+        [
+          "CCPIND",
+          "Career Conversion Programme (CCP) for Individuals",
+          0.464
+        ],
+        [
+          "SCTP",
+          "SkillsFuture Career Transition Programme (SCTP)",
+          0.366
+        ],
+        [
+          "SFDWP",
+          "SkillsFuture for Digital Workplace",
+          0.4
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.803,
+        0.468,
+        0.413,
+        0.398,
+        0.386
+      ]
+    },
+    {
+      "query": "I am buying my very first flat with my spouse, can we get help from CPF grants?",
+      "expected": [
+        "CPF-HG",
+        "ENCPFHG-FAM"
+      ],
+      "top_results": [
+        [
+          "ENCPFHG-SIN",
+          "Enhanced CPF Housing Grant (Singles)",
+          0.757
+        ],
+        [
+          "ENCPFHG-FAM",
+          "Enhanced CPF Housing Grant (Families)",
+          0.712
+        ],
+        [
+          "ieMs9uMO",
+          "CPF Housing Grant (Families) - Top-Up Grant",
+          0.729
+        ],
+        [
+          "CPF-HG",
+          "CPF Housing Grant",
+          0.778
+        ],
+        [
+          "SU-CPFHG-FAM",
+          "Step-Up CPF Housing Grant (Families)",
+          0.669
+        ]
+      ],
+      "rank_of_first_match": 2,
+      "rerank_scores": [
+        0.911,
+        0.899,
+        0.896,
+        0.884,
+        0.877
+      ]
+    },
+    {
+      "query": "I want to buy an Executive Condominium, is there a grant to help me?",
+      "expected": [
+        "CPF-HG-EC",
+        "PURCHASE-EC"
+      ],
+      "top_results": [
+        [
+          "CPF-HG-EC",
+          "CPF Housing Grant for Executive Condominiums (ECs)",
+          0.796
+        ],
+        [
+          "PURCHASE-EC",
+          "Executive Condominiums (ECs)",
+          0.584
+        ],
+        [
+          "gXSeAhba",
+          "Housing Loan from Financial Institutions (FI)",
+          0.601
+        ],
+        [
+          "IwOX3hng",
+          "Housing Subsidy - Citizen Top-Up",
+          0.559
+        ],
+        [
+          "CPF-HG",
+          "CPF Housing Grant",
+          0.497
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.945,
+        0.927,
+        0.801,
+        0.793,
+        0.525
+      ]
+    },
+    {
+      "query": "Can I buy extra private insurance on top of my basic MediShield Life for a better hospital ward?",
+      "expected": [
+        "D3cZDpbD"
+      ],
+      "top_results": [
+        [
+          "D3cZDpbD",
+          "Integrated Shield Plan (IP)",
+          0.697
+        ],
+        [
+          "MEDISHIELD",
+          "MediShield Life",
+          0.71
+        ],
+        [
+          "lceYNjsb",
+          "Merdeka Generation Package",
+          0.396
+        ],
+        [
+          "n4iFaG9r",
+          "Pioneer Generation Package",
+          0.4
+        ],
+        [
+          "DKTZwVPL",
+          "MediShield Life Premium Subsidies",
+          0.514
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.892,
+        0.642,
+        0.509,
+        0.455,
+        0.413
+      ]
+    },
+    {
+      "query": "I want to know about the basic hospital insurance for Singaporeans and whether I can get help paying the premiums",
+      "expected": [
+        "DKTZwVPL",
+        "MEDISHIELD",
+        "n4iFaG9r"
+      ],
+      "top_results": [
+        [
+          "1GKrS2tn",
+          "Additional Premium Support for MediShield Life and CareShield Life",
+          0.565
+        ],
+        [
+          "MEDISHIELD",
+          "MediShield Life",
+          0.648
+        ],
+        [
+          "MEDISAVE",
+          "MediSave",
+          0.576
+        ],
+        [
+          "D3cZDpbD",
+          "Integrated Shield Plan (IP)",
+          0.703
+        ],
+        [
+          "PKQxhC2q",
+          "CareShield Life Premium Subsidies",
+          0.573
+        ]
+      ],
+      "rank_of_first_match": 2,
+      "rerank_scores": [
+        0.799,
+        0.786,
+        0.731,
+        0.719,
+        0.691
+      ]
+    },
+    {
+      "query": "Is there a simple life insurance from my CPF that helps my family if something happens to me?",
+      "expected": [
+        "DPS",
+        "HPS"
+      ],
+      "top_results": [
+        [
+          "DPS",
+          "Dependant's Protection Scheme (DPS)",
+          0.608
+        ],
+        [
+          "SVC-CPFN",
+          "CPF Nomination",
+          0.613
+        ],
+        [
+          "HPS",
+          "Home Protection Scheme (HPS)",
+          0.658
+        ],
+        [
+          "wEfmIVLx",
+          "CPF LIFE",
+          0.755
+        ],
+        [
+          "cVkNdnyT",
+          "Life Insurance Relief",
+          0.687
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.878,
+        0.785,
+        0.783,
+        0.771,
+        0.691
+      ]
+    },
+    {
+      "query": "My grandmother needs grab bars and ramps installed at home",
+      "expected": [
+        "EASE",
+        "nzWStXJo"
+      ],
+      "top_results": [
+        [
+          "nzWStXJo",
+          "Enhancement for Active Seniors (Private Housing): EASE (Private)",
+          0.498
+        ],
+        [
+          "EASE",
+          "Enhancement for Active Seniors (EASE)",
+          0.468
+        ],
+        [
+          "SMF",
+          "Seniors' Mobility and Enabling Fund",
+          0.339
+        ],
+        [
+          "SL-TR-FLEXI",
+          "Short-lease 2-room Flexi Flats",
+          0.502
+        ],
+        [
+          "CCA",
+          "Community Care Apartments (CCAs)",
+          0.5
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.755,
+        0.472,
+        0.413,
+        0.401,
+        0.357
+      ]
+    },
+    {
+      "query": "I am feeling very down and want to text someone privately for help",
+      "expected": [
+        "ECsnBwjK"
+      ],
+      "top_results": [
+        [
+          "ECsnBwjK",
+          "SOS Care Text",
+          0.484
+        ],
+        [
+          "SVC-LOTSSL",
+          "Local Outreach to Suicide Survivors (LOSS)",
+          0.517
+        ],
+        [
+          "SVC-SSCIP",
+          "SOS Suicide Crisis Intervention Programme",
+          0.312
+        ],
+        [
+          "SVC-BPCS",
+          "Babes Pregnancy Crisis Support",
+          0.42
+        ],
+        [
+          "SVC-LOBTCS",
+          "Live On!",
+          0.308
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.629,
+        0.527,
+        0.517,
+        0.432,
+        0.432
+      ]
+    },
+    {
+      "query": "I am 55 and looking for a job, can someone help match me to suitable work?",
+      "expected": [
+        "EMPSUPSN",
+        "JOBSKLINT",
+        "SIVLERJOBS_PORTAL",
+        "tmyOMyke"
+      ],
+      "top_results": [
+        [
+          "EMPSUPSN",
+          "Employment Support for Seniors",
+          0.527
+        ],
+        [
+          "SIVLERJOBS_PORTAL",
+          "Silverjobs Portal",
+          0.557
+        ],
+        [
+          "tmyOMyke",
+          "MyCareersFuture",
+          0.575
+        ],
+        [
+          "JOBSKLINT",
+          "Jobs-Skills Integrators",
+          0.531
+        ],
+        [
+          "SKILLS-ADVISORY",
+          "Career and Skills Advisory",
+          0.469
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.771,
+        0.77,
+        0.732,
+        0.675,
+        0.644
+      ]
+    },
+    {
+      "query": "I am single and buying my first flat, what CPF housing grants can I get?",
+      "expected": [
+        "CPF-HG",
+        "ENCPFHG-SIN"
+      ],
+      "top_results": [
+        [
+          "ENCPFHG-SIN",
+          "Enhanced CPF Housing Grant (Singles)",
+          0.801
+        ],
+        [
+          "CPF-HG",
+          "CPF Housing Grant",
+          0.809
+        ],
+        [
+          "PUR-NRSF-SIN",
+          "New/Resale Flats (Singles)",
+          0.716
+        ],
+        [
+          "ieMs9uMO",
+          "CPF Housing Grant (Families) - Top-Up Grant",
+          0.722
+        ],
+        [
+          "FRESH-START",
+          "Fresh Start Housing Scheme",
+          0.711
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.942,
+        0.927,
+        0.894,
+        0.865,
+        0.862
+      ]
+    },
+    {
+      "query": "How can I get more money added into my CPF retirement savings account?",
+      "expected": [
+        "FcwgSMsK",
+        "MP-RSB",
+        "VSj0VliA",
+        "WOuv5ZHU"
+      ],
+      "top_results": [
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.703
+        ],
+        [
+          "WOuv5ZHU",
+          "Budget 2026 CPF Top-Up",
+          0.643
+        ],
+        [
+          "FcwgSMsK",
+          "Matched Retirement Savings Scheme",
+          0.676
+        ],
+        [
+          "Whq71CAX",
+          "CPF Investment Scheme (CPFIS)",
+          0.712
+        ],
+        [
+          "Z9jTRTTL",
+          "Voluntary Housing Refund",
+          0.637
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.889,
+        0.877,
+        0.852,
+        0.805,
+        0.793
+      ]
+    },
+    {
+      "query": "I am 55 years old, I heard there is a special one-time bonus payout just for seniors like me, what is that?",
+      "expected": [
+        "GST-SENIORS",
+        "MP-RSB",
+        "SHB"
+      ],
+      "top_results": [
+        [
+          "MP-RSB",
+          "Majulah Package – Retirement Savings Bonus",
+          0.616
+        ],
+        [
+          "SHB",
+          "Silver Housing Bonus (SHB)",
+          0.578
+        ],
+        [
+          "GST-SENIORS",
+          "Assurance Package (AP) Seniors' Bonus",
+          0.708
+        ],
+        [
+          "cPaqWRKy",
+          "2025 MediSave Bonus",
+          0.553
+        ],
+        [
+          "MP-MSB",
+          "Majulah Package – MediSave Bonus",
+          0.548
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.861,
+        0.811,
+        0.801,
+        0.799,
+        0.787
+      ]
+    },
+    {
+      "query": "I heard the government topped up some money into my MediSave account automatically, what is that for?",
+      "expected": [
+        "GSTV-MEDISAVE",
+        "MEDISAVE-TOPUP",
+        "MP-MSB",
+        "cPaqWRKy"
+      ],
+      "top_results": [
+        [
+          "LrEfS3Nx",
+          "Matched MediSave Scheme",
+          0.69
+        ],
+        [
+          "MEDISAVE-TOPUP",
+          "Assurance Package (AP) MediSave",
+          0.512
+        ],
+        [
+          "GSTV-MEDISAVE",
+          "GST Voucher (GSTV) – MediSave",
+          0.508
+        ],
+        [
+          "n4iFaG9r",
+          "Pioneer Generation Package",
+          0.504
+        ],
+        [
+          "dKO0Ow30",
+          "MediSave Grant for Newborns (MGN)",
+          0.629
+        ]
+      ],
+      "rank_of_first_match": 2,
+      "rerank_scores": [
+        0.84,
+        0.788,
+        0.745,
+        0.705,
+        0.687
+      ]
+    },
+    {
+      "query": "I need help paying for my mother's caregiving expenses at home",
+      "expected": [
+        "HCG",
+        "PIONEER-DAS"
+      ],
+      "top_results": [
+        [
+          "HCG",
+          "Home Caregiving Grant (HCG)",
+          0.587
+        ],
+        [
+          "PIONEER-DAS",
+          "Pioneer Generation Disability Assistance Scheme (PioneerDAS)",
+          0.556
+        ],
+        [
+          "SVC-HPCSH",
+          "Home Personal Care (HPC)",
+          0.499
+        ],
+        [
+          "Sucth2ke",
+          "Long-Term Care Subsidies",
+          0.453
+        ],
+        [
+          "o0cdiebU",
+          "Enhanced Home Personal Care (HPC+)",
+          0.499
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.738,
+        0.687,
+        0.669,
+        0.62,
+        0.615
+      ]
+    },
+    {
+      "query": "I heard I should register with a clinic near me for my health plan, what is that about?",
+      "expected": [
+        "HEALTHIERSG"
+      ],
+      "top_results": [
+        [
+          "HEALTHIERSG",
+          "Healthier SG",
+          0.643
+        ],
+        [
+          "SVC-AACAAACHASACS",
+          "Active Ageing Centres (AAC)",
+          0.352
+        ],
+        [
+          "VelRMbGu",
+          "Mental Health GP Partnership/ Polyclinic",
+          0.377
+        ],
+        [
+          "MEDISHIELD",
+          "MediShield Life",
+          0.398
+        ],
+        [
+          "D3cZDpbD",
+          "Integrated Shield Plan (IP)",
+          0.488
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.803,
+        0.62,
+        0.571,
+        0.507,
+        0.505
+      ]
+    },
+    {
+      "query": "Is there a phone app that rewards me for staying healthy and active?",
+      "expected": [
+        "HEALTHY365"
+      ],
+      "top_results": [
+        [
+          "HEALTHY365",
+          "Healthy 365",
+          0.669
+        ],
+        [
+          "LWAWP",
+          "Live Well, Age Well Programme",
+          0.572
+        ],
+        [
+          "lceYNjsb",
+          "Merdeka Generation Package",
+          0.354
+        ],
+        [
+          "HEALTHIERSG",
+          "Healthier SG",
+          0.431
+        ],
+        [
+          "705gVCXW",
+          "PAssion Card",
+          0.378
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.788,
+        0.679,
+        0.39,
+        0.386,
+        0.286
+      ]
+    },
+    {
+      "query": "I need a loan to help pay for my flat, where can I borrow the money from?",
+      "expected": [
+        "HOUSEL-HDB",
+        "gXSeAhba"
+      ],
+      "top_results": [
+        [
+          "gXSeAhba",
+          "Housing Loan from Financial Institutions (FI)",
+          0.659
+        ],
+        [
+          "HOUSEL-HDB",
+          "Housing Loan from HDB",
+          0.543
+        ],
+        [
+          "AboVw46N",
+          "CPF Housing Scheme",
+          0.523
+        ],
+        [
+          "ENCPFHG-FAM",
+          "Enhanced CPF Housing Grant (Families)",
+          0.417
+        ],
+        [
+          "CPF-HG",
+          "CPF Housing Grant",
+          0.445
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.833,
+        0.76,
+        0.712,
+        0.704,
+        0.66
+      ]
+    },
+    {
+      "query": "If something happens to me, is there insurance so my family won't lose our HDB flat because of the housing loan?",
+      "expected": [
+        "HPS",
+        "NGzAFA4b"
+      ],
+      "top_results": [
+        [
+          "HPS",
+          "Home Protection Scheme (HPS)",
+          0.657
+        ],
+        [
+          "HOUSEL-HDB",
+          "Housing Loan from HDB",
+          0.618
+        ],
+        [
+          "NGzAFA4b",
+          "Change in HDB Flat Ownership After Flat Owner's Demise",
+          0.609
+        ],
+        [
+          "gXSeAhba",
+          "Housing Loan from Financial Institutions (FI)",
+          0.687
+        ],
+        [
+          "AboVw46N",
+          "CPF Housing Scheme",
+          0.572
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.915,
+        0.735,
+        0.658,
+        0.626,
+        0.624
+      ]
+    },
+    {
+      "query": "I'm having trouble paying my income tax bill all at once, can I pay it in smaller instalments?",
+      "expected": [
+        "I0ZPVBeU"
+      ],
+      "top_results": [
+        [
+          "I0ZPVBeU",
+          "Tax Payment Support",
+          0.636
+        ],
+        [
+          "P3m8eAvW",
+          "Settling Outstanding Tax Matters and Bills for a Deceased Person",
+          0.53
+        ],
+        [
+          "3KmPKHA7",
+          "Working Mother's Child Relief (WMCR)",
+          0.483
+        ],
+        [
+          "oS6OeT45",
+          "Earned Income Relief",
+          0.454
+        ],
+        [
+          "cVyhpH3s",
+          "Grandparent Caregiver Relief (GCR)",
+          0.441
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.788,
+        0.42,
+        0.405,
+        0.394,
+        0.39
+      ]
+    },
+    {
+      "query": "My mother is severely disabled and not eligible for ElderShield, is there a monthly payout for her?",
+      "expected": [
+        "ELDERFUND",
+        "IDAPE",
+        "MEDISAVE_CARE"
+      ],
+      "top_results": [
+        [
+          "IDAPE",
+          "Interim Disability Assistance Scheme for the Elderly (IDAPE)",
+          0.648
+        ],
+        [
+          "ELDERSHIELD",
+          "ElderShield",
+          0.496
+        ],
+        [
+          "ELDERFUND",
+          "ElderFund",
+          0.613
+        ],
+        [
+          "CARESHIELD",
+          "CareShield Life",
+          0.553
+        ],
+        [
+          "2K6v76Ac",
+          "CareShield Life / ElderShield Supplements",
+          0.44
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.917,
+        0.857,
+        0.81,
+        0.734,
+        0.728
+      ]
+    },
+    {
+      "query": "My son has had mental health issues for a long time but is stable now, is there ongoing support to help him live normally?",
+      "expected": [
+        "Ic7eUpmo",
+        "S8Qtkqge",
+        "SVC-OHV"
+      ],
+      "top_results": [
+        [
+          "Ic7eUpmo",
+          "Psychiatric Rehabilitation and Re-integration",
+          0.638
+        ],
+        [
+          "S8Qtkqge",
+          "Rise to Wellness - Integrated Wellness Recovery Programme (RTW-I)",
+          0.567
+        ],
+        [
+          "SVC-LOBTCS",
+          "Live On!",
+          0.523
+        ],
+        [
+          "SVC-SY",
+          "SAMH Youthreach",
+          0.493
+        ],
+        [
+          "SVC-OHV",
+          "Our HEALing Voice",
+          0.527
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.865,
+        0.735,
+        0.733,
+        0.721,
+        0.71
+      ]
+    },
+    {
+      "query": "My daughter recently became a Singapore citizen and joined our household, is there housing subsidy for that?",
+      "expected": [
+        "IwOX3hng"
+      ],
+      "top_results": [
+        [
+          "IwOX3hng",
+          "Housing Subsidy - Citizen Top-Up",
+          0.775
+        ],
+        [
+          "PUBLICRENTAL-FAMILY",
+          "Public Rental Scheme - Family Scheme",
+          0.55
+        ],
+        [
+          "ieMs9uMO",
+          "CPF Housing Grant (Families) - Top-Up Grant",
+          0.609
+        ],
+        [
+          "CPF-HG-EC",
+          "CPF Housing Grant for Executive Condominiums (ECs)",
+          0.593
+        ],
+        [
+          "SU-CPFHG-FAM",
+          "Step-Up CPF Housing Grant (Families)",
+          0.573
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.934,
+        0.839,
+        0.818,
+        0.816,
+        0.796
+      ]
+    },
+    {
+      "query": "Is there a service that matches me with companies looking for people with my work skills?",
+      "expected": [
+        "JOBSKLINT",
+        "tmyOMyke"
+      ],
+      "top_results": [
+        [
+          "JOBSKLINT",
+          "Jobs-Skills Integrators",
+          0.63
+        ],
+        [
+          "tmyOMyke",
+          "MyCareersFuture",
+          0.57
+        ],
+        [
+          "SKILLS-ADVISORY",
+          "Career and Skills Advisory",
+          0.44
+        ],
+        [
+          "ejdrPN9A",
+          "Job Placement and Job Support",
+          0.403
+        ],
+        [
+          "CLT",
+          "Company-Led Training (CLT) Programme",
+          0.523
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.704,
+        0.626,
+        0.482,
+        0.439,
+        0.386
+      ]
+    },
+    {
+      "query": "Can I rent out my HDB flat to earn some extra income?",
+      "expected": [
+        "K450UIdj",
+        "LEASE_BUYBACK"
+      ],
+      "top_results": [
+        [
+          "K450UIdj",
+          "Renting Out of HDB Flats",
+          0.796
+        ],
+        [
+          "PUBLICRENTAL-FAMILY",
+          "Public Rental Scheme - Family Scheme",
+          0.466
+        ],
+        [
+          "PPHS",
+          "Parenthood Provisional Housing Scheme (PPHS)",
+          0.525
+        ],
+        [
+          "LEASE_BUYBACK",
+          "Lease Buyback Scheme",
+          0.525
+        ],
+        [
+          "SL-TR-FLEXI",
+          "Short-lease 2-room Flexi Flats",
+          0.516
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.923,
+        0.66,
+        0.587,
+        0.451,
+        0.439
+      ]
+    },
+    {
+      "query": "My foreign family member wants to stay in Singapore for a longer time, what pass do they need to apply for?",
+      "expected": [
+        "L-TVP",
+        "PR"
+      ],
+      "top_results": [
+        [
+          "L-TVP",
+          "Long-Term Visit Pass (LTVP)",
+          0.762
+        ],
+        [
+          "PR",
+          "Permanent Residency",
+          0.656
+        ],
+        [
+          "cVyhpH3s",
+          "Grandparent Caregiver Relief (GCR)",
+          0.438
+        ],
+        [
+          "TAX_RELIEF_CAREGIVERS_DISABLED",
+          "Parent Relief/Parent Relief (Disability)",
+          0.452
+        ],
+        [
+          "U3ip0GiR",
+          "Sibling Relief (Disability)",
+          0.488
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.908,
+        0.792,
+        0.66,
+        0.507,
+        0.47
+      ]
+    },
+    {
+      "query": "Our neighbourhood wants to improve our common area, can we get funding for that?",
+      "expected": [
+        "L4IhetvC"
+      ],
+      "top_results": [
+        [
+          "L4IhetvC",
+          "Lively Places Fund",
+          0.693
+        ],
+        [
+          "CCA",
+          "Community Care Apartments (CCAs)",
+          0.388
+        ],
+        [
+          "a7JTjGeT",
+          "ComLink+",
+          0.476
+        ],
+        [
+          "gyDNuWnW",
+          "PA Community Programmes and Events",
+          0.424
+        ],
+        [
+          "ckLFmJ4I",
+          "SG Culture Pass",
+          0.365
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.814,
+        0.302,
+        0.276,
+        0.276,
+        0.27
+      ]
+    },
+    {
+      "query": "Are there free activities near my home to help me stay healthy as I grow older?",
+      "expected": [
+        "HEALTHY365",
+        "LWAWP",
+        "SVC-AACAAACHASACS",
+        "gyDNuWnW"
+      ],
+      "top_results": [
+        [
+          "LWAWP",
+          "Live Well, Age Well Programme",
+          0.676
+        ],
+        [
+          "ACTIVESG_MEMBERSHIP",
+          "ActiveSG Membership",
+          0.403
+        ],
+        [
+          "gyDNuWnW",
+          "PA Community Programmes and Events",
+          0.44
+        ],
+        [
+          "HEALTHY365",
+          "Healthy 365",
+          0.495
+        ],
+        [
+          "SVC-AACAAACHASACS",
+          "Active Ageing Centres (AAC)",
+          0.433
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.932,
+        0.755,
+        0.738,
+        0.705,
+        0.669
+      ]
+    },
+    {
+      "query": "If I top up my own MediSave with cash, will the government match it with extra money?",
+      "expected": [
+        "LrEfS3Nx"
+      ],
+      "top_results": [
+        [
+          "LrEfS3Nx",
+          "Matched MediSave Scheme",
+          0.753
+        ],
+        [
+          "n4iFaG9r",
+          "Pioneer Generation Package",
+          0.466
+        ],
+        [
+          "GSTV-MEDISAVE",
+          "GST Voucher (GSTV) – MediSave",
+          0.536
+        ],
+        [
+          "MEDISAVE-TOPUP",
+          "Assurance Package (AP) MediSave",
+          0.504
+        ],
+        [
+          "lceYNjsb",
+          "Merdeka Generation Package",
+          0.437
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.911,
+        0.594,
+        0.589,
+        0.575,
+        0.556
+      ]
+    },
+    {
+      "query": "I want to apply together with my married child so we can live near or with each other, is there a scheme for that?",
+      "expected": [
+        "MC-PRIORITY",
+        "PHG-FAMILIES",
+        "QlaRQpLF"
+      ],
+      "top_results": [
+        [
+          "MC-PRIORITY",
+          "Family Care Scheme (FCS) (Proximity)",
+          0.728
+        ],
+        [
+          "QlaRQpLF",
+          "Family Care Scheme (FCS) (Joint Balloting)",
+          0.632
+        ],
+        [
+          "PHG-FAMILIES",
+          "Proximity Housing Grant (Families)",
+          0.567
+        ],
+        [
+          "ieMs9uMO",
+          "CPF Housing Grant (Families) - Top-Up Grant",
+          0.447
+        ],
+        [
+          "PHG-SINGLES",
+          "Proximity Housing Grant (Singles)",
+          0.562
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.937,
+        0.93,
+        0.875,
+        0.826,
+        0.823
+      ]
+    },
+    {
+      "query": "I have a domestic helper taking care of my elderly mother at home, can I pay a lower monthly levy for that?",
+      "expected": [
+        "MDW_LEVY_CONCESSION"
+      ],
+      "top_results": [
+        [
+          "MDW_LEVY_CONCESSION",
+          "Migrant Domestic Worker Levy Concession",
+          0.706
+        ],
+        [
+          "cVyhpH3s",
+          "Grandparent Caregiver Relief (GCR)",
+          0.397
+        ],
+        [
+          "Sucth2ke",
+          "Long-Term Care Subsidies",
+          0.397
+        ],
+        [
+          "ELDERFUND",
+          "ElderFund",
+          0.477
+        ],
+        [
+          "COMCARE-SMTA",
+          "ComCare Assistance",
+          0.479
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.91,
+        0.558,
+        0.509,
+        0.459,
+        0.451
+      ]
+    },
+    {
+      "query": "What is this MediSave account and how do I use it to pay for medical bills?",
+      "expected": [
+        "MEDISAVE"
+      ],
+      "top_results": [
+        [
+          "MEDISAVE",
+          "MediSave",
+          0.763
+        ],
+        [
+          "myy0wYU5",
+          "MediSave Maternity Package",
+          0.657
+        ],
+        [
+          "QDc9ihgy",
+          "MediSave for Assisted Conception Procedures",
+          0.629
+        ],
+        [
+          "LrEfS3Nx",
+          "Matched MediSave Scheme",
+          0.573
+        ],
+        [
+          "lceYNjsb",
+          "Merdeka Generation Package",
+          0.437
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.861,
+        0.71,
+        0.651,
+        0.598,
+        0.594
+      ]
+    },
+    {
+      "query": "I can't afford a smartphone or data plan, is there a cheaper option for seniors like me?",
+      "expected": [
+        "MOBILE-ACCESS-SENIORS"
+      ],
+      "top_results": [
+        [
+          "MOBILE-ACCESS-SENIORS",
+          "Mobile Access for Seniors (MAS)",
+          0.686
+        ],
+        [
+          "DIGITALACCESS-HOME-SCHEME",
+          "DigitalAccess@Home",
+          0.357
+        ],
+        [
+          "SVC-AACAAACHASACS",
+          "Active Ageing Centres (AAC)",
+          0.315
+        ],
+        [
+          "SVC-NHRC",
+          "Nursing Home Respite Care",
+          0.355
+        ],
+        [
+          "HEALTHIERSG",
+          "Healthier SG",
+          0.371
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.83,
+        0.463,
+        0.447,
+        0.428,
+        0.405
+      ]
+    },
+    {
+      "query": "I am still working even though I am older, is there a bonus to boost my CPF savings for that?",
+      "expected": [
+        "FcwgSMsK",
+        "MP-ESB",
+        "MP-RSB"
+      ],
+      "top_results": [
+        [
+          "WOuv5ZHU",
+          "Budget 2026 CPF Top-Up",
+          0.623
+        ],
+        [
+          "MP-RSB",
+          "Majulah Package – Retirement Savings Bonus",
+          0.688
+        ],
+        [
+          "MP-ESB",
+          "Majulah Package – Earn and Save Bonus",
+          0.734
+        ],
+        [
+          "FcwgSMsK",
+          "Matched Retirement Savings Scheme",
+          0.698
+        ],
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.686
+        ]
+      ],
+      "rank_of_first_match": 2,
+      "rerank_scores": [
+        0.878,
+        0.878,
+        0.868,
+        0.836,
+        0.831
+      ]
+    },
+    {
+      "query": "I am retired and want to learn something new, are there courses made for seniors like me?",
+      "expected": [
+        "NATIONAL_SILVER_ACADEMY",
+        "ZHDOAsEu"
+      ],
+      "top_results": [
+        [
+          "NATIONAL_SILVER_ACADEMY",
+          "National Silver Academy",
+          0.521
+        ],
+        [
+          "ZHDOAsEu",
+          "OnePA CC Courses",
+          0.593
+        ],
+        [
+          "SCTP",
+          "SkillsFuture Career Transition Programme (SCTP)",
+          0.524
+        ],
+        [
+          "SFSERIES",
+          "SkillsFuture Series",
+          0.448
+        ],
+        [
+          "TIPP",
+          "Tech Immersion and Placement Programme (TIPP)",
+          0.441
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.835,
+        0.805,
+        0.769,
+        0.725,
+        0.697
+      ]
+    },
+    {
+      "query": "My husband who owned our flat together with me just passed away, can I keep the flat?",
+      "expected": [
+        "NGzAFA4b",
+        "P3m8eAvW"
+      ],
+      "top_results": [
+        [
+          "NGzAFA4b",
+          "Change in HDB Flat Ownership After Flat Owner's Demise",
+          0.691
+        ],
+        [
+          "LEASE_BUYBACK",
+          "Lease Buyback Scheme",
+          0.511
+        ],
+        [
+          "ASSIST-SECTIMERS",
+          "Assistance Scheme for Second Timers (Divorced/ Widowed Parents) (ASSIST)",
+          0.496
+        ],
+        [
+          "K450UIdj",
+          "Renting Out of HDB Flats",
+          0.576
+        ],
+        [
+          "CCA",
+          "Community Care Apartments (CCAs)",
+          0.46
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.902,
+        0.515,
+        0.451,
+        0.424,
+        0.401
+      ]
+    },
+    {
+      "query": "I served National Service many years ago, is there any benefit or credit for me now?",
+      "expected": [
+        "NSLSG-CREDIT",
+        "PgRdvYbQ"
+      ],
+      "top_results": [
+        [
+          "NSLSG-CREDIT",
+          "National Service LifeSG Credits",
+          0.65
+        ],
+        [
+          "PgRdvYbQ",
+          "NSman Relief",
+          0.57
+        ],
+        [
+          "SFC-MID-CAREER",
+          "SkillsFuture Credit (Mid-Career)",
+          0.615
+        ],
+        [
+          "SKILLSFUTURE_CREDITS",
+          "SkillsFuture Credit",
+          0.53
+        ],
+        [
+          "SFFELLOW",
+          "SkillsFuture Fellowships",
+          0.527
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.887,
+        0.814,
+        0.361,
+        0.357,
+        0.322
+      ]
+    },
+    {
+      "query": "My mother has mild memory problems, is there a programme at a centre to help slow it down?",
+      "expected": [
+        "Nqhtnjri",
+        "SVC-DDC"
+      ],
+      "top_results": [
+        [
+          "Nqhtnjri",
+          "Cognitive Intervention Programme (CIP)",
+          0.665
+        ],
+        [
+          "SVC-DDC",
+          "Dementia Day Care",
+          0.592
+        ],
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.476
+        ],
+        [
+          "LWAWP",
+          "Live Well, Age Well Programme",
+          0.376
+        ],
+        [
+          "ceeJSWE0",
+          "Counselling (Seniors)",
+          0.457
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.862,
+        0.748,
+        0.602,
+        0.398,
+        0.372
+      ]
+    },
+    {
+      "query": "I am an elderly couple thinking of right-sizing to a smaller flat, and worried about paying the downpayment all at once, is there help?",
+      "expected": [
+        "OAn8RIRG",
+        "SHB",
+        "SL-TR-FLEXI",
+        "zwEOzPAt"
+      ],
+      "top_results": [
+        [
+          "OAn8RIRG",
+          "Staggered Downpayment Scheme",
+          0.714
+        ],
+        [
+          "zwEOzPAt",
+          "Deferred Downpayment Scheme (DDS)",
+          0.569
+        ],
+        [
+          "SHB",
+          "Silver Housing Bonus (SHB)",
+          0.535
+        ],
+        [
+          "SL-TR-FLEXI",
+          "Short-lease 2-room Flexi Flats",
+          0.432
+        ],
+        [
+          "gXSeAhba",
+          "Housing Loan from Financial Institutions (FI)",
+          0.381
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.915,
+        0.894,
+        0.681,
+        0.653,
+        0.631
+      ]
+    },
+    {
+      "query": "My father passed away and I need to settle his unpaid taxes and bills using his money before sharing it with the family",
+      "expected": [
+        "P3m8eAvW"
+      ],
+      "top_results": [
+        [
+          "P3m8eAvW",
+          "Settling Outstanding Tax Matters and Bills for a Deceased Person",
+          0.72
+        ],
+        [
+          "nywYq9hc",
+          "Application for Deceased's Unnominated CPF Monies",
+          0.388
+        ],
+        [
+          "SVC-CPFN",
+          "CPF Nomination",
+          0.272
+        ],
+        [
+          "I0ZPVBeU",
+          "Tax Payment Support",
+          0.317
+        ],
+        [
+          "HPS",
+          "Home Protection Scheme (HPS)",
+          0.265
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.921,
+        0.6,
+        0.521,
+        0.504,
+        0.463
+      ]
+    },
+    {
+      "query": "I don't have family or friends to make decisions for me if I lose my mental capacity one day, can I pay a professional to do this instead?",
+      "expected": [
+        "PDDS",
+        "SVC-D",
+        "SVC-LPA"
+      ],
+      "top_results": [
+        [
+          "PDDS",
+          "Professional Deputies and Donees Scheme",
+          0.623
+        ],
+        [
+          "SVC-LPA",
+          "Lasting Power of Attorney (LPA)",
+          0.63
+        ],
+        [
+          "SVC-D",
+          "Deputyship",
+          0.508
+        ],
+        [
+          "SVC-ACP",
+          "Advance Care Planning (ACP)",
+          0.458
+        ],
+        [
+          "ddXZpncg",
+          "Assisted Deputyship Application Programme (ADAP)",
+          0.464
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.912,
+        0.848,
+        0.797,
+        0.728,
+        0.669
+      ]
+    },
+    {
+      "query": "I want to buy a resale flat to live near my son and his family, is there a grant for that?",
+      "expected": [
+        "PHG-FAMILIES",
+        "QlaRQpLF"
+      ],
+      "top_results": [
+        [
+          "PHG-FAMILIES",
+          "Proximity Housing Grant (Families)",
+          0.739
+        ],
+        [
+          "PHG-SINGLES",
+          "Proximity Housing Grant (Singles)",
+          0.715
+        ],
+        [
+          "SU-CPFHG-FAM",
+          "Step-Up CPF Housing Grant (Families)",
+          0.576
+        ],
+        [
+          "ENCPFHG-FAM",
+          "Enhanced CPF Housing Grant (Families)",
+          0.531
+        ],
+        [
+          "FRESH-START",
+          "Fresh Start Housing Scheme",
+          0.534
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.937,
+        0.919,
+        0.849,
+        0.841,
+        0.831
+      ]
+    },
+    {
+      "query": "I am single and want to buy a resale flat to live near my elderly parents, is there a grant for that?",
+      "expected": [
+        "MC-PRIORITY",
+        "PHG-SINGLES"
+      ],
+      "top_results": [
+        [
+          "PHG-SINGLES",
+          "Proximity Housing Grant (Singles)",
+          0.747
+        ],
+        [
+          "PHG-FAMILIES",
+          "Proximity Housing Grant (Families)",
+          0.711
+        ],
+        [
+          "ENCPFHG-SIN",
+          "Enhanced CPF Housing Grant (Singles)",
+          0.606
+        ],
+        [
+          "ENCPFHG-FAM",
+          "Enhanced CPF Housing Grant (Families)",
+          0.524
+        ],
+        [
+          "CPF-HG",
+          "CPF Housing Grant",
+          0.558
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.941,
+        0.929,
+        0.903,
+        0.898,
+        0.88
+      ]
+    },
+    {
+      "query": "I am from the Pioneer Generation and now have a disability, is there monthly cash help for my daily expenses?",
+      "expected": [
+        "ELDERFUND",
+        "HCG",
+        "PIONEER-DAS",
+        "n4iFaG9r"
+      ],
+      "top_results": [
+        [
+          "PIONEER-DAS",
+          "Pioneer Generation Disability Assistance Scheme (PioneerDAS)",
+          0.764
+        ],
+        [
+          "n4iFaG9r",
+          "Pioneer Generation Package",
+          0.705
+        ],
+        [
+          "PKQxhC2q",
+          "CareShield Life Premium Subsidies",
+          0.445
+        ],
+        [
+          "ELDERSHIELD",
+          "ElderShield",
+          0.461
+        ],
+        [
+          "ELDERFUND",
+          "ElderFund",
+          0.481
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.96,
+        0.941,
+        0.743,
+        0.723,
+        0.721
+      ]
+    },
+    {
+      "query": "My foreign spouse has been living with me for years, how do they apply to become a permanent resident?",
+      "expected": [
+        "L-TVP",
+        "PR"
+      ],
+      "top_results": [
+        [
+          "PR",
+          "Permanent Residency",
+          0.648
+        ],
+        [
+          "L-TVP",
+          "Long-Term Visit Pass (LTVP)",
+          0.614
+        ],
+        [
+          "ieMs9uMO",
+          "CPF Housing Grant (Families) - Top-Up Grant",
+          0.426
+        ],
+        [
+          "IwOX3hng",
+          "Housing Subsidy - Citizen Top-Up",
+          0.44
+        ],
+        [
+          "CCA",
+          "Community Care Apartments (CCAs)",
+          0.393
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.604,
+        0.535,
+        0.405,
+        0.394,
+        0.375
+      ]
+    },
+    {
+      "query": "My family has no other housing option and no one to support us, can we get a very cheap rental flat from HDB?",
+      "expected": [
+        "PUBLICRENTAL-FAMILY"
+      ],
+      "top_results": [
+        [
+          "PUBLICRENTAL-FAMILY",
+          "Public Rental Scheme - Family Scheme",
+          0.788
+        ],
+        [
+          "PUBLICRENTAL-JSS",
+          "Public Rental Scheme - Joint Singles Scheme (JSS)",
+          0.737
+        ],
+        [
+          "TEN-PRIORITY",
+          "Tenants' Priority Scheme (TPS)",
+          0.609
+        ],
+        [
+          "PPHS",
+          "Parenthood Provisional Housing Scheme (PPHS)",
+          0.641
+        ],
+        [
+          "K450UIdj",
+          "Renting Out of HDB Flats",
+          0.701
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.948,
+        0.932,
+        0.822,
+        0.8,
+        0.774
+      ]
+    },
+    {
+      "query": "I am single and confused whether to get a new or resale flat, can someone help me decide?",
+      "expected": [
+        "PUR-NRSF-SIN"
+      ],
+      "top_results": [
+        [
+          "PUR-NRSF-SIN",
+          "New/Resale Flats (Singles)",
+          0.684
+        ],
+        [
+          "ENCPFHG-SIN",
+          "Enhanced CPF Housing Grant (Singles)",
+          0.58
+        ],
+        [
+          "PHG-SINGLES",
+          "Proximity Housing Grant (Singles)",
+          0.555
+        ],
+        [
+          "SU-CPFHG-FAM",
+          "Step-Up CPF Housing Grant (Families)",
+          0.459
+        ],
+        [
+          "HOUSEL-HDB",
+          "Housing Loan from HDB",
+          0.477
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.894,
+        0.754,
+        0.675,
+        0.662,
+        0.649
+      ]
+    },
+    {
+      "query": "My mother needs a hospital bed or oxygen machine at home because she's very sick, can I rent this cheaply instead of buying?",
+      "expected": [
+        "QEAKpruj"
+      ],
+      "top_results": [
+        [
+          "QEAKpruj",
+          "Equipment Rental Scheme (ERS)",
+          0.626
+        ],
+        [
+          "SVC-PHC",
+          "Home Palliative Care",
+          0.38
+        ],
+        [
+          "SVC-IHPCS",
+          "Inpatient Hospice Palliative Care Service (IHPCS)",
+          0.38
+        ],
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.458
+        ],
+        [
+          "SVC-NHRC",
+          "Nursing Home Respite Care",
+          0.402
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.851,
+        0.394,
+        0.319,
+        0.312,
+        0.312
+      ]
+    },
+    {
+      "query": "I need free legal help but don't know where to go, is there something in my area?",
+      "expected": [
+        "QpRxBoCe",
+        "dGlR81dt"
+      ],
+      "top_results": [
+        [
+          "dGlR81dt",
+          "Legal Aid Bureau",
+          0.494
+        ],
+        [
+          "QpRxBoCe",
+          "Community Law Centre in North West (Community Law Centre @ Realm of Tranquility)",
+          0.456
+        ],
+        [
+          "SVC-MSCM",
+          "Maintenance Support Central (MSC)",
+          0.348
+        ],
+        [
+          "P3m8eAvW",
+          "Settling Outstanding Tax Matters and Bills for a Deceased Person",
+          0.444
+        ],
+        [
+          "SVC-ML",
+          "My Legacy",
+          0.316
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.721,
+        0.684,
+        0.628,
+        0.544,
+        0.498
+      ]
+    },
+    {
+      "query": "My doctor says I don't have long to live, can I withdraw more of my CPF savings now?",
+      "expected": [
+        "7c13MJjn",
+        "RLE"
+      ],
+      "top_results": [
+        [
+          "RLE",
+          "Withdrawal of CPF Savings on Reduced Life Expectancy",
+          0.669
+        ],
+        [
+          "7c13MJjn",
+          "Withdrawal of CPF Savings for Immediate Needs from Age 55",
+          0.595
+        ],
+        [
+          "Whq71CAX",
+          "CPF Investment Scheme (CPFIS)",
+          0.594
+        ],
+        [
+          "wEfmIVLx",
+          "CPF LIFE",
+          0.604
+        ],
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.471
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.909,
+        0.825,
+        0.699,
+        0.642,
+        0.633
+      ]
+    },
+    {
+      "query": "I want to learn basic computer and digital skills to use at my workplace",
+      "expected": [
+        "SFDWP",
+        "SFSERIES"
+      ],
+      "top_results": [
+        [
+          "SFDWP",
+          "SkillsFuture for Digital Workplace",
+          0.68
+        ],
+        [
+          "SFSERIES",
+          "SkillsFuture Series",
+          0.519
+        ],
+        [
+          "CLT",
+          "Company-Led Training (CLT) Programme",
+          0.35
+        ],
+        [
+          "MOBILE-ACCESS-SENIORS",
+          "Mobile Access for Seniors (MAS)",
+          0.471
+        ],
+        [
+          "SGWSQ",
+          "Singapore Workforce Skills Qualifications",
+          0.36
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.674,
+        0.622,
+        0.554,
+        0.546,
+        0.455
+      ]
+    },
+    {
+      "query": "Is there an award or grant for someone who has really mastered skills in their field?",
+      "expected": [
+        "SFFELLOW"
+      ],
+      "top_results": [
+        [
+          "SFFELLOW",
+          "SkillsFuture Fellowships",
+          0.539
+        ],
+        [
+          "WSS",
+          "Workfare Skills Support (WSS) (Basic)",
+          0.405
+        ],
+        [
+          "CAREGIVERS_TRAINING",
+          "Caregivers Training Grant (CTG)",
+          0.377
+        ],
+        [
+          "SGWSQ",
+          "Singapore Workforce Skills Qualifications",
+          0.322
+        ],
+        [
+          "TIPP",
+          "Tech Immersion and Placement Programme (TIPP)",
+          0.367
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.79,
+        0.394,
+        0.375,
+        0.35,
+        0.343
+      ]
+    },
+    {
+      "query": "Are there short courses to pick up new digital or green skills quickly?",
+      "expected": [
+        "SFDWP",
+        "SFSERIES"
+      ],
+      "top_results": [
+        [
+          "SFSERIES",
+          "SkillsFuture Series",
+          0.645
+        ],
+        [
+          "SFDWP",
+          "SkillsFuture for Digital Workplace",
+          0.438
+        ],
+        [
+          "TIPP",
+          "Tech Immersion and Placement Programme (TIPP)",
+          0.365
+        ],
+        [
+          "MOBILE-ACCESS-SENIORS",
+          "Mobile Access for Seniors (MAS)",
+          0.427
+        ],
+        [
+          "SCTP",
+          "SkillsFuture Career Transition Programme (SCTP)",
+          0.404
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.88,
+        0.511,
+        0.466,
+        0.465,
+        0.459
+      ]
+    },
+    {
+      "query": "I want to study for a certificate or degree while still working through a work-study programme, is there support?",
+      "expected": [
+        "SFWKSTCERT",
+        "SFWKSTDEG",
+        "SFWKSTDIP",
+        "SFWKSTPDIP"
+      ],
+      "top_results": [
+        [
+          "SFWKSTDEG",
+          "SkillsFuture Work-Study Degree",
+          0.689
+        ],
+        [
+          "SFWKSTCERT",
+          "SkillsFuture Work-Study Certificate",
+          0.629
+        ],
+        [
+          "SFWKSTPDIP",
+          "SkillsFuture Work-Study Post-Diploma",
+          0.554
+        ],
+        [
+          "SFWKSTDIP",
+          "SkillsFuture Work-Study Diploma",
+          0.535
+        ],
+        [
+          "FTNt6bee",
+          "Government Bursaries for Higher Education",
+          0.36
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.785,
+        0.768,
+        0.697,
+        0.631,
+        0.443
+      ]
+    },
+    {
+      "query": "Is there an official system that certifies and recognises my work skills?",
+      "expected": [
+        "SGWSQ"
+      ],
+      "top_results": [
+        [
+          "SGWSQ",
+          "Singapore Workforce Skills Qualifications",
+          0.663
+        ],
+        [
+          "SFWKSTCERT",
+          "SkillsFuture Work-Study Certificate",
+          0.361
+        ],
+        [
+          "SFWKSTPDIP",
+          "SkillsFuture Work-Study Post-Diploma",
+          0.317
+        ],
+        [
+          "WSS",
+          "Workfare Skills Support (WSS) (Basic)",
+          0.301
+        ],
+        [
+          "SFWKSTDIP",
+          "SkillsFuture Work-Study Diploma",
+          0.3
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.802,
+        0.663,
+        0.56,
+        0.521,
+        0.513
+      ]
+    },
+    {
+      "query": "I am an older Singaporean with low retirement savings, is there a regular cash payment to help me?",
+      "expected": [
+        "SILVERSUPPORT"
+      ],
+      "top_results": [
+        [
+          "SILVERSUPPORT",
+          "Silver Support Scheme",
+          0.587
+        ],
+        [
+          "WOuv5ZHU",
+          "Budget 2026 CPF Top-Up",
+          0.599
+        ],
+        [
+          "FcwgSMsK",
+          "Matched Retirement Savings Scheme",
+          0.697
+        ],
+        [
+          "wEfmIVLx",
+          "CPF LIFE",
+          0.557
+        ],
+        [
+          "MP-RSB",
+          "Majulah Package – Retirement Savings Bonus",
+          0.615
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.92,
+        0.909,
+        0.894,
+        0.887,
+        0.876
+      ]
+    },
+    {
+      "query": "Is there a website where seniors like me can look for part-time or flexible jobs?",
+      "expected": [
+        "SIVLERJOBS_PORTAL"
+      ],
+      "top_results": [
+        [
+          "SIVLERJOBS_PORTAL",
+          "Silverjobs Portal",
+          0.512
+        ],
+        [
+          "tmyOMyke",
+          "MyCareersFuture",
+          0.518
+        ],
+        [
+          "wpGyuJUN",
+          "SkillsFuture Jobseeker Support Scheme",
+          0.463
+        ],
+        [
+          "CCPIND",
+          "Career Conversion Programme (CCP) for Individuals",
+          0.553
+        ],
+        [
+          "JOBSKLINT",
+          "Jobs-Skills Integrators",
+          0.53
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.807,
+        0.658,
+        0.558,
+        0.537,
+        0.533
+      ]
+    },
+    {
+      "query": "I need someone to talk to me about what job or course suits me best",
+      "expected": [
+        "SKILLS-ADVISORY"
+      ],
+      "top_results": [
+        [
+          "SKILLSFUTURE-ADVICE",
+          "SkillsFuture Advice",
+          0.377
+        ],
+        [
+          "SKILLS-ADVISORY",
+          "Career and Skills Advisory",
+          0.371
+        ],
+        [
+          "TIPP",
+          "Tech Immersion and Placement Programme (TIPP)",
+          0.406
+        ],
+        [
+          "JOBSKLINT",
+          "Jobs-Skills Integrators",
+          0.381
+        ],
+        [
+          "SFSERIES",
+          "SkillsFuture Series",
+          0.37
+        ]
+      ],
+      "rank_of_first_match": 2,
+      "rerank_scores": [
+        0.617,
+        0.594,
+        0.587,
+        0.569,
+        0.566
+      ]
+    },
+    {
+      "query": "I don't understand how my SkillsFuture works, is there a talk to explain it to me?",
+      "expected": [
+        "SKILLSFUTURE-ADVICE"
+      ],
+      "top_results": [
+        [
+          "SKILLSFUTURE-ADVICE",
+          "SkillsFuture Advice",
+          0.7
+        ],
+        [
+          "SFSERIES",
+          "SkillsFuture Series",
+          0.559
+        ],
+        [
+          "SFDWP",
+          "SkillsFuture for Digital Workplace",
+          0.501
+        ],
+        [
+          "SKILLSFUTURE_CREDITS",
+          "SkillsFuture Credit",
+          0.556
+        ],
+        [
+          "SFWKSTDEG",
+          "SkillsFuture Work-Study Degree",
+          0.518
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.742,
+        0.647,
+        0.587,
+        0.583,
+        0.583
+      ]
+    },
+    {
+      "query": "I want to use my SkillsFuture credits to pay for a course, how does that work?",
+      "expected": [
+        "SFC-MID-CAREER",
+        "SKILLSFUTURE_CREDITS"
+      ],
+      "top_results": [
+        [
+          "SKILLSFUTURE_CREDITS",
+          "SkillsFuture Credit",
+          0.801
+        ],
+        [
+          "SFC-MID-CAREER",
+          "SkillsFuture Credit (Mid-Career)",
+          0.673
+        ],
+        [
+          "SKILLSFUTURE-ADVICE",
+          "SkillsFuture Advice",
+          0.554
+        ],
+        [
+          "SFMCES",
+          "SkillsFuture Mid-Career Enhanced Subsidy",
+          0.554
+        ],
+        [
+          "SFSERIES",
+          "SkillsFuture Series",
+          0.578
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.908,
+        0.811,
+        0.585,
+        0.562,
+        0.556
+      ]
+    },
+    {
+      "query": "We already own one flat and want to buy a bigger resale flat as a family, is there a step-up grant?",
+      "expected": [
+        "SU-CPFHG-FAM"
+      ],
+      "top_results": [
+        [
+          "SU-CPFHG-FAM",
+          "Step-Up CPF Housing Grant (Families)",
+          0.739
+        ],
+        [
+          "ieMs9uMO",
+          "CPF Housing Grant (Families) - Top-Up Grant",
+          0.611
+        ],
+        [
+          "ENCPFHG-FAM",
+          "Enhanced CPF Housing Grant (Families)",
+          0.653
+        ],
+        [
+          "CPF-HG",
+          "CPF Housing Grant",
+          0.655
+        ],
+        [
+          "PHG-FAMILIES",
+          "Proximity Housing Grant (Families)",
+          0.616
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.922,
+        0.849,
+        0.839,
+        0.831,
+        0.751
+      ]
+    },
+    {
+      "query": "Is there a centre nearby where seniors like me can socialise and join activities together?",
+      "expected": [
+        "LWAWP",
+        "SVC-AACAAACHASACS",
+        "gyDNuWnW"
+      ],
+      "top_results": [
+        [
+          "SVC-AACAAACHASACS",
+          "Active Ageing Centres (AAC)",
+          0.601
+        ],
+        [
+          "LWAWP",
+          "Live Well, Age Well Programme",
+          0.681
+        ],
+        [
+          "gyDNuWnW",
+          "PA Community Programmes and Events",
+          0.647
+        ],
+        [
+          "Nqhtnjri",
+          "Cognitive Intervention Programme (CIP)",
+          0.578
+        ],
+        [
+          "SVC-MDCC",
+          "Maintenance Day Care Centre",
+          0.582
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.857,
+        0.793,
+        0.792,
+        0.764,
+        0.743
+      ]
+    },
+    {
+      "query": "I want to talk to someone about my future healthcare wishes in case I can't decide for myself one day",
+      "expected": [
+        "SVC-ACP",
+        "SVC-LPA"
+      ],
+      "top_results": [
+        [
+          "SVC-ACP",
+          "Advance Care Planning (ACP)",
+          0.604
+        ],
+        [
+          "SVC-ML",
+          "My Legacy",
+          0.471
+        ],
+        [
+          "SVC-LPA",
+          "Lasting Power of Attorney (LPA)",
+          0.548
+        ],
+        [
+          "SVC-CPFN",
+          "CPF Nomination",
+          0.458
+        ],
+        [
+          "PDDS",
+          "Professional Deputies and Donees Scheme",
+          0.432
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.893,
+        0.75,
+        0.717,
+        0.646,
+        0.642
+      ]
+    },
+    {
+      "query": "My father needs simple nursing care like wound dressing done at a centre nearby, not at home",
+      "expected": [
+        "SVC-CBN"
+      ],
+      "top_results": [
+        [
+          "SVC-CBN",
+          "Centre-based Nursing",
+          0.708
+        ],
+        [
+          "SVC-HN",
+          "Home Nursing",
+          0.627
+        ],
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.621
+        ],
+        [
+          "o0cdiebU",
+          "Enhanced Home Personal Care (HPC+)",
+          0.519
+        ],
+        [
+          "SVC-HPCSH",
+          "Home Personal Care (HPC)",
+          0.467
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.903,
+        0.719,
+        0.691,
+        0.633,
+        0.633
+      ]
+    },
+    {
+      "query": "I'm worried I might be developing a mental health problem or dementia, who can I talk to face-to-face near my home?",
+      "expected": [
+        "SVC-COTC",
+        "VelRMbGu"
+      ],
+      "top_results": [
+        [
+          "SVC-COTC",
+          "Community Outreach Teams (CREST)",
+          0.535
+        ],
+        [
+          "oWweAQMH",
+          "Community Mental Health Services",
+          0.422
+        ],
+        [
+          "VelRMbGu",
+          "Mental Health GP Partnership/ Polyclinic",
+          0.472
+        ],
+        [
+          "ceeJSWE0",
+          "Counselling (Seniors)",
+          0.404
+        ],
+        [
+          "SVC-SSCIP",
+          "SOS Suicide Crisis Intervention Programme",
+          0.542
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.767,
+        0.706,
+        0.692,
+        0.692,
+        0.687
+      ]
+    },
+    {
+      "query": "How do I decide who receives my CPF savings after I die?",
+      "expected": [
+        "SVC-CPFN"
+      ],
+      "top_results": [
+        [
+          "SVC-CPFN",
+          "CPF Nomination",
+          0.732
+        ],
+        [
+          "SNSS",
+          "Special Needs Savings Scheme (SNSS)",
+          0.564
+        ],
+        [
+          "nywYq9hc",
+          "Application for Deceased's Unnominated CPF Monies",
+          0.558
+        ],
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.593
+        ],
+        [
+          "RLE",
+          "Withdrawal of CPF Savings on Reduced Life Expectancy",
+          0.521
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.958,
+        0.861,
+        0.827,
+        0.653,
+        0.583
+      ]
+    },
+    {
+      "query": "My mother had a stroke and needs therapy at a centre to help her walk and speak again",
+      "expected": [
+        "SVC-CRC"
+      ],
+      "top_results": [
+        [
+          "SVC-CRC",
+          "Community Rehabilitation Centre",
+          0.673
+        ],
+        [
+          "SVC-HT",
+          "Home Therapy",
+          0.545
+        ],
+        [
+          "o0cdiebU",
+          "Enhanced Home Personal Care (HPC+)",
+          0.357
+        ],
+        [
+          "SVC-CBN",
+          "Centre-based Nursing",
+          0.36
+        ],
+        [
+          "SVC-ACP",
+          "Advance Care Planning (ACP)",
+          0.384
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.882,
+        0.708,
+        0.432,
+        0.39,
+        0.364
+      ]
+    },
+    {
+      "query": "My relative has mental health issues and I need training on how to take care of them properly",
+      "expected": [
+        "SVC-CTCP"
+      ],
+      "top_results": [
+        [
+          "SVC-CTCP",
+          "Caregiver Training and Support Programme",
+          0.543
+        ],
+        [
+          "SVC-OHV",
+          "Our HEALing Voice",
+          0.427
+        ],
+        [
+          "ceeJSWE0",
+          "Counselling (Seniors)",
+          0.462
+        ],
+        [
+          "SVC-COTC",
+          "Community Outreach Teams (CREST)",
+          0.522
+        ],
+        [
+          "iO9WdkX4",
+          "Counselling",
+          0.515
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.862,
+        0.679,
+        0.592,
+        0.575,
+        0.552
+      ]
+    },
+    {
+      "query": "My mother has lost her mental capacity and never made a Lasting Power of Attorney, how do I get authority to act for her?",
+      "expected": [
+        "PDDS",
+        "SVC-D"
+      ],
+      "top_results": [
+        [
+          "SVC-D",
+          "Deputyship",
+          0.645
+        ],
+        [
+          "PDDS",
+          "Professional Deputies and Donees Scheme",
+          0.502
+        ],
+        [
+          "SVC-LPA",
+          "Lasting Power of Attorney (LPA)",
+          0.563
+        ],
+        [
+          "ddXZpncg",
+          "Assisted Deputyship Application Programme (ADAP)",
+          0.352
+        ],
+        [
+          "SVC-ACP",
+          "Advance Care Planning (ACP)",
+          0.364
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.869,
+        0.801,
+        0.781,
+        0.64,
+        0.615
+      ]
+    },
+    {
+      "query": "My father has dementia and needs day care while I'm at work",
+      "expected": [
+        "Nqhtnjri",
+        "SVC-DDC"
+      ],
+      "top_results": [
+        [
+          "SVC-DDC",
+          "Dementia Day Care",
+          0.695
+        ],
+        [
+          "SVC-MDCC",
+          "Maintenance Day Care Centre",
+          0.544
+        ],
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.509
+        ],
+        [
+          "SVC-DACD",
+          "Day Activity Centre (DAC)",
+          0.374
+        ],
+        [
+          "o0cdiebU",
+          "Enhanced Home Personal Care (HPC+)",
+          0.347
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.795,
+        0.656,
+        0.558,
+        0.558,
+        0.511
+      ]
+    },
+    {
+      "query": "My family is going through a difficult and emotional time, where can we get support nearby?",
+      "expected": [
+        "SVC-FSCF"
+      ],
+      "top_results": [
+        [
+          "SVC-FSCF",
+          "Family Service Centre (FSC)",
+          0.497
+        ],
+        [
+          "SVC-LOTSSL",
+          "Local Outreach to Suicide Survivors (LOSS)",
+          0.522
+        ],
+        [
+          "SVC-FVSCF",
+          "Protection Specialist Centre (PSC)",
+          0.443
+        ],
+        [
+          "SVC-WP",
+          "WiShine",
+          0.451
+        ],
+        [
+          "ECsnBwjK",
+          "SOS Care Text",
+          0.447
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.832,
+        0.777,
+        0.749,
+        0.739,
+        0.696
+      ]
+    },
+    {
+      "query": "My mother cannot leave the house, can a doctor come visit her at home for check-ups?",
+      "expected": [
+        "SVC-HM"
+      ],
+      "top_results": [
+        [
+          "SVC-HM",
+          "Home Medical",
+          0.628
+        ],
+        [
+          "SVC-HN",
+          "Home Nursing",
+          0.423
+        ],
+        [
+          "HEALTHIERSG",
+          "Healthier SG",
+          0.337
+        ],
+        [
+          "SVC-PHC",
+          "Home Palliative Care",
+          0.408
+        ],
+        [
+          "SVC-HT",
+          "Home Therapy",
+          0.345
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.821,
+        0.635,
+        0.502,
+        0.443,
+        0.439
+      ]
+    },
+    {
+      "query": "I need home nursing for my bedridden grandmother",
+      "expected": [
+        "SVC-HN"
+      ],
+      "top_results": [
+        [
+          "SVC-HN",
+          "Home Nursing",
+          0.678
+        ],
+        [
+          "SVC-HPCSH",
+          "Home Personal Care (HPC)",
+          0.444
+        ],
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.623
+        ],
+        [
+          "SVC-CBN",
+          "Centre-based Nursing",
+          0.567
+        ],
+        [
+          "o0cdiebU",
+          "Enhanced Home Personal Care (HPC+)",
+          0.444
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.687,
+        0.609,
+        0.607,
+        0.605,
+        0.577
+      ]
+    },
+    {
+      "query": "I need someone to help my elderly mother with daily washing, dressing and light housework at home",
+      "expected": [
+        "MDW_LEVY_CONCESSION",
+        "SVC-HPCSH",
+        "o0cdiebU"
+      ],
+      "top_results": [
+        [
+          "SVC-HPCSH",
+          "Home Personal Care (HPC)",
+          0.606
+        ],
+        [
+          "MDW_LEVY_CONCESSION",
+          "Migrant Domestic Worker Levy Concession",
+          0.481
+        ],
+        [
+          "o0cdiebU",
+          "Enhanced Home Personal Care (HPC+)",
+          0.503
+        ],
+        [
+          "PIONEER-DAS",
+          "Pioneer Generation Disability Assistance Scheme (PioneerDAS)",
+          0.452
+        ],
+        [
+          "ELDERFUND",
+          "ElderFund",
+          0.457
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.746,
+        0.653,
+        0.644,
+        0.638,
+        0.629
+      ]
+    },
+    {
+      "query": "My father cannot leave the house, can a therapist come help him move and speak better at home?",
+      "expected": [
+        "SVC-HT"
+      ],
+      "top_results": [
+        [
+          "SVC-HT",
+          "Home Therapy",
+          0.424
+        ],
+        [
+          "SVC-CRC",
+          "Community Rehabilitation Centre",
+          0.379
+        ],
+        [
+          "o0cdiebU",
+          "Enhanced Home Personal Care (HPC+)",
+          0.412
+        ],
+        [
+          "SMF",
+          "Seniors' Mobility and Enabling Fund",
+          0.373
+        ],
+        [
+          "ATF",
+          "Assistive Technology Fund (ATF)",
+          0.372
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.727,
+        0.667,
+        0.589,
+        0.511,
+        0.439
+      ]
+    },
+    {
+      "query": "My father is very sick and can't be cared for at home anymore, is there a place with round-the-clock end-of-life care?",
+      "expected": [
+        "SVC-IHPCS",
+        "SVC-NH"
+      ],
+      "top_results": [
+        [
+          "SVC-IHPCS",
+          "Inpatient Hospice Palliative Care Service (IHPCS)",
+          0.606
+        ],
+        [
+          "SVC-PHC",
+          "Home Palliative Care",
+          0.521
+        ],
+        [
+          "SVC-PDC",
+          "Day Hospice Care",
+          0.454
+        ],
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.671
+        ],
+        [
+          "SVC-ACP",
+          "Advance Care Planning (ACP)",
+          0.404
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.793,
+        0.752,
+        0.717,
+        0.644,
+        0.484
+      ]
+    },
+    {
+      "query": "My husband ended his own life and I need someone to talk to about my grief",
+      "expected": [
+        "SVC-LOTSSL"
+      ],
+      "top_results": [
+        [
+          "SVC-LOTSSL",
+          "Local Outreach to Suicide Survivors (LOSS)",
+          0.511
+        ],
+        [
+          "SVC-SSCIP",
+          "SOS Suicide Crisis Intervention Programme",
+          0.273
+        ],
+        [
+          "iO9WdkX4",
+          "Counselling",
+          0.33
+        ],
+        [
+          "ceeJSWE0",
+          "Counselling (Seniors)",
+          0.359
+        ],
+        [
+          "SVC-WP",
+          "WiShine",
+          0.548
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.775,
+        0.753,
+        0.687,
+        0.663,
+        0.609
+      ]
+    },
+    {
+      "query": "I want to set up a lasting power of attorney for my elderly mother",
+      "expected": [
+        "SVC-LPA"
+      ],
+      "top_results": [
+        [
+          "SVC-LPA",
+          "Lasting Power of Attorney (LPA)",
+          0.568
+        ],
+        [
+          "PDDS",
+          "Professional Deputies and Donees Scheme",
+          0.477
+        ],
+        [
+          "SVC-ML",
+          "My Legacy",
+          0.578
+        ],
+        [
+          "SVC-D",
+          "Deputyship",
+          0.54
+        ],
+        [
+          "SVC-ACP",
+          "Advance Care Planning (ACP)",
+          0.323
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.79,
+        0.719,
+        0.647,
+        0.635,
+        0.602
+      ]
+    },
+    {
+      "query": "My mother just needs a normal day care centre to look after her while I work, she doesn't have dementia",
+      "expected": [
+        "SVC-MDCC"
+      ],
+      "top_results": [
+        [
+          "SVC-MDCC",
+          "Maintenance Day Care Centre",
+          0.577
+        ],
+        [
+          "SVC-DDC",
+          "Dementia Day Care",
+          0.668
+        ],
+        [
+          "ddXZpncg",
+          "Assisted Deputyship Application Programme (ADAP)",
+          0.476
+        ],
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.48
+        ],
+        [
+          "SVC-CBN",
+          "Centre-based Nursing",
+          0.448
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.677,
+        0.667,
+        0.542,
+        0.533,
+        0.517
+      ]
+    },
+    {
+      "query": "My father needs someone to accompany and take him to his hospital appointment",
+      "expected": [
+        "SVC-MEATM"
+      ],
+      "top_results": [
+        [
+          "SVC-MEATM",
+          "Medical Escort and Transport (MET)",
+          0.64
+        ],
+        [
+          "SVC-ACP",
+          "Advance Care Planning (ACP)",
+          0.352
+        ],
+        [
+          "SVC-HM",
+          "Home Medical",
+          0.385
+        ],
+        [
+          "SVC-PDC",
+          "Day Hospice Care",
+          0.358
+        ],
+        [
+          "SVC-CBN",
+          "Centre-based Nursing",
+          0.351
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.81,
+        0.533,
+        0.525,
+        0.459,
+        0.451
+      ]
+    },
+    {
+      "query": "I want to keep all my important documents like my will and healthcare wishes safely in one place to share with my family",
+      "expected": [
+        "SVC-ML"
+      ],
+      "top_results": [
+        [
+          "SVC-ML",
+          "My Legacy",
+          0.622
+        ],
+        [
+          "SVC-ACP",
+          "Advance Care Planning (ACP)",
+          0.499
+        ],
+        [
+          "SVC-LPA",
+          "Lasting Power of Attorney (LPA)",
+          0.348
+        ],
+        [
+          "SVC-CPFN",
+          "CPF Nomination",
+          0.338
+        ],
+        [
+          "P3m8eAvW",
+          "Settling Outstanding Tax Matters and Bills for a Deceased Person",
+          0.363
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.846,
+        0.733,
+        0.605,
+        0.517,
+        0.39
+      ]
+    },
+    {
+      "query": "Can someone deliver meals to my elderly uncle who lives alone?",
+      "expected": [
+        "SVC-MOWM"
+      ],
+      "top_results": [
+        [
+          "SVC-MOWM",
+          "Meals on Wheels (MOW)",
+          0.653
+        ],
+        [
+          "SVC-MDCC",
+          "Maintenance Day Care Centre",
+          0.449
+        ],
+        [
+          "SVC-MEATM",
+          "Medical Escort and Transport (MET)",
+          0.495
+        ],
+        [
+          "MDW_LEVY_CONCESSION",
+          "Migrant Domestic Worker Levy Concession",
+          0.441
+        ],
+        [
+          "PIONEER-DAS",
+          "Pioneer Generation Disability Assistance Scheme (PioneerDAS)",
+          0.4
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.702,
+        0.569,
+        0.519,
+        0.513,
+        0.455
+      ]
+    },
+    {
+      "query": "My children promised to support me financially but are not giving me the money, who can help me get this?",
+      "expected": [
+        "SVC-MSCM"
+      ],
+      "top_results": [
+        [
+          "XPg2wTUs",
+          "Qualifying Child Relief (QCR)/Child Relief (Disability)",
+          0.285
+        ],
+        [
+          "BB-CG",
+          "Baby Bonus Cash Gift",
+          0.303
+        ],
+        [
+          "BSG",
+          "Baby Support Grant",
+          0.326
+        ],
+        [
+          "N8hHgjb3",
+          "Parenthood Tax Rebate (PTR)",
+          0.302
+        ],
+        [
+          "yQfF0Pj8",
+          "Government-Paid Paternity Benefit (GPPB)",
+          0.292
+        ]
+      ],
+      "rank_of_first_match": null,
+      "rerank_scores": [
+        0.622,
+        0.617,
+        0.607,
+        0.59,
+        0.579
+      ]
+    },
+    {
+      "query": "My mother has no one to care for her at home anymore, does she need to move into a nursing home?",
+      "expected": [
+        "SVC-NH"
+      ],
+      "top_results": [
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.634
+        ],
+        [
+          "ELDERFUND",
+          "ElderFund",
+          0.46
+        ],
+        [
+          "ELDERSHIELD",
+          "ElderShield",
+          0.444
+        ],
+        [
+          "Sucth2ke",
+          "Long-Term Care Subsidies",
+          0.463
+        ],
+        [
+          "SVC-NHRC",
+          "Nursing Home Respite Care",
+          0.59
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.566,
+        0.463,
+        0.463,
+        0.459,
+        0.455
+      ]
+    },
+    {
+      "query": "I need a short break from caring for my mother, can she stay in a nursing home just for a while?",
+      "expected": [
+        "SVC-NHRC"
+      ],
+      "top_results": [
+        [
+          "SVC-NHRC",
+          "Nursing Home Respite Care",
+          0.672
+        ],
+        [
+          "JqJOoLnT",
+          "Take-a-Break (TAB)",
+          0.439
+        ],
+        [
+          "SVC-IHPCS",
+          "Inpatient Hospice Palliative Care Service (IHPCS)",
+          0.366
+        ],
+        [
+          "SVC-MDCC",
+          "Maintenance Day Care Centre",
+          0.464
+        ],
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.469
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.768,
+        0.59,
+        0.548,
+        0.502,
+        0.463
+      ]
+    },
+    {
+      "query": "My mother is very ill but only needs care during the day, not overnight, is there such a place?",
+      "expected": [
+        "SVC-PDC"
+      ],
+      "top_results": [
+        [
+          "SVC-PDC",
+          "Day Hospice Care",
+          0.648
+        ],
+        [
+          "SVC-MDCC",
+          "Maintenance Day Care Centre",
+          0.663
+        ],
+        [
+          "SVC-NHRC",
+          "Nursing Home Respite Care",
+          0.464
+        ],
+        [
+          "SVC-DDC",
+          "Dementia Day Care",
+          0.616
+        ],
+        [
+          "SVC-CBN",
+          "Centre-based Nursing",
+          0.521
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.808,
+        0.798,
+        0.769,
+        0.767,
+        0.711
+      ]
+    },
+    {
+      "query": "My father is dying at home, can someone help manage his pain and comfort there?",
+      "expected": [
+        "SVC-PHC"
+      ],
+      "top_results": [
+        [
+          "SVC-PHC",
+          "Home Palliative Care",
+          0.649
+        ],
+        [
+          "SVC-IHPCS",
+          "Inpatient Hospice Palliative Care Service (IHPCS)",
+          0.505
+        ],
+        [
+          "SVC-PDC",
+          "Day Hospice Care",
+          0.379
+        ],
+        [
+          "SVC-HM",
+          "Home Medical",
+          0.395
+        ],
+        [
+          "SVC-HN",
+          "Home Nursing",
+          0.424
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.729,
+        0.701,
+        0.589,
+        0.502,
+        0.49
+      ]
+    },
+    {
+      "query": "I am thinking of ending my life and need to talk to someone urgently",
+      "expected": [
+        "ECsnBwjK",
+        "SVC-SSCIP"
+      ],
+      "top_results": [
+        [
+          "SVC-SSCIP",
+          "SOS Suicide Crisis Intervention Programme",
+          0.594
+        ],
+        [
+          "ECsnBwjK",
+          "SOS Care Text",
+          0.441
+        ],
+        [
+          "SVC-LOTSSL",
+          "Local Outreach to Suicide Survivors (LOSS)",
+          0.447
+        ],
+        [
+          "SVC-ACP",
+          "Advance Care Planning (ACP)",
+          0.318
+        ],
+        [
+          "QpRxBoCe",
+          "Community Law Centre in North West (Community Law Centre @ Realm of Tranquility)",
+          0.358
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.78,
+        0.731,
+        0.697,
+        0.618,
+        0.55
+      ]
+    },
+    {
+      "query": "My husband just passed away and I am struggling to adjust to being alone",
+      "expected": [
+        "SVC-WP"
+      ],
+      "top_results": [
+        [
+          "SVC-ML",
+          "My Legacy",
+          0.244
+        ],
+        [
+          "bncVrBSn",
+          "CAREconnect",
+          0.237
+        ],
+        [
+          "P3m8eAvW",
+          "Settling Outstanding Tax Matters and Bills for a Deceased Person",
+          0.515
+        ],
+        [
+          "HPS",
+          "Home Protection Scheme (HPS)",
+          0.243
+        ],
+        [
+          "ASSIST-SECTIMERS",
+          "Assistance Scheme for Second Timers (Divorced/ Widowed Parents) (ASSIST)",
+          0.235
+        ]
+      ],
+      "rank_of_first_match": null,
+      "rerank_scores": [
+        0.357,
+        0.35,
+        0.347,
+        0.333,
+        0.319
+      ]
+    },
+    {
+      "query": "What long term care subsidies are there for home nursing services?",
+      "expected": [
+        "Sucth2ke"
+      ],
+      "top_results": [
+        [
+          "Sucth2ke",
+          "Long-Term Care Subsidies",
+          0.752
+        ],
+        [
+          "SMF",
+          "Seniors' Mobility and Enabling Fund",
+          0.513
+        ],
+        [
+          "SVC-NH",
+          "Nursing Home",
+          0.662
+        ],
+        [
+          "SVC-HN",
+          "Home Nursing",
+          0.599
+        ],
+        [
+          "ELDERSHIELD",
+          "ElderShield",
+          0.521
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.91,
+        0.759,
+        0.663,
+        0.66,
+        0.622
+      ]
+    },
+    {
+      "query": "I support my elderly parents financially, can this reduce my income tax?",
+      "expected": [
+        "TAX_RELIEF_CAREGIVERS_DISABLED",
+        "sygrV7iy"
+      ],
+      "top_results": [
+        [
+          "TAX_RELIEF_CAREGIVERS_DISABLED",
+          "Parent Relief/Parent Relief (Disability)",
+          0.532
+        ],
+        [
+          "sygrV7iy",
+          "Tax Reliefs",
+          0.534
+        ],
+        [
+          "cVyhpH3s",
+          "Grandparent Caregiver Relief (GCR)",
+          0.527
+        ],
+        [
+          "oS6OeT45",
+          "Earned Income Relief",
+          0.458
+        ],
+        [
+          "nO5dmWvA",
+          "Spouse Relief/Spouse Relief (Disability)",
+          0.447
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.789,
+        0.769,
+        0.728,
+        0.711,
+        0.677
+      ]
+    },
+    {
+      "query": "I am renting an HDB flat and want a better chance to buy my own flat one day, is there priority for renters like me?",
+      "expected": [
+        "TEN-PRIORITY"
+      ],
+      "top_results": [
+        [
+          "TEN-PRIORITY",
+          "Tenants' Priority Scheme (TPS)",
+          0.655
+        ],
+        [
+          "FTPMC-CAT",
+          "Priority Scheme - First-Timer (Parents & Married Couples), FT(PMC) Category",
+          0.695
+        ],
+        [
+          "FAM-PRIORITY",
+          "Family and Parenthood Priority Scheme (FPPS)",
+          0.634
+        ],
+        [
+          "TC-PRIORITY",
+          "Third Child Priority Scheme (TCPS)",
+          0.622
+        ],
+        [
+          "PUBLICRENTAL-JSS",
+          "Public Rental Scheme - Joint Singles Scheme (JSS)",
+          0.599
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.917,
+        0.793,
+        0.788,
+        0.755,
+        0.696
+      ]
+    },
+    {
+      "query": "I want to learn to become a web developer or data analyst through an intensive training bootcamp",
+      "expected": [
+        "CLT",
+        "TIPP"
+      ],
+      "top_results": [
+        [
+          "TIPP",
+          "Tech Immersion and Placement Programme (TIPP)",
+          0.548
+        ],
+        [
+          "CLT",
+          "Company-Led Training (CLT) Programme",
+          0.412
+        ],
+        [
+          "SFDWP",
+          "SkillsFuture for Digital Workplace",
+          0.301
+        ],
+        [
+          "SGWSQ",
+          "Singapore Workforce Skills Qualifications",
+          0.266
+        ],
+        [
+          "SKILLSFUTURE-ADVICE",
+          "SkillsFuture Advice",
+          0.296
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.819,
+        0.447,
+        0.413,
+        0.375,
+        0.361
+      ]
+    },
+    {
+      "query": "Is there a volunteer who can guide me on my career journey?",
+      "expected": [
+        "CGPOLARIS",
+        "VCADVINI"
+      ],
+      "top_results": [
+        [
+          "VCADVINI",
+          "Volunteer Career Advisors Initiative",
+          0.701
+        ],
+        [
+          "CGPOLARIS",
+          "Career Guidance Programme",
+          0.436
+        ],
+        [
+          "SKILLS-ADVISORY",
+          "Career and Skills Advisory",
+          0.428
+        ],
+        [
+          "CLT",
+          "Company-Led Training (CLT) Programme",
+          0.362
+        ],
+        [
+          "SKILLSFUTURE-ADVICE",
+          "SkillsFuture Advice",
+          0.435
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.906,
+        0.628,
+        0.542,
+        0.509,
+        0.505
+      ]
+    },
+    {
+      "query": "Can I top up my own or my parents' CPF retirement account with extra cash?",
+      "expected": [
+        "FcwgSMsK",
+        "VSj0VliA"
+      ],
+      "top_results": [
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.788
+        ],
+        [
+          "FcwgSMsK",
+          "Matched Retirement Savings Scheme",
+          0.663
+        ],
+        [
+          "WOuv5ZHU",
+          "Budget 2026 CPF Top-Up",
+          0.663
+        ],
+        [
+          "SHB",
+          "Silver Housing Bonus (SHB)",
+          0.6
+        ],
+        [
+          "7c13MJjn",
+          "Withdrawal of CPF Savings for Immediate Needs from Age 55",
+          0.6
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.916,
+        0.748,
+        0.708,
+        0.618,
+        0.607
+      ]
+    },
+    {
+      "query": "I want a doctor who can look after both my body and my mental health together",
+      "expected": [
+        "VelRMbGu"
+      ],
+      "top_results": [
+        [
+          "VelRMbGu",
+          "Mental Health GP Partnership/ Polyclinic",
+          0.595
+        ],
+        [
+          "YIT",
+          "Youth Integrated Team (YIT)",
+          0.542
+        ],
+        [
+          "SVC-COTC",
+          "Community Outreach Teams (CREST)",
+          0.517
+        ],
+        [
+          "oWweAQMH",
+          "Community Mental Health Services",
+          0.413
+        ],
+        [
+          "S8Qtkqge",
+          "Rise to Wellness - Integrated Wellness Recovery Programme (RTW-I)",
+          0.514
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.853,
+        0.55,
+        0.531,
+        0.498,
+        0.447
+      ]
+    },
+    {
+      "query": "I am a Malay woman who stopped working to take care of family, is there a programme to help me go back to work?",
+      "expected": [
+        "WJtDbT4F"
+      ],
+      "top_results": [
+        [
+          "WJtDbT4F",
+          "Women at Work (W@W)",
+          0.728
+        ],
+        [
+          "ZHDOAsEu",
+          "OnePA CC Courses",
+          0.502
+        ],
+        [
+          "SCTP",
+          "SkillsFuture Career Transition Programme (SCTP)",
+          0.512
+        ],
+        [
+          "SVC-WP",
+          "WiShine",
+          0.528
+        ],
+        [
+          "SVC-YVASSPV",
+          "YMCA Vocational and Soft Skills Programme (VaSSP)",
+          0.502
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.922,
+        0.736,
+        0.723,
+        0.713,
+        0.687
+      ]
+    },
+    {
+      "query": "I receive Workfare payments, is there also help with my public transport fares?",
+      "expected": [
+        "PTV",
+        "WTCS"
+      ],
+      "top_results": [
+        [
+          "WTCS",
+          "Workfare Transport Concession Scheme",
+          0.737
+        ],
+        [
+          "PTV",
+          "2025 Public Transport Voucher (PTV) Exercise",
+          0.436
+        ],
+        [
+          "PWD-CONCESSION",
+          "Persons with Disabilities Concession Card (PWDCC)",
+          0.478
+        ],
+        [
+          "TSS",
+          "Taxi Subsidy Scheme (TSS)",
+          0.403
+        ],
+        [
+          "ETS",
+          "Enabling Transport Subsidy (ETS)",
+          0.385
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.904,
+        0.537,
+        0.447,
+        0.447,
+        0.436
+      ]
+    },
+    {
+      "query": "Can I invest my CPF savings myself to try to grow my retirement funds?",
+      "expected": [
+        "Whq71CAX"
+      ],
+      "top_results": [
+        [
+          "Whq71CAX",
+          "CPF Investment Scheme (CPFIS)",
+          0.708
+        ],
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.532
+        ],
+        [
+          "Z9jTRTTL",
+          "Voluntary Housing Refund",
+          0.507
+        ],
+        [
+          "AboVw46N",
+          "CPF Housing Scheme",
+          0.513
+        ],
+        [
+          "FcwgSMsK",
+          "Matched Retirement Savings Scheme",
+          0.499
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.885,
+        0.814,
+        0.733,
+        0.575,
+        0.573
+      ]
+    },
+    {
+      "query": "I want to return the CPF money I used for my house back into my CPF account, is that possible?",
+      "expected": [
+        "Z9jTRTTL"
+      ],
+      "top_results": [
+        [
+          "Z9jTRTTL",
+          "Voluntary Housing Refund",
+          0.687
+        ],
+        [
+          "AboVw46N",
+          "CPF Housing Scheme",
+          0.659
+        ],
+        [
+          "7c13MJjn",
+          "Withdrawal of CPF Savings for Immediate Needs from Age 55",
+          0.472
+        ],
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.501
+        ],
+        [
+          "LEASE_BUYBACK",
+          "Lease Buyback Scheme",
+          0.501
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.908,
+        0.784,
+        0.707,
+        0.653,
+        0.617
+      ]
+    },
+    {
+      "query": "Are there courses at the community centre near me that I can join?",
+      "expected": [
+        "NATIONAL_SILVER_ACADEMY",
+        "ZHDOAsEu",
+        "gyDNuWnW"
+      ],
+      "top_results": [
+        [
+          "ZHDOAsEu",
+          "OnePA CC Courses",
+          0.642
+        ],
+        [
+          "gyDNuWnW",
+          "PA Community Programmes and Events",
+          0.542
+        ],
+        [
+          "705gVCXW",
+          "PAssion Card",
+          0.463
+        ],
+        [
+          "LWAWP",
+          "Live Well, Age Well Programme",
+          0.586
+        ],
+        [
+          "NATIONAL_SILVER_ACADEMY",
+          "National Silver Academy",
+          0.482
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.799,
+        0.711,
+        0.665,
+        0.638,
+        0.527
+      ]
+    },
+    {
+      "query": "My granddaughter is pregnant and unsure what to do, is there support for her situation?",
+      "expected": [
+        "SVC-BPCS",
+        "a0ctwtOS"
+      ],
+      "top_results": [
+        [
+          "SVC-BPCS",
+          "Babes Pregnancy Crisis Support",
+          0.644
+        ],
+        [
+          "a0ctwtOS",
+          "Safe Place",
+          0.502
+        ],
+        [
+          "KIDSTART",
+          "KidSTART",
+          0.453
+        ],
+        [
+          "yQfF0Pj8",
+          "Government-Paid Paternity Benefit (GPPB)",
+          0.308
+        ],
+        [
+          "iq4yqplI",
+          "Government-Paid Maternity Benefit (GPMB)",
+          0.339
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.799,
+        0.747,
+        0.711,
+        0.592,
+        0.59
+      ]
+    },
+    {
+      "query": "I pay premiums for my own life insurance every year, can this reduce my income tax?",
+      "expected": [
+        "cVkNdnyT"
+      ],
+      "top_results": [
+        [
+          "cVkNdnyT",
+          "Life Insurance Relief",
+          0.673
+        ],
+        [
+          "oS6OeT45",
+          "Earned Income Relief",
+          0.359
+        ],
+        [
+          "LrEfS3Nx",
+          "Matched MediSave Scheme",
+          0.491
+        ],
+        [
+          "PKQxhC2q",
+          "CareShield Life Premium Subsidies",
+          0.459
+        ],
+        [
+          "leUjvFgL",
+          "Supplementary Retirement Scheme (SRS)",
+          0.385
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.849,
+        0.398,
+        0.372,
+        0.372,
+        0.372
+      ]
+    },
+    {
+      "query": "I am an older person feeling lonely, is there someone I can talk to about my feelings?",
+      "expected": [
+        "ceeJSWE0"
+      ],
+      "top_results": [
+        [
+          "ceeJSWE0",
+          "Counselling (Seniors)",
+          0.412
+        ],
+        [
+          "SVC-SSCIP",
+          "SOS Suicide Crisis Intervention Programme",
+          0.412
+        ],
+        [
+          "SVC-LOTSSL",
+          "Local Outreach to Suicide Survivors (LOSS)",
+          0.368
+        ],
+        [
+          "SVC-COTC",
+          "Community Outreach Teams (CREST)",
+          0.345
+        ],
+        [
+          "SVC-WP",
+          "WiShine",
+          0.49
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.81,
+        0.679,
+        0.651,
+        0.651,
+        0.59
+      ]
+    },
+    {
+      "query": "How do I find out about community events happening near me?",
+      "expected": [
+        "LWAWP",
+        "gyDNuWnW"
+      ],
+      "top_results": [
+        [
+          "gyDNuWnW",
+          "PA Community Programmes and Events",
+          0.606
+        ],
+        [
+          "LWAWP",
+          "Live Well, Age Well Programme",
+          0.569
+        ],
+        [
+          "ckLFmJ4I",
+          "SG Culture Pass",
+          0.461
+        ],
+        [
+          "bncVrBSn",
+          "CAREconnect",
+          0.529
+        ],
+        [
+          "SVC-AACAAACHASACS",
+          "Active Ageing Centres (AAC)",
+          0.4
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.708,
+        0.697,
+        0.672,
+        0.502,
+        0.455
+      ]
+    },
+    {
+      "query": "My whole family is having problems and we want to see a counsellor together",
+      "expected": [
+        "iO9WdkX4"
+      ],
+      "top_results": [
+        [
+          "iO9WdkX4",
+          "Counselling",
+          0.619
+        ],
+        [
+          "SVC-FSCF",
+          "Family Service Centre (FSC)",
+          0.37
+        ],
+        [
+          "SVC-SFPFFF",
+          "Strengthening Families Programme (FAM)",
+          0.341
+        ],
+        [
+          "ceeJSWE0",
+          "Counselling (Seniors)",
+          0.623
+        ],
+        [
+          "SVC-LOBTCS",
+          "Live On!",
+          0.463
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.83,
+        0.784,
+        0.727,
+        0.723,
+        0.699
+      ]
+    },
+    {
+      "query": "I am old now, I heard there's a special government package for people my age with healthcare benefits, what is it?",
+      "expected": [
+        "MP-MSB",
+        "lceYNjsb",
+        "n4iFaG9r"
+      ],
+      "top_results": [
+        [
+          "lceYNjsb",
+          "Merdeka Generation Package",
+          0.53
+        ],
+        [
+          "n4iFaG9r",
+          "Pioneer Generation Package",
+          0.655
+        ],
+        [
+          "MP-MSB",
+          "Majulah Package – MediSave Bonus",
+          0.52
+        ],
+        [
+          "MP-RSB",
+          "Majulah Package – Retirement Savings Bonus",
+          0.453
+        ],
+        [
+          "wEfmIVLx",
+          "CPF LIFE",
+          0.485
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.836,
+        0.836,
+        0.801,
+        0.714,
+        0.674
+      ]
+    },
+    {
+      "query": "Is there a scheme to save extra money for retirement on top of my CPF, with some tax benefit?",
+      "expected": [
+        "VSj0VliA",
+        "leUjvFgL"
+      ],
+      "top_results": [
+        [
+          "leUjvFgL",
+          "Supplementary Retirement Scheme (SRS)",
+          0.685
+        ],
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.753
+        ],
+        [
+          "FcwgSMsK",
+          "Matched Retirement Savings Scheme",
+          0.737
+        ],
+        [
+          "WOuv5ZHU",
+          "Budget 2026 CPF Top-Up",
+          0.634
+        ],
+        [
+          "Whq71CAX",
+          "CPF Investment Scheme (CPFIS)",
+          0.639
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.914,
+        0.893,
+        0.851,
+        0.825,
+        0.811
+      ]
+    },
+    {
+      "query": "My father passed away without saying who should receive his CPF savings, how do we claim it?",
+      "expected": [
+        "P3m8eAvW",
+        "nywYq9hc"
+      ],
+      "top_results": [
+        [
+          "SVC-CPFN",
+          "CPF Nomination",
+          0.657
+        ],
+        [
+          "nywYq9hc",
+          "Application for Deceased's Unnominated CPF Monies",
+          0.631
+        ],
+        [
+          "SNSS",
+          "Special Needs Savings Scheme (SNSS)",
+          0.63
+        ],
+        [
+          "HPS",
+          "Home Protection Scheme (HPS)",
+          0.535
+        ],
+        [
+          "DPS",
+          "Dependant's Protection Scheme (DPS)",
+          0.5
+        ]
+      ],
+      "rank_of_first_match": 2,
+      "rerank_scores": [
+        0.912,
+        0.897,
+        0.837,
+        0.815,
+        0.74
+      ]
+    },
+    {
+      "query": "I live in a private house, not HDB, and want subsidy for senior-friendly fittings like grab bars",
+      "expected": [
+        "nzWStXJo"
+      ],
+      "top_results": [
+        [
+          "nzWStXJo",
+          "Enhancement for Active Seniors (Private Housing): EASE (Private)",
+          0.751
+        ],
+        [
+          "EASE",
+          "Enhancement for Active Seniors (EASE)",
+          0.651
+        ],
+        [
+          "SL-TR-FLEXI",
+          "Short-lease 2-room Flexi Flats",
+          0.596
+        ],
+        [
+          "CCA",
+          "Community Care Apartments (CCAs)",
+          0.615
+        ],
+        [
+          "9kUw7c5Q",
+          "Enhanced Climate Friendly Households Programme (Climate Vouchers)",
+          0.472
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.966,
+        0.912,
+        0.854,
+        0.835,
+        0.665
+      ]
+    },
+    {
+      "query": "I am still working and earning a salary, is there tax relief just for that?",
+      "expected": [
+        "oS6OeT45"
+      ],
+      "top_results": [
+        [
+          "oS6OeT45",
+          "Earned Income Relief",
+          0.549
+        ],
+        [
+          "3KmPKHA7",
+          "Working Mother's Child Relief (WMCR)",
+          0.603
+        ],
+        [
+          "sygrV7iy",
+          "Tax Reliefs",
+          0.527
+        ],
+        [
+          "cVyhpH3s",
+          "Grandparent Caregiver Relief (GCR)",
+          0.528
+        ],
+        [
+          "XPg2wTUs",
+          "Qualifying Child Relief (QCR)/Child Relief (Disability)",
+          0.49
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.775,
+        0.762,
+        0.725,
+        0.708,
+        0.691
+      ]
+    },
+    {
+      "query": "Is there a mental health team near my home that I can approach for help?",
+      "expected": [
+        "SVC-COTC",
+        "oWweAQMH"
+      ],
+      "top_results": [
+        [
+          "SVC-COTC",
+          "Community Outreach Teams (CREST)",
+          0.636
+        ],
+        [
+          "oWweAQMH",
+          "Community Mental Health Services",
+          0.67
+        ],
+        [
+          "YIT",
+          "Youth Integrated Team (YIT)",
+          0.678
+        ],
+        [
+          "VelRMbGu",
+          "Mental Health GP Partnership/ Polyclinic",
+          0.486
+        ],
+        [
+          "ceeJSWE0",
+          "Counselling (Seniors)",
+          0.447
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.784,
+        0.761,
+        0.74,
+        0.642,
+        0.605
+      ]
+    },
+    {
+      "query": "I support my disabled brother financially, is there tax relief for that?",
+      "expected": [
+        "U3ip0GiR",
+        "sygrV7iy"
+      ],
+      "top_results": [
+        [
+          "U3ip0GiR",
+          "Sibling Relief (Disability)",
+          0.745
+        ],
+        [
+          "sygrV7iy",
+          "Tax Reliefs",
+          0.679
+        ],
+        [
+          "TAX_RELIEF_CAREGIVERS_DISABLED",
+          "Parent Relief/Parent Relief (Disability)",
+          0.637
+        ],
+        [
+          "nO5dmWvA",
+          "Spouse Relief/Spouse Relief (Disability)",
+          0.59
+        ],
+        [
+          "oS6OeT45",
+          "Earned Income Relief",
+          0.574
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.87,
+        0.843,
+        0.825,
+        0.813,
+        0.795
+      ]
+    },
+    {
+      "query": "Is there a website that helps me search and apply for jobs easily?",
+      "expected": [
+        "tmyOMyke"
+      ],
+      "top_results": [
+        [
+          "tmyOMyke",
+          "MyCareersFuture",
+          0.64
+        ],
+        [
+          "uX75MUE0",
+          "GRaduate Industry Traineeships @Gov (GRIT@Gov)",
+          0.385
+        ],
+        [
+          "SKILLS-ADVISORY",
+          "Career and Skills Advisory",
+          0.416
+        ],
+        [
+          "JOBSKLINT",
+          "Jobs-Skills Integrators",
+          0.542
+        ],
+        [
+          "SKILLSFUTURE-ADVICE",
+          "SkillsFuture Advice",
+          0.492
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.752,
+        0.569,
+        0.535,
+        0.513,
+        0.496
+      ]
+    },
+    {
+      "query": "How do I get a monthly payout for the rest of my life from my CPF when I retire?",
+      "expected": [
+        "LEASE_BUYBACK",
+        "wEfmIVLx"
+      ],
+      "top_results": [
+        [
+          "wEfmIVLx",
+          "CPF LIFE",
+          0.799
+        ],
+        [
+          "VSj0VliA",
+          "Retirement Sum Topping-Up Scheme",
+          0.554
+        ],
+        [
+          "RLE",
+          "Withdrawal of CPF Savings on Reduced Life Expectancy",
+          0.511
+        ],
+        [
+          "LEASE_BUYBACK",
+          "Lease Buyback Scheme",
+          0.567
+        ],
+        [
+          "SHB",
+          "Silver Housing Bonus (SHB)",
+          0.598
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.92,
+        0.88,
+        0.87,
+        0.862,
+        0.855
+      ]
+    },
+    {
+      "query": "I lost my job and need some financial help while I look for a new one",
+      "expected": [
+        "COMCARE-SMTA",
+        "wpGyuJUN"
+      ],
+      "top_results": [
+        [
+          "wpGyuJUN",
+          "SkillsFuture Jobseeker Support Scheme",
+          0.377
+        ],
+        [
+          "COMCARE-SMTA",
+          "ComCare Assistance",
+          0.43
+        ],
+        [
+          "CCPIND",
+          "Career Conversion Programme (CCP) for Individuals",
+          0.347
+        ],
+        [
+          "tmyOMyke",
+          "MyCareersFuture",
+          0.354
+        ],
+        [
+          "zQnhRFwq",
+          "Hospital-to-Work Transition Programme",
+          0.371
+        ]
+      ],
+      "rank_of_first_match": 1,
+      "rerank_scores": [
+        0.804,
+        0.75,
+        0.672,
+        0.587,
+        0.583
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "iO9WdkX4",
+    "type": "service",
+    "title": "Counselling",
+    "description": "Provides counselling and psychotherapy to individuals, couples and families facing interpersonal, intrapersonal, and mental health issues. ",
+    "url": "https://supportgowhere.life.gov.sg/services/iO9WdkX4",
+    "keywords": [
+      "Counselling",
+      "Families"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-08-31T06:08:40.105Z",
+    "sections": {
+      "About this support": "**Counselling and therapy services include:**\n\n- Family Therapy\n- Couple/Marital Therapy\n- Individual Psychotherapy\n- Pre-marital counselling and marriage preparation\n- Counselling on sexuality and sexual issues\n- Counselling and therapy sessions can be conducted in-person or online via Zoom.\n\n**Helplines:**\n\n- Care Corner Counselling Centre also runs a toll-free Mandarin Counselling Hotline at 1800 353 5800 daily from 10am to 10pm, excluding public holidays.\n- SAMH Insight Centre also provides a toll-free helpline at 1800 287 7019 (9am to 6pm on weekdays, except 1pm to 2pm and public holidays).",
+      "Who is this for?": "Individuals, couples and families with issues such as:\n\n- Marital and relationship issues\n- Family and parenting issues\n- Grief and loss\n- Mental health\n- Personal challenges\n- Stress\n- Trauma",
+      "How to apply?": "For enquiries or appointment booking, call or email the respective service provider.",
+      "What to expect?": "- The service provider will assess the request for counselling and ask your presenting issues and preferred day/time for the counselling and arrange a slot for you accordingly.\n- The staff will also provide information on the fees.\n- Counselling intake and assessment is conducted at the first appointment and the client will see the same counsellor for the subsequent sessions until the case is closed or transferred.\n- If counselling is not suitable, the counsellor may refer you to other appropriate services.\n- A counselling session takes around 1 hour.\n- Most issues will need more than 1 counselling session to resolve.\n- Fees payable for all service providers except SAMH Insight Centre."
+    }
+  },
+  {
+    "id": "ceeJSWE0",
+    "type": "service",
+    "title": "Counselling (Seniors)",
+    "description": "Provides counselling to older persons aged 50 and above and/or their caregivers, to improve their mental well-being and resilience to cope with life’s challenges. ",
+    "url": "https://supportgowhere.life.gov.sg/services/ceeJSWE0",
+    "keywords": [
+      "Counselling",
+      "Seniors"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-08-31T03:36:02.394Z",
+    "sections": {
+      "About this support": "- Gerontological counselling provides an avenue for seniors and their caregivers to discuss their issues and concerns and help to address their personal, social or psychological challenges.\n- Individual and group counselling available.\n- Counselling can be provided at the counselling centre or at their own home if necessary.",
+      "Who is this for?": "Persons aged 50 years old and above with issues and concerns such as:\n\n- Grief and loss\n- Loneliness/isolation\n- Depression\n- Stress and anxiety\n- Relationship problems\n- Difficulty adjusting to transitions and changes (e.g. retirement, ‘empty nest’ syndrome, onset of illnesses)\n\nFamily members/caregivers who experience stress caring for their elderly loved ones who are experiencing the above-mentioned concerns can also be supported.\n\nHua Mei Centre for Successful Ageing also provides individual and group coaching in emotion management, inter-generational relationship-building and communication skills.",
+      "How to apply?": "For enquiries or appointment booking, call or email the respective service provider.",
+      "What to expect?": "- The counselling centre will arrange an appointment for you with a professional counsellor who will assess your needs and advise if counselling is able to meet your needs.\n- If counselling is not suitable, the counsellor will refer you to other appropriate services.\n- A counselling session takes around 1 to 1.5 hours.\n- Most issues will need more than 1 counselling session to resolve.\n- Fees payable for Hua Mei Centre for Successful Ageing and O’Joy Limited."
+    }
+  },
+  {
+    "id": "ngaAPNbH",
+    "type": "service",
+    "title": "Life! Mentors",
+    "description": "A 5-8 year mentoring programme that supports children (6-13 years old) a fair chance to succeed in life. ",
+    "url": "https://supportgowhere.life.gov.sg/services/ngaAPNbH",
+    "keywords": [
+      "Education",
+      "Mentoring"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Healthcare and well-being",
+      "Mental health"
+    ],
+    "profiles": [
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-31T02:47:16.164Z",
+    "sections": {
+      "About this support": "The programme core services includes\n\n- 1-1 mentoring\n- Group mentoring\n- Family bonding activities",
+      "Who is this for?": "Singapore citizens/ Singapore PRs aged 6 – 13 years old from vulnerable backgrounds (e.g. ComLink+ families, parental incarceration, referral from school counsellors).",
+      "How to apply?": "Walk in to any of  Life Community Services Society centres or referral by school counsellors or fill in the online contact form (https://life-community.org/contact-us/)",
+      "What to expect?": "Programme staff will conduct intake and needs assessment within one month of the referral. For higher needs and urgent cases, it will be conducted within two weeks. Programme staff will contact the caregiver via phone call or text messages to introduce the programme, share the online intake form, and arrange a home visit."
+    }
+  },
+  {
+    "id": "DAL4e5J1",
+    "type": "scheme",
+    "title": "Medical Fee Exemption Card (MFEC)",
+    "description": "Subsidised standard medical treatment for needy residents at approved stay-in care institutions. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/DAL4e5J1",
+    "keywords": [
+      "Counselling",
+      "Intervention and Therapy",
+      "Social-emotional Support"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Healthcare and well-being",
+      "Mental health"
+    ],
+    "profiles": [
+      "Low-income"
+    ],
+    "highlights": [
+      "Subsidies standard medical care for eligible stay-in care recipients"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-08-27T10:06:21.855Z",
+    "sections": {
+      "About this support": "Provides subsidised standard medical treatment for eligible stay-in care recipients at government or restructured hospitals, polyclinics and approved Community Care Services.",
+      "Who is this for?": "- Singapore Citizen (SC), Permanent Resident (PR) or stateless person with valid ICA documentation\n- Subsidised resident living in an approved MOH-funded institutions\n- Must meet the means-test criteria for MFEC",
+      "How to apply?": "You can approach the medical social worker in the institution your loved one is staying in. They will help your loved one to apply for the card.",
+      "Where to go": "[Visit the AIC Link branch nearest to you](https://www.aic.sg/Contact-Us#map)",
+      "Agency website": "[View more details](https://www.aic.sg/Financial-Assistance/Medical-Fee-Exemption-Card)",
+      "Email / Form": "[Submit an enquiry](mailto:enquiries@aic.sg)",
+      "Phone number": "AIC hotline: [1800 650 6060](tel:18006506060)\n\nCalls from the AIC Hotline may be reflected as 6650 6060 on your caller ID."
+    }
+  },
+  {
+    "id": "SVC-MFCM",
+    "type": "service",
+    "title": "MightyKids, Families & Community (MightyKFC)",
+    "description": "MightyKFC is a developmental mentoring programme that aims to nurture at-risk children and youth in the Telok Blangah region.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-MFCM",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Mental health",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 6,
+    "max_age": 14,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-26T04:01:43.962Z",
+    "sections": {
+      "About this support": "MightyKFC is a developmental mentoring programme with the following service components:\n\n- Centre based activities\n- Life skills workshops\n- Individual mentoring\n- Community service\n- Parent-child bonding session",
+      "Who is this for?": "- MightyKFC’s client group is latchkey children and youth from the lower income group, aged 4 – 16 years old.\n- MightyKFC targets children and youth who primarily reside or study in schools in the Telok Blangah region.",
+      "How to apply?": "You may:\n\n- Walk into the centre\n- Email to [mkfc@life-community.org](mailto:mkfc@life-community.org)\n- Call the centre at [62707198](tel:62707198)",
+      "What to expect?": "- An intake interview will be arranged to register for the programme.\n- Upon successful registration, services will be provided to the service users for the duration of the programme at the activity centre."
+    }
+  },
+  {
+    "id": "SVC-LOBTCS",
+    "type": "service",
+    "title": "Live On!",
+    "description": "Year-long, family-centric psychological intervention for youths with high suicide risk as they transit from hospitalisation into the community.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-LOBTCS",
+    "keywords": [
+      "Free",
+      "Referral required",
+      "Suicide Intervention"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 12,
+    "max_age": 18,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-25T10:01:53.310Z",
+    "sections": {
+      "About this support": "- LiveOn! is a 1-year high frequency and intensive suicide intervention programme that targets youths aged 12 to 18 years old with suicidality risk, and includes their family members in the intervention.\n- Objectives of the programme includes:\n  - Providing immediate support to youths with suicidal thoughts or attempts in the community\n  - Providing continuous community support for youths and the families once they are discharged from primary care institutions\n  - De-escalating youths' emotions and strengthening family support through individual and family counselling",
+      "Who is this for?": "- 12 to 18 years old youths who have been discharged from IMH due to suicidality.",
+      "How to apply?": "- This programme is only eligible for youths who have been discharged by IMH, KKH, NUH, and other public hospitals due to suicidality, and have been assessed by a clinician to be eligible for referral.\n- Call the TOUCHline (1800 377 2252, 9am to 6pm from Monday to Friday) or email [mentalhealth@touch.org.sg](mailto:mentalhealth@touch.org.sg) if you do not have a hospital referral but still require support.\n- If you are suicidal and require immediate support, call Samaritans of Singapore (SOS) at 1767.",
+      "What to expect?": "This programme consists of individual counselling for the youths, as well as family sessions.\n\n**Individual sessions (for the youth)**\n\n- In the Acute phase, the youth will meet with the social worker / counsellor / psychologist weekly for 6 to 12 sessions to de-escalate emotions.\n- In the Continuation phase, the youth will meet with the social worker / counsellor / psychologist twice a month, for another 5 to 12 sessions.\n- In the Maintenance phase after the above is completed, the youth will remain in contact with the caseworker through calls and text messages for 3 to 6 months for continuous support and monitoring . If youths relapse, an assessment will be conducted and the case will be re-opened.\n\n**Family sessions (for the caregivers of the youth)**\n\n- Meet with the social worker / counsellor twice a month from the start of the programme for 4 to 6 sessions to learn skills on how to support the youth better, which includes safety planning and crisis management School counsellors will also be contacted, with client and parental consent."
+    }
+  },
+  {
+    "id": "S8Qtkqge",
+    "type": "service",
+    "title": "Rise to Wellness - Integrated Wellness Recovery Programme (RTW-I)",
+    "description": "RTW-I is an integrated, structured wellness recovery programme which aims to improve and sustain the mental health recovery of persons with mental health condition (PMHCs) and/or addiction issues",
+    "url": "https://supportgowhere.life.gov.sg/services/S8Qtkqge",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Mental health"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-25T08:15:40.668Z",
+    "sections": {
+      "About this support": "The programme consists of:\n\n- Peer Support Groups\n- Anonymous Groups\n- Recovery talks/workshops/activities\n- Befriending\n- 1-to-1 peer support\n- Counselling/therapy (on a needs basis)\n- Coaching\n- Short-term crisis respite",
+      "Who is this for?": "Singaporean residents, 18 years old and above, either current or new members of PSALT Care, with a formal diagnosis of a mental health condition (self-declaration). Individuals who do not have a formal diagnosis but are interested to receive RTW-I services will be assessed by PSALT Care staff, clinicians or collaboration partner.",
+      "How to apply?": "For further queries:\n•  WhatsApp: +65 6205 5538; 9628 5608\n•  Email: [support@psaltcare.com](mailto:support@psaltcare.com)\n•  Website: [www.psaltcare.com.sg](http://www.psaltcare.com.sg)",
+      "What to expect?": "RTW-I is a 9 to 12 months programme and you will be paired with a dedicated supporter who will journey with you 1-to-1 to understand your recovery needs and recommend curated recovery resources to benefit you. Together, you'll make a personal wellness recovery plan to chart your progress, while there will be opportunities to take part in activities that support and empower your recovery, while strengthening your sense of social connection, inclusion and overall wellbeing."
+    }
+  },
+  {
+    "id": "34sPdG1b",
+    "type": "service",
+    "title": "grovve",
+    "description": "An integrated, youth-centric wellness centre offering a safe space where young people aged 12 to 25 can seek mental health support.",
+    "url": "https://supportgowhere.life.gov.sg/services/34sPdG1b",
+    "keywords": [
+      "Resources and Support",
+      "Social-emotional Support",
+      "Students"
+    ],
+    "domains": [
+      "Caregiving support",
+      "Counselling and crisis support",
+      "Mental health"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-25T07:16:06.175Z",
+    "sections": {
+      "About this support": "- A welcoming space where youths aged 12 to 25 can hang out and access mental health support.\n- An on-site concierge manages basic support needs for youths and their caregivers.\n- For those requiring more in-depth support such as counselling or case management, a range of services are available through on-site partner organisations.\n- Scheduled activities are also organised within the space to engage youths and caregivers.",
+      "Who is this for?": "Youths aged 12 to 25 and their caregivers",
+      "How to apply?": "Walk in during opening hours or get in touch with grovve via WhatsApp at https://mindline.sg/grovve/about/visit.",
+      "What to expect?": "Youths can drop by Grovve anytime during opening hours and speak to a concierge staff member.\n\n- Staff will take time to get to know each youth better, whether through conversation or questionnaires, to understand how best to support them.\n- Where further support is needed, youths and their caregivers may be referred to the relevant on-site partner organisations."
+    }
+  },
+  {
+    "id": "zrAAc6BN",
+    "type": "service",
+    "title": "Healthy with KIDSTART",
+    "description": "Support lower income families with Singapore Citizen children aged up to 6 years old with fresh produce packs. ",
+    "url": "https://supportgowhere.life.gov.sg/services/zrAAc6BN",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Caregiving support",
+      "Counselling and crisis support",
+      "Mental health"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-08-25T07:11:45.618Z",
+    "sections": {
+      "About this support": "Healthy with KidSTART was designed intentially to plug the intersection of early childhood nutritional needs and to support families with doorstep delivery to alleviate the logistical stress. Fresh produce packs will be delivered monthly to onboard KidSTART families to:\n\n- Introduce to parents the importance of early childhood nutrition and impact their desire to establish good and healthy eating habits in their children from young.\n- Seed the appreciation of a variety of healthy produce early for children and encourage future healthy eating habits.\n- Improve accessibility of fresh produce for onboarded families of fresh produce for onboarded families.",
+      "Who is this for?": "- Singapore Citizen children aged up to 6 years old\n- Low-income household (i.e., household income of <= $2,500 or per capital monthly income of <=$650)The Healthy with KidSTART programme is for KidSTART families only. If interested in the programme, please enquire with  KidSTART practitioners on how you can sign up for the programme.",
+      "How to apply?": "The Healthy with KidSTART programme is for KidSTART families only. If interested in the programme, please enquire with KidSTART practitioners on how you can sign up for the programme.",
+      "What to expect?": "- Fresh produce packs filled with fresh fruits and vegetables\n- Recipe cards featuring nutritious dishes that are easy to prepare for the entire family\n- Invitation to cooking demonstration workshops by celebrity chefs and events\n- Healthy plate that guides you to prepare better portioned meals for your children"
+    }
+  },
+  {
+    "id": "SVC-SLFS",
+    "type": "service",
+    "title": "Sober Living Framework (SLF)",
+    "description": "Provides crisis intervention, therapy support, and long-term aftercare for persons and families impacted by substance and/or behavioural addictions. ",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SLFS",
+    "keywords": [
+      "Addiction",
+      "Fees payable"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 10,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-08-25T03:43:23.976Z",
+    "sections": {
+      "About this support": "The SLF comprises intervention tracks for addicted persons or Significant Other Persons (SOP; includes kin and family members, partner, close friends, guardian) at 5 different stages of needs:\n\n- Track 1: Outreach, Education and Awareness – to raise awareness of addictions and advocate for early intervention\n- Track 2: Relapse Prevention and Extended Care – individual and group counselling, family support, self-help support group\n- Track 3: Sober Living – for persons in the early remission phase with less than 6 months sobriety from addictive behaviour\n- Track 4: Maintenance – for persons with at least 6 months sobriety\n- Track 5: For Family/SOP – individual and group counselling, support group\n\nNote: Not all participants will enter and complete each track in a linear order.",
+      "Who is this for?": "All services are open to Singapore Citizens and persons residing in Singapore who are:\n\n- Assessed to have a present or past addiction issue (including drugs, alcohol, compulsive gambling, shoplifting, sex, porn use and gaming), with the expressed desire to seek help or,\n- Currently impacted by the addiction of a loved one.\n\nFor addiction treatment:\n\n- Services are provided to all persons aged 14 and above\n\nFor family counselling:\n\n- Support is provided to individuals aged 10 and above\n\nFor outreach programmes:\n\n- Conducted for individuals aged 14 and above\n\nThose who are under the age of 16 must be accompanied by a parent, guardian or authorised adult.",
+      "How to apply?": "You may contact WE CARE for more information. Alternatively, WE CARE also accepts referrals through other agencies (e.g. State Courts, MSF, Prisons, family service centres, hospitals, other social service agencies).",
+      "What to expect?": "The intake and assessment process involves an interview where the person’s motivation is assessed and their readiness, reasons and desire for change are explored.\n\n- For persons who are assessed to be ambivalent about stopping their addictive behaviour, brief therapy will be conducted, with the primary goal of engaging with the person such that they will return for help in the future when ready for change.\n- For persons who are assessed to be highly motivated for change, they will be recommended to seek medical detoxification (if necessary), or directly assigned to the relevant track."
+    }
+  },
+  {
+    "id": "SVC-OHV",
+    "type": "service",
+    "title": "Our HEALing Voice",
+    "description": "To provide a structured platform to empower clients to share their lived experience and provide peer mentoring to support others.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-OHV",
+    "keywords": [
+      "Social-emotional Support"
+    ],
+    "domains": [
+      "Mental health"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 16,
+    "max_age": 100,
+    "cost": "PAID",
+    "info_last_updated": "2026-08-25T01:16:59.344Z",
+    "sections": {
+      "About this support": "Structured 12 session training to equip clients with the skills to share their lived experience and provide peer mentoring/support to other peers.",
+      "Who is this for?": "Recovered Persons with Mental Health Conditions (PMHCs); Individuals with no formal diagnosis of mental health condition(s) but exhibit signs and symptoms of mental health conditions that are assessed to be mild, manageable, and stable.",
+      "How to apply?": "Clients may be referred by healthcare professionals, social workers or come in through self-referral.\n\nFor self-referral:\nOHV contact number - 9113 8052\nOHV email - [ourhealingvoice@clubheal.org.sg](mailto:ourhealingvoice@clubheal.org.sg)",
+      "What to expect?": "Structured 12 session training to equip clients with the skills to share their lived experience and provide peer mentoring/support. Clients who completed OHV programme can join the OHV network to share their lived experience at Club HEAL’s outreach platforms and/or provide peer support to other PMHCs/individuals in distress."
+    }
+  },
+  {
+    "id": "54sFPLUr",
+    "type": "service",
+    "title": "Addiction Support Programme for Inclusion, Recovery, and Empowerment (ASPIRE)",
+    "description": "For individuals aged 10 and above who have a present or past addiction issue (including gaming, compulsive gambling, shoplifting, drugs, alcohol, sex and porn use) or are currently impacted by the addiction of a loved one.",
+    "url": "https://supportgowhere.life.gov.sg/services/54sFPLUr",
+    "keywords": [
+      "Addiction",
+      "Counselling"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Healthcare and well-being",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "OTHERS",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-08-24T07:07:19.075Z",
+    "sections": {
+      "About this support": "Addiction Support Programme for Inclusion, Recovery and Empowerment (ASPIRE) provides screening, intake, assessment, and intervention, for persons and families impacted by addictions, particularly behavioural addictions. It provides professional community therapeutic services that contributes to the community integration of persons and families affected by addictions.",
+      "Who is this for?": "Singapore citizens and persons residing in Singapore who are:\n\n1. assessed to have a present or past addiction issue (including gaming, compulsive gambling, shoplifting, drugs, alcohol, sex and porn use), with the expressed desire to seek help OR\n2. currently impacted by the addiction of a loved one.",
+      "How to apply?": "You may call, walk-in, or email our various agencies for requests on counselling. You may also be referred from other organisations and services. Information about the Addiction Support Service is available via the agencies’ website and brochures.",
+      "What to expect?": "Individuals who seek help can expect in-person and virtual counselling. These can take place via individual sessions, family sessions or group sessions. If referred, individuals are screened for service eligibility within 3 weeks after case is allocated/assigned."
+    }
+  },
+  {
+    "id": "SVC-FVSCF",
+    "type": "service",
+    "title": "Protection Specialist Centre (PSC)",
+    "description": "Provides services for individuals and families experiencing family violence, intimate partner violence or sexual violence.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-FVSCF",
+    "keywords": [
+      "Abuse, neglect & violence",
+      "Free"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-07-30T06:02:41.373Z",
+    "sections": {
+      "About this support": "Protection Specialist Centres (PSC) provide a holistic range of socio-emotional, supportive and practical services to survivors, including their families and other vulnerable members in the family in order to address the danger and likelihood of future harm posed to the survivors and meet the survivors’ needs.\n\nServices provided include:\n\n- Casework\n- Counselling\n- Application of personal protection orders",
+      "Who is this for?": "- Survivors of family violence, intimate partner violence or sexual violence\n- Persons who abuse\n- Vulnerable family members who are witnesses of abuse or neglect/self-neglect.",
+      "How to apply?": "You may refer to the Service Providers section and call or email any of the centres for assistance.\n\n**Care Corner Project StART** \n[6476 1482](tel:64761482)\n[projectstart@carecorner.org.sg](mailto:projectstart@carecorner.org.sg) \n[Website](https://www.carecorner.org.sg/family-violence-protection)\n\n**TRANS SAFE Centre** \n[64499088](tel:64499088) \n[transsafe@trans.org.sg](mailto:transsafe@trans.org.sg) \n[Website](https://www.trans.org.sg/services/family-violence-protection-sexual-violence-recovery/)\n\n**PAVE Integrated Services for Individual and Family Protection Specialist Centre (ISIFPSC)** \nFor both family violence and child protection \n[65550390](tel:65550390) \n[intake@pave.org.sg](mailto:intake@pave.org.sg) \n[Website](https://www.pave.org.sg)",
+      "What to expect?": "- Clients who approach or are referred to the centres will undergo an interview where caseworkers will assess the client’s needs.\n- Appropriate information, referral and/or services will then be provided."
+    }
+  },
+  {
+    "id": "oWweAQMH",
+    "type": "service",
+    "title": "Community Mental Health Services",
+    "description": "Community mental health teams located across Singapore provide support and access to mental health care for those in need. ",
+    "url": "https://supportgowhere.life.gov.sg/services/oWweAQMH",
+    "keywords": [
+      "Counselling",
+      "Intervention and Therapy",
+      "Social-emotional Support"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Caregiving",
+      "Caregiving support",
+      "Counselling and crisis support",
+      "Disability support",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-07-27T08:15:02.870Z",
+    "sections": {
+      "About this support": "Mental health support services are offered by over 100 community mental health teams islandwide, with at least 1 team in every neighbourhood. These teams serve as the first stop for in-person mental health support.",
+      "Who is this for?": "Anyone aged 12 and above, and in need of mental health support.",
+      "How to apply?": "- Visit the [AIC’s website](https://www.aic.sg/Care-Services/Community-Mental-Health-Services) to search for service providers by** **postal code, address or your device’s current location.\n- Contact the team directly for an appointment.\n\nFor further assistance, you can contact AIC via the hotline[1800 650 6060](tel:18006506060) or [submit an enquiry](mailto:enquiries@aic.sg).\n\n- Airtime charges apply for mobile calls to 1800 service lines. Calls are free of charge only if made from regular land lines in Singapore.\n- Calls from AIC Hotline may be reflected as 6650 6060 on your caller ID.",
+      "What to expect?": "- Every visit is strictly confidential.\n- Trained care professionals in each team will help identify your needs, develop a personalised care plan and provide support such as counselling and therapy.\n- They can also help to escalate and make necessary referrals if needed."
+    }
+  },
+  {
+    "id": "VelRMbGu",
+    "type": "service",
+    "title": "Mental Health GP Partnership/ Polyclinic",
+    "description": "Partnership with General Practitioners (GPs) and polyclinics to provide care for both mental and physical health with a single GP or polyclinic.",
+    "url": "https://supportgowhere.life.gov.sg/services/VelRMbGu",
+    "keywords": [
+      "Intervention and Therapy",
+      "Seniors",
+      "Suicide Intervention"
+    ],
+    "domains": [
+      "Mental health"
+    ],
+    "profiles": [
+      "Seniors"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-07-10T06:23:17.444Z",
+    "sections": {
+      "About this support": "- Manage both your physical and mental health conditions with a single GP or polyclinic\n- Provides early identification, assessment, diagnosis, treatment, and stabilisation of mental health conditions and dementia at participating GP and polyclinics.\n- Works with community mental health teams who can provide support such as counselling and psychotherapy.",
+      "Who is this for?": "Anyone who prefers to have both their mental and physical health conditions managed by the same GP or polyclinic.",
+      "How to apply?": "Visit the [AIC’s website](https://www.aic.sg/Care-Services/Mental-Health-GP-Partnership-Polyclinic) to search for participating GPs and polyclinics by** **postal code, address or your device’s current location.\n\nFor further assistance, you can contact AIC via the hotline[1800 650 6060](tel:18006506060) or [submit an enquiry](mailto:enquiries@aic.sg).\n\n- Airtime charges apply for mobile calls to 1800 service lines. Calls are free of charge only if made from regular land lines in Singapore.\n- Calls from AIC Hotline may be reflected as 6650 6060 on your caller ID.",
+      "What to expect?": "- Costs will vary between clinics.\n- Singapore Citizens can use CHAS and Medisave for outpatient treatment at participating GPs and polyclinics."
+    }
+  },
+  {
+    "id": "Nqhtnjri",
+    "type": "service",
+    "title": "Cognitive Intervention Programme (CIP)",
+    "description": "Centre-based programme for seniors with mild to moderate dementia.",
+    "url": "https://supportgowhere.life.gov.sg/services/Nqhtnjri",
+    "keywords": [
+      "Dementia support",
+      "Seniors",
+      "Social-emotional Support"
+    ],
+    "domains": [
+      "Mental health"
+    ],
+    "profiles": [
+      "Seniors"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-07-10T06:22:59.098Z",
+    "sections": {
+      "About this support": "A weekly centre-based programme that helps seniors with dementia improve their cognitive functions and stay socially engaged, through:\n\n- Activities that simulate the brain and memory functions, e.g. word and memory games\n- Physical exercises, e.g. resistance training, silent disco, etc\n- Social group-based activities, e.g. art and music",
+      "Who is this for?": "- Singapore Citizen (SC) or Permanent Resident (PR)\n- Senior who is diagnosed by a doctor to have mild to moderate dementia and is suitable for group-based activities",
+      "How to apply?": "- Visit the [AIC’s website](https://www.aic.sg/Care-Services/Cognitive-Intervention-Programme) to search for service providers by** **postal code, address or your device’s current location.\n- Contact the service provider directly to find out more.\n\nFor further assistance, you can contact AIC via the hotline[1800 650 6060](tel:18006506060) or [submit an enquiry](mailto:enquiries@aic.sg).\n\n- Airtime charges apply for mobile calls to 1800 service lines. Calls are free of charge only if made from regular land lines in Singapore.\n- Calls from AIC Hotline may be reflected as 6650 6060 on your caller ID.",
+      "What to expect?": "- CIP runs for 7 weeks, with 3-hour sessions held twice a week.\n- Subsidies are available depending on the [means-test result](https://www.aic.sg/Care-Services/Cognitive-Intervention-Programme#faq).\n  - Only applicable to SCs and PRs\n- Transport to and from the centre and home is available at an additional cost."
+    }
+  },
+  {
+    "id": "Ic7eUpmo",
+    "type": "service",
+    "title": "Psychiatric Rehabilitation and Re-integration",
+    "description": "Long-term support for persons with stable, chronic mental health conditions who are in recovery.",
+    "url": "https://supportgowhere.life.gov.sg/services/Ic7eUpmo",
+    "keywords": [
+      "Seniors",
+      "Social-emotional Support",
+      "Suicide Intervention"
+    ],
+    "domains": [
+      "Mental health"
+    ],
+    "profiles": [
+      "Seniors"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-07-10T06:16:08.246Z",
+    "sections": {
+      "About this support": "Provides long-term support for persons in recovery to improve their quality of life and live in the community, such as:\n\n- Life skills training\n- Social and emotional rehabilitation\n- Recovery support (e.g. symptom management, follow-up appointments etc)\n- Psychological support (e.g. counselling, family engagement etc)\n- Assistance with job skills training and placements\n- Finding housing services",
+      "Who is this for?": "Anyone who is diagnosed by a doctor to have a stable and long-term mental health condition.",
+      "How to apply?": "- You can apply through the doctor you are currently receiving care from, as you will need to be assessed for the services required.\n- If you are interested to view a list of providers, visit the [AIC’s website](https://www.aic.sg/Care-Services/Psychiatric-Rehabilitation-and-Re-Integration).\n\nFor further assistance, you can contact AIC via the hotline[1800 650 6060](tel:18006506060) or [submit an enquiry](mailto:enquiries@aic.sg).\n\n- Airtime charges apply for mobile calls to 1800 service lines. Calls are free of charge only if made from regular land lines in Singapore.\n- Calls from AIC Hotline may be reflected as 6650 6060 on your caller ID.",
+      "What to expect?": "- Services are provided at either a stay-in facility or a day centre.\n- Subsidies are available depending on the [means-test](https://aic.sg/care-services/home-medical#faq) result.\n  - Only applicable for Singapore Citizens and Permanent Residents"
+    }
+  },
+  {
+    "id": "SVC-PHC",
+    "type": "service",
+    "title": "Home Palliative Care",
+    "description": "Support caregivers in caring for patients with life-limiting illnesses at home.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-PHC",
+    "keywords": [
+      "Caregiver support",
+      "Referral required"
+    ],
+    "domains": [
+      "Caregiving",
+      "Caregiving support",
+      "Disability support",
+      "Mental health"
+    ],
+    "profiles": [
+      "Seniors"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "PAID",
+    "info_last_updated": "2026-07-09T08:57:10.297Z",
+    "sections": {
+      "About this support": "Provides end-of-life care services to improve the quality of life for patients with life-limiting illness at home, supporting both patients and caregivers with:\n\n- Medical and nursing support to manage pain and symptoms\n- Emotional and social support\n- Caregiver training\n- Equipment loan\n- Advance Care Planning\n- Care coordination\n- 24/7 clinical services\n- Bereavement care",
+      "Who is this for?": "Home-bound patient diagnosed by a doctor to have an advanced life-limiting illness with a prognosis less than 1 year.",
+      "How to apply?": "- You can apply:\n  ·       Through the hospital, polyclinic or GP who is familiar with your loved one’s condition and needs\n  ·       At any of the [AIC Links](https://www.aic.sg/Contact-Us#map)\n  If you are interested to view the list of service providers, visit the [AIC’s website](https://www.aic.sg/Care-Services/Home-Palliative-Care).\n  For further assistance, you can contact AIC via the hotline[1800 650 6060](tel:18006506060) or [submit an enquiry](mailto:enquiries@aic.sg).\n  Airtime charges apply for mobile calls to 1800 service lines. Calls are free of charge only if made from regular land lines in Singapore.\n  - Calls from AIC Hotline may be reflected as 6650 6060 on your caller ID.",
+      "What to expect?": "Charges may apply. Please check with the service provider."
+    }
+  },
+  {
+    "id": "SVC-SSCIP",
+    "type": "service",
+    "title": "SOS Suicide Crisis Intervention Programme",
+    "description": "Provides confidential emotional support to individuals facing a crisis, thinking about suicide or affected by suicide through helpline, face to face in-person, and other support services.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SSCIP",
+    "keywords": [
+      "Free",
+      "Suicide Intervention"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-06-30T08:56:45.784Z",
+    "sections": {
+      "About this support": "SOS Suicide Crisis Intervention Programme comprises:\n\n- 24-hour Hotline\n- CareText\n- Intervention outcalls\n- Specialist counselling for individuals in crisis and persons grieving a suicide loss\n- Support groups for individuals with prior suicide attempts and active suicidality\n- The Programme serves self-referrals, as well as referrals from partner agencies (i.e. police, hospitals, social service agencies) and concerned third parties.",
+      "Who is this for?": "Persons at risk of suicide",
+      "How to apply?": "Reach out to SOS via the 24/7 Hotline: 1767; or CareText: WhatsApp 9151 1767.",
+      "What to expect?": "Clients can access SOS Hotline calling 1767, a 24-hour Hotline run by trained volunteers and staff. Depending on suicide risk, clients may be encouraged to seek immediate support from the hospitals (e.g. IMH), and/or receive community services or further counselling support at SOS. For callers with immediate suicide risk, SOS will activate their mobile crisis response team (\"Active Rescue\") to coordinate and deliver emergency intervention, led by a Crisis Support Supervisor on duty."
+    }
+  },
+  {
+    "id": "IloiKSsT",
+    "type": "service",
+    "title": "Lighthouse Project",
+    "description": "Provides psychotherapy, psychological assessment and case management for youths aged 12–25 with complex moderate to high mental health needs.",
+    "url": "https://supportgowhere.life.gov.sg/services/IloiKSsT",
+    "keywords": [
+      "Free",
+      "Referral required"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Mental health"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-06-30T07:59:54.720Z",
+    "sections": {
+      "About this support": "The Lighthouse Project aims to be a beacon of light that attracts and correctly directs youths (aged 12-25 years old) with complex moderate to high mental health needs to accessible and appropriate help by doing the following:\n\n- Provides psychotherapy (e.g. cognitive behavioural therapy) for youths with complex moderate to high mental health needs.\n- Conducts psychological assessments (e.g. UCLA PTSD scale) to evaluate and monitor clients.\n- Provides case management including referral to hospitals, case conferencing, and handholding into hospital-based treatment.\n- Right-sites youths requiring higher-tiered care into primary, secondary, or tertiary care using the therapeutic relationship built with Limitless practitioners.\n- Improves community standards of care through clinical supervision and training of partner organisations by Limitless' psychologists.",
+      "Who is this for?": "Youths aged 12-25 with moderate to high mental health needs.",
+      "How to apply?": "Clients need to be referred by service providers or restructured hospitals. Self-referrals are also accepted and assessed for eligibility.\n\nContact Limitless at *SCAPE, 2 Orchard Link, #04-06 grovve, Singapore 237978. Operating hours: Monday to Friday, 9am to 6pm.",
+      "What to expect?": "Clients would need to be referred to the programme. Lighthouse project staff would then make contact with the youth for assessment and basic emotional support. Youths may then be referred further. The duration and frequency of sessions would depend on clinician assessment."
+    }
+  },
+  {
+    "id": "VG22AnYD",
+    "type": "service",
+    "title": "The GRIT Academy",
+    "description": "Mentoring programme for youths-at-risk in Jurong. ",
+    "url": "https://supportgowhere.life.gov.sg/services/VG22AnYD",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Mental health",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-06-30T07:13:02.090Z",
+    "sections": {
+      "About this support": "The GRIT Academy (TGA) aims to provide individual mentoring support for youths-at-risk aged between 11 to 17 years old residing or studying in schools in Jurong; and serve as the primary relationship holder to follow through with the youths as they transit to other youth programmes.",
+      "Who is this for?": "The target clientele is youths-at-risk aged between 11 to 17 years old residing or studying in schools in Jurong (i.e. Jurong West, Jurong East and Taman Jurong).\n\nApplicants must fulfil at least one of the following criteria to be eligible for the programme:\n\n1. Youths who lack meaningful engagements such as those not attending Co-Curricular Activities, as well as youths who often loiter at public areas such as playgrounds and void decks.\n2. Youths with underprivileged background such as youths from low-income families, students receiving the MOE Financial Assistance Scheme and youths staying in rental flats.\n3. Youths exhibiting at-risk behaviour such as poor affiliation to schools, minor behavioural issues, socio-emotional issues and/or peer issues.",
+      "How to apply?": "Complete the form on https://lakeside.org.sg/our-services/the-grit-project/ and email it to [thegritproject@lakeside.org.sg](mailto:thegritproject@lakeside.org.sg).",
+      "What to expect?": "Screening for potential service users will take approximately 2 weeks from the referral/youth sign-up. Adjustment to the screening time frame will be considered based on the assessed urgency."
+    }
+  },
+  {
+    "id": "SVC-LOTSSL",
+    "type": "service",
+    "title": "Local Outreach to Suicide Survivors (LOSS)",
+    "description": "LOSS provides immediate and long-term emotional support to persons who have lost a loved one or someone they knew to suicide (\"suicide survivors\"), primarily through support groups, texts, phone calls, and counselling sessions. ",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-LOTSSL",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-06-30T07:05:37.123Z",
+    "sections": {
+      "About this support": "LOSS serves persons grieving a suicide loss, who include self-referrals, referrals from police, healthcare, and community partners, and concerned third parties.\n\nIt comprises:\n\n- Support groups for persons grieving a suicide loss, facilitated by SOS grief counselling specialists and trained volunteers with lived experience (\"Healing Companions\").\n- Additional emotional support through phone calls, text, and counselling sessions (where appropriate).",
+      "Who is this for?": "Persons grieving a suicide loss",
+      "How to apply?": "Reach out to SOS via the 24/7 Hotline: 1767; or CareText: WhatsApp 91511767.",
+      "What to expect?": "- When you reach out to SOS via call, text or email, SOS staff or trained volunteers will provide emotional support and if needed, encourage you to come for grief counselling and attend support groups subsequently for longer term support."
+    }
+  },
+  {
+    "id": "ECsnBwjK",
+    "type": "service",
+    "title": "SOS Care Text",
+    "description": "24/7 confidential text support for suicide prevention and crisis intervention, accessible to all but targeting at youths from the ages 10 to 29 years old with suicide risk.",
+    "url": "https://supportgowhere.life.gov.sg/services/ECsnBwjK",
+    "keywords": [
+      "Free"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-06-30T04:03:29.138Z",
+    "sections": {
+      "About this support": "Samaritans of Singapore (SOS) Care Text is dedicated to providing confidential emotional support to individuals facing a crisis, thinking about suicide or affected by suicide. This crisis intervention and suicide prevention work is done through text messaging.\n\nThis programme contributes to the identification of individuals who are suicidal or in crisis, initiation of early intervention and preventive measures, and connecting these individuals to appropriate resources where necessary\n\nThis programme is targeted at youths from the ages of 10 to 29 years old with suicide risk, but not limited to this group and anyone can access this service. Programme aims to reduce suicide risks for persons in distress through texting which is a preference for the youths. The SOS Care Text is available round-the-clock to anyone who requires emotional support and or is affected by suicide and complements the current SOS crisis hotline service. The text service is anonymous.",
+      "Who is this for?": "Targeted at youths aged 10 to 29 years old with suicide risk, but services are open to all users.",
+      "How to apply?": "CareText can be accessed via WhatsApp at 9151 1767.",
+      "What to expect?": "Clients can access CareText by texting in to WhatsApp 9151 1767. The 24-hour text messaging platform run by trained volunteers and professional staff. Depending on users' needs, they may be encouraged to seek immediate support from the hospitals (e.g. IMH), and/or receive community services or further counselling support at SOS. For texters with immediate suicide risk, SOS will activate their mobile crisis response team (\"Active Rescue\") to coordinate and deliver emergency intervention, led by a Crisis Support Supervisor on duty."
+    }
+  },
+  {
+    "id": "SVC-SY",
+    "type": "service",
+    "title": "SAMH Youthreach",
+    "description": "Provides psychosocial support and recovery programmes for youths aged 13 to 21 with emotional, psychological and psychiatric issues in the community.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SY",
+    "keywords": [
+      "Counselling",
+      "Free",
+      "Referral required"
+    ],
+    "domains": [
+      "Caregiving support",
+      "Counselling and crisis support",
+      "Education and learning",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 21,
+    "cost": "FREE",
+    "info_last_updated": "2026-06-30T03:21:50.450Z",
+    "sections": {
+      "About this support": "The programme staff work with youths and their families to minimise risk, promote safety and improve functioning.\n\nServices include:\n\n- Counselling Case Management\n- Family Psychoeducation Programme\n- Expressive Therapies\n- Psycho-social Activities",
+      "Who is this for?": "- Singapore Citizens or Permanent Residents aged 13 to 21 with emotional, psychological and/or psychiatric issues.\n- No recent history of violent behaviour, alcohol or substance abuse, or sexual acting out behaviour.\n- Willing to participate in the centre's activities.\n- Family is willing to participate in case management and family education programmes.",
+      "How to apply?": "Referral by a psychiatrist, school counsellor, or social worker using the SAMH referral form is required.",
+      "What to expect?": "- An intake interview with child/youth and caregiver will be arranged to assess suitability.\n- Upon successful registration, the child/youth and caregiver will be engaged for services including case management, psychoeducation and psychosocial development programmes."
+    }
+  },
+  {
+    "id": "zQnhRFwq",
+    "type": "scheme",
+    "title": "Hospital-to-Work Transition Programme",
+    "description": "Provides case management, rehabilitation and employment support for persons with acquired disability from accidents or medical conditions who are looking to return to work. ",
+    "url": "https://supportgowhere.life.gov.sg/schemes/zQnhRFwq",
+    "keywords": [
+      "Employment Support and Vocational Training",
+      "Jobseekers",
+      "PWDs"
+    ],
+    "domains": [
+      "Disability support",
+      "Mental health",
+      "Work and employment"
+    ],
+    "profiles": [
+      "Persons with disabilities"
+    ],
+    "highlights": [
+      "Provides employment assistance for persons with acquired disabilities",
+      "Personalised rehabilitation and training facilitation",
+      "1-1 case management services"
+    ],
+    "citizenship": null,
+    "min_age": null,
+    "max_age": null,
+    "cost": null,
+    "info_last_updated": "2026-05-21T09:08:53.799Z",
+    "sections": {
+      "About this support": "Jobseekers in the programme can get personalised career re-assessment, rehabilitation and job-matching services. Persons with disabilities who are already in employment can also benefit from job support services. A case manager will support you throughout your transition to work, providing the following services:\n\nRehabilitation\n\n- For clients requiring rehabilitation support, SG Enable collaborates with partner agencies such as SPD and ABLE to provide integrated rehabilitation and employment support services.\n\nCase management\n\n- Assessing the jobseeker’s strengths, job interests and skills, and identifying job options.\n- Facilitate psychosocial and community support through referrals, if needed.\n- Recommending relevant training courses, building resume and strengthening interview skills.\n- Assessing the nature of the job and its tasks for suitability.\n- Assessing the built environment for accessibility.\n- Working with employers to job redesign and recommend workplace modification, if needed.\n\nEmployment support\n\n- Vocational re-assessment, training coordination, job matching and placement, and on-site job coaching to help the new employee integrate into the workplace.",
+      "Who is this for?": "- Singapore Citizen or Permanent Resident\n- Above 16 years of age\n- Medically certified as fit for employment\n- Persons with a permanent acquired disability*^ based on any one of the following:\n  - Physical Disability: Requires some assistance with at least one of the six Activities of Daily Living due to physical impairment\n  - Moderate Visual Impairment or worse in the better eye\n  - Moderate Hearing Loss or worse in the better ear\n\n*If your condition does not fall under the categories listed above, you may still approach SG Enable for a discussion.\n\n^You can check if your disability status is verified on [SupportGoWhere ](https://supportgowhere.life.gov.sg/status/pwdr)by logging with your Singpass or contacting us at [H2W_SWW@sgenable.sg](mailto:H2W_SWW@sgenable.sg).",
+      "How to apply?": "**Preparation of documents**\n\nThe following supporting documents are required before making an application:\n\n- [Disability Verification Form (DVF)](https://www.enablingguide.sg/docs/default-source/default-document-library/disability-verification-form.pdf) (To be completed by a relevant registered healthcare professional)\n- [Fitness for Employment and Rehabilitation Form](https://www.enablingguide.sg/docs/default-source/default-document-library/h2w-fitness-for-employment-and-rehabilitation-form.pdf) (To be completed by a relevant registered healthcare professional)\n- [Hospital-to-Work Application Form](https://www.enablingguide.sg/docs/default-source/default-document-library/h2w-application-form.pdf) (For email/physical submissions only)\n- [OneMSF Omnibus Consent Form](https://www.enablingguide.sg/docs/default-source/default-document-library/onemsf-omnibus-consent-form_version-1-0.docx)\n- Copy of NRIC Front and Back\n\n** For persons with disabilities**:\n\n- Apply online via [SupportGoWhere](https://supportgowhere.life.gov.sg/grants/h2w/apply), or\n- Email [H2W_SWW@sgenable.sg](mailto:H2W_SWW@sgenable.sg) with the above completed supporting documents\n- Approach SG Enable’s Information and Career Centre, located within the Enabling Village, for assistance.\n\n** **\n\n**For Healthcare Professionals (HCP) **making referrals:\n\n- Apply online via [Partner Portal](https://partner.casecentral.gov.sg/), or\n- Email [H2W_SWW@sgenable.sg](mailto:H2W_SWW@sgenable.sg) with the above supporting documents filled and endorsed.",
+      "Where to go": "[20 Lengkok Bahru 159053](https://onemap.gov.sg/?postal=159053)\nEnabling Village",
+      "Agency website": "[View more details](https://enablingguide.sg/h2w)",
+      "Email / Form": "[H2W_SWW@sgenable.sg](mailto:H2W_SWW@sgenable.sg)",
+      "Phone number": "SG Enable hotline: [1800-8585-885](tel:1800-8585-885)\n\nAirtime charges apply for mobile calls to 1800 service lines. Calls are free of charge only if made from regular land lines in Singapore."
+    }
+  },
+  {
+    "id": "SVC-COTC",
+    "type": "service",
+    "title": "Community Outreach Teams (CREST)",
+    "description": "Listens to your concerns and provides support such as therapy, as your in-person First Stop for Mental Health.  ",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-COTC",
+    "keywords": [
+      "Caregiver support"
+    ],
+    "domains": [
+      "Active Ageing",
+      "Caregiving",
+      "Caregiving support",
+      "Counselling and crisis support",
+      "Disability support",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-02-24T08:01:31.821Z",
+    "sections": {
+      "About this support": "You can approach over 100 community mental health teams in the community islandwide such as CREST, providing the following support:\n\n- Promote early recognition of signs and symptoms of mental health conditions and/or dementia.\n- Improve mental health conditions and/or dementia literacy by organising targeted outreach events and activities to provide mental health and/or dementia information and education to residents and caregivers in the region.\n- Provide psychosocial intervention such as techniques to reduce the risk of escalation of mental health needs.\n- Provide collaborative and coordinated care for clients and caregivers through a case management approach.\n- Work in partnership with health and community care partners and key stakeholders to co-manage and support persons with mental health conditions and dementia in the community.\n\nThese community mental health teams are developed under the Community Mental Health Masterplan driven by the Agency for Integrated Care (AIC), together with the Ministry of Health (MOH). The teams are fully funded by the government and there is no out-of-pocket cost.",
+      "Who is this for?": "Any individual who is:\n\n- At risk of mental health conditions and/or dementia, and their caregivers\n- Aged 18 and above",
+      "How to apply?": "- Call or email the providers to make an appointment. Visit [AIC’s website](https://aic.sg/Care-Services/Community-Mental-Health-Services) to search for service providers by** **postal code, address or your device’s current location.\n- If you are already seeing a General Practitioner (GP) or Polyclinic doctor, you may approach them for support.",
+      "What to expect?": "- Applicants may need to fulfil the services’ in-take criteria and providers’ service boundaries, if any."
+    }
+  },
+  {
+    "id": "YIT",
+    "type": "service",
+    "title": "Youth Integrated Team (YIT)",
+    "description": "Provides community-based mental health assessment, therapeutic intervention, case management for youths with mild mental health conditions while monitoring and checking in with the youth before, during and after intervention has been provided.",
+    "url": "https://supportgowhere.life.gov.sg/services/YIT",
+    "keywords": [
+      "Caregiver support",
+      "Referral required"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2026-02-23T06:40:08.223Z",
+    "sections": {
+      "About this support": "You can approach over 100 community mental health teams in the community islandwide such as YIT, providing the following support:\n\n- Provide mental health assessments and support youths in understanding and identifying their care needs.\n- Provide coordinated person-centric care intervention and support for youths and their caregivers through providing assessments, therapeutic intervention and case management.\n- Engage community and healthcare partners to build a supportive environment for youths with mental health conditions through active collaboration and co-management of cases.\n- Facilitate the formation of supportive relationships with families and peers in the recovery journey of youths.\n\nThese community mental health teams are developed under the Community Mental Health Masterplan driven by the Agency for Integrated Care (AIC), together with the Ministry of Health (MOH). The teams are fully funded by the government and there is no out-of-pocket cost.",
+      "Who is this for?": "- Singapore Citizen or Permanent Resident\n- Youths at higher risk for mental health conditions, their families and their support systems.\n- Aged 12 to 25 years old",
+      "How to apply?": "- Call or email the providers to make an appointment. Visit [AIC’s website](https://aic.sg/Care-Services/Community-Mental-Health-Services) to search for service providers by** **postal code, address or your device’s current location.\n- If you are already seeing a General Practitioner (GP) or Polyclinic doctor, you may approach them for support.",
+      "What to expect?": "Applicants may need to fulfil the services’ in-take criteria and providers’ service boundaries, if any."
+    }
+  },
+  {
+    "id": "SVC-SFPFFF",
+    "type": "service",
+    "title": "Strengthening Families Programme (FAM)",
+    "description": "Provides divorce support and family counselling to all families.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-SFPFFF",
+    "keywords": [
+      "Counselling",
+      "Families",
+      "Marital and Divorce Support"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR",
+      "OTHERS"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "FREE",
+    "info_last_updated": "2025-11-07T03:04:44.274Z",
+    "sections": {
+      "About this support": "- Provides specialised services and programmes for families facing early signs of stress, as well as divorcing and divorced families.\n- These support services include marriage and divorce support programmes, and a family counselling service.\n- For Minor couples who are marrying, they are required to attend a complimentary mandatory Marriage Preparation Programme (MPrep - required by law) provided by the agency.\n- Young couples are also encouraged to attend the MPrep before they marry.",
+      "Who is this for?": "- Divorcing and divorced families\n- Families facing marital, parenting or intrapersonal issues\n- Individuals/couples below 21 years old need to seek parental or guardian (who is above 21 years old) consent.\n- Strengthening Families Programme (Fei Yue - Choa Chu Kang) and Strengthening Families Programme (Care Corner - Tampines) also provide marriage support for civil minor couples (either one or both parties under 18 years old), civil young couples (groom aged between 21 and 24, bride 21 & above), and transnational couples",
+      "How to apply?": "Apply through phone calls, emails, walk-in, or referrals by other agencies.",
+      "What to expect?": "- Individuals/couples can contact the agency to request for more information on services.\n- Agency worker will conduct an enquiry and intake assessment for suitability and appropriate services required."
+    }
+  },
+  {
+    "id": "SVC-FSCF",
+    "type": "service",
+    "title": "Family Service Centre (FSC)",
+    "description": "FSCs provide support for vulnerable individuals and families with social and emotional issues, and work towards stability, self-reliance and social mobility.",
+    "url": "https://supportgowhere.life.gov.sg/services/SVC-FSCF",
+    "keywords": [
+      "Resources and Support"
+    ],
+    "domains": [
+      "Counselling and crisis support",
+      "Family, parenting and relationships",
+      "Mental health"
+    ],
+    "profiles": [
+      "Families",
+      "Low-income",
+      "Persons with disabilities",
+      "Seniors",
+      "Vulnerable"
+    ],
+    "highlights": [],
+    "citizenship": [
+      "SG",
+      "PR"
+    ],
+    "min_age": 0,
+    "max_age": 150,
+    "cost": "NOMINAL",
+    "info_last_updated": "2025-09-17T05:51:36.151Z",
+    "sections": {
+      "About this support": "FSCs are community-based social services that provide support for vulnerable individuals and families with social and emotional issues. Social Work Practitioners at the FSCs provide case management support and also partner with other agencies to coordinate holistic support for clients to help them achieve stability, self-reliance, and social mobility.\n\nFSC services include:\n\n- Information and Referral: Providing information about social services, and linking individuals and families to appropriate social services and community resources based on the assessed needs\n- Casework: Providing holistic case management and individual/family counselling\n- Group Work: Bringing individuals and families with common needs together for purposeful group interactions to address their concerns and bring about positive change\n- Community Work: Tapping on community resources to help individuals and families support and empower one another.",
+      "Who is this for?": "FSCs are open to families and individuals:\n\n- Regardless of age, race, language or religion;\n- At different life stages (such as couples, families with young children, adolescents, or elderly members); and\n- Of various family structures",
+      "How to apply?": "Call, walk in or email the FSCs for help on family, socio-emotional, interpersonal or other social issues. \nTo find the FSC in your neighbourhood, you can call ComCare hotline at [1800 222 0000](tel:18002220000) or visit \nhttps://www.msf.gov.sg/our-services/directories.",
+      "What to expect?": "- Upon contact with a FSC, a FSC worker will assess the needs of the individual/family and determine the type of support needed.\n- If FSC services are required, the FSC will then work with the individual/family on their issues with the appropriate social work interventions.\n- If the FSC’s services are not required and other supportive services by other partners can help to meet these needs, the FSC worker will refer the individual/family to appropriate social services or community resources."
+    }
+  }
+]

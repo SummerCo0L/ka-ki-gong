@@ -1,0 +1,194 @@
+[
+  {
+    "area": "Ang Mo Kio",
+    "name": "Social Service Office @ Ang Mo Kio",
+    "address": "ServiceSG Centre Ang Mo Kio, 53 Ang Mo Kio Avenue 3, AMK Hub #04-02, Singapore 569933",
+    "postal_code": "569933",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Bedok",
+    "name": "Social Service Office @ Bedok",
+    "address": "21 Bedok North St 1 #01-02, Singapore 469659",
+    "postal_code": "469659",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Boon Lay",
+    "name": "Social Service Office @ Boon Lay",
+    "address": "NKF Integrated Renal Centre, 500 Corporation Road #01-01, Singapore 649808",
+    "postal_code": "649808",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Bukit Batok",
+    "name": "Social Service Office @ Bukit Batok",
+    "address": "Blk 369 Bukit Batok St 31 #01-505, Singapore 650369",
+    "postal_code": "650369",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Bukit Merah",
+    "name": "Social Service Office @ Bukit Merah",
+    "address": "Bukit Merah Community Hub, 3779 Jalan Bukit Merah #01-01, Singapore 159462",
+    "postal_code": "159462",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Bukit Panjang",
+    "name": "Social Service Office @ Bukit Panjang",
+    "address": "Blk 232 Pending Road #01-29, Singapore 670232",
+    "postal_code": "670232",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Clementi",
+    "name": "Social Service Office @ Clementi",
+    "address": "Blk 358 Clementi Ave 2 #01-285, Singapore 120358",
+    "postal_code": "120358",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Chua Chu Kang",
+    "name": "Social Service Office @ Chua Chu Kang",
+    "address": "8A Teck Whye Lane, Singapore 681008",
+    "postal_code": "681008",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Geylang Serai",
+    "name": "Social Service Office @ Geylang Serai",
+    "address": "10 Eunos Road 8, #12-02 Singapore Post Centre, Singapore 408600",
+    "postal_code": "408600",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Hougang",
+    "name": "Social Service Office @ Hougang",
+    "address": "Blk 662 Hougang Ave 4 #01-413, Singapore 530662",
+    "postal_code": "530662",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Jalan Besar",
+    "name": "Social Service Office @ Jalan Besar",
+    "address": "Jalan Besar Community Club, 69 Jellicoe Road, #01-03 Singapore 208737",
+    "postal_code": "208737",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Jurong East",
+    "name": "Social Service Office @ Jurong East",
+    "address": "Devan Nair Institute for Employment and Employability, 80 Jurong East Street 21, #01-07 Singapore 609607",
+    "postal_code": "609607",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Kreta Ayer",
+    "name": "Social Service Office @ Kreta Ayer",
+    "address": "Kreta Ayer Community Club, 28A Kreta Ayer Road, #01-03 Singapore 088995",
+    "postal_code": "088995",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Pasir Ris",
+    "name": "Social Service Office @ Pasir Ris",
+    "address": "120 Pasir Ris Central #01-16, Pasir Ris Sports Centre, Singapore 519640",
+    "postal_code": "519640",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Punggol",
+    "name": "Social Service Office @ Punggol",
+    "address": "ServiceSG Centre One Punggol, 1 Punggol Drive, #01-01, Singapore 828629",
+    "postal_code": "828629",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Queenstown",
+    "name": "Social Service Office @ Queenstown",
+    "address": "Block 40 Margaret Drive #02-01, Singapore 140040",
+    "postal_code": "140040",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Sembawang",
+    "name": "Social Service Office @ Sembawang",
+    "address": null,
+    "postal_code": null,
+    "remote_only": true,
+    "remarks": "From 24 Aug 2026, SSO @ Sembawang operates remotely with no walk-in service. Apply for ComCare assistance online via SupportGoWhere, or call the ComCare Hotline 1800-222-0000 (daily, 7am to midnight). For help resetting SingPass for an online application, visit the nearest ServiceSG Centre at Bukit Canberra. For other SSO queries, email Ask_SSO@msf.gov.sg."
+  },
+  {
+    "area": "Sengkang",
+    "name": "Social Service Office @ Sengkang",
+    "address": "Blk 261C Sengkang East Way #01-506, Singapore 543261",
+    "postal_code": "543261",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Serangoon",
+    "name": "Social Service Office @ Serangoon",
+    "address": "Blk 332 Serangoon Ave 3 #01-257, Singapore 550332",
+    "postal_code": "550332",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Taman Jurong",
+    "name": "Social Service Office @ Taman Jurong",
+    "address": "301A Corporation Drive, Singapore 619773",
+    "postal_code": "619773",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Tampines",
+    "name": "Social Service Office @ Tampines",
+    "address": "ServiceSG Centre, Our Tampines Hub, 1 Tampines Walk #01-21, Singapore 528523",
+    "postal_code": "528523",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Toa Payoh",
+    "name": "Social Service Office @ Toa Payoh",
+    "address": "490 Lor 6 Toa Payoh #07-11 HDB Hub Bizthree, Singapore 310490",
+    "postal_code": "310490",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Woodlands",
+    "name": "Social Service Office @ Woodlands",
+    "address": "ServiceSG Centre, 900 South Woodlands Drive, Woodlands Civic Centre #03-01A, Singapore 730900",
+    "postal_code": "730900",
+    "remote_only": false,
+    "remarks": null
+  },
+  {
+    "area": "Yishun",
+    "name": "Social Service Office @ Yishun",
+    "address": "Blk 746 Yishun Street 72 #01-127, Singapore 760746",
+    "postal_code": "760746",
+    "remote_only": false,
+    "remarks": null
+  }
+]

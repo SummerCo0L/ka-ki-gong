@@ -1,0 +1,6 @@
+{
+  "embedding_model": "openai/text-embedding-3-small",
+  "dim": 1536,
+  "scheme_count": 303,
+  "created_at": "2026-09-06T10:00:11.343961+00:00"
+}
